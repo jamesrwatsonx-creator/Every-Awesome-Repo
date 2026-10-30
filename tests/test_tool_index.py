@@ -70,7 +70,7 @@ class TestIndividualIndex(unittest.TestCase):
         data = indexer.merge(empty(), indexer.extract_markdown("source/awesome-data", SHA, "README.md", SAMPLE))
         tool = next(t for t in data["tools"] if t["github_repository"] == "example/raster")
         upstream = (
-            SHA, "# Raster\\n\\nRaster is a library for reading and writing images with SQL.\\n",
+            SHA, "# Raster\n\nRaster is a library for reading and writing images with SQL.\n",
             {"license": {"spdx_id": "MIT"}, "stargazers_count": 12, "pushed_at": None}
         )
         with patch.object(indexer, "fetch_readme", return_value=upstream):
