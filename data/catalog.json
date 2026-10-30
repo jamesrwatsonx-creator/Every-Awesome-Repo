@@ -1,0 +1,6361 @@
+{
+  "schema_version": "1.0.0",
+  "project": "Every Awesome Repo",
+  "purpose": "Discover and evaluate reusable open-source resources for any future application idea",
+  "snapshot_date": "2026-10-29",
+  "provenance": "270 ranked category entries plus all 34 screenshot sources (five previously missing), deduplicated by repository identity",
+  "notes": [
+    "Star counts are a historical snapshot, not live ranks.",
+    "Discovery tags reflect collection categories and are suggestions, not confirmed capabilities of each linked tool.",
+    "Repositories and their nested projects have their own licenses; linking is not mirroring or sublicensing."
+  ],
+  "categories": [
+    {
+      "id": "C01",
+      "name": "OSINT & information discovery",
+      "discovery_tags": [
+        "osint",
+        "investigation",
+        "information-discovery"
+      ]
+    },
+    {
+      "id": "C02",
+      "name": "MCP servers & integrations",
+      "discovery_tags": [
+        "mcp",
+        "tool-integration",
+        "agent-connectors"
+      ]
+    },
+    {
+      "id": "C03",
+      "name": "AI agents & specialized tools",
+      "discovery_tags": [
+        "ai-agents",
+        "agent-skills",
+        "agent-orchestration"
+      ]
+    },
+    {
+      "id": "C04",
+      "name": "Scraping & extraction",
+      "discovery_tags": [
+        "web-scraping",
+        "crawling",
+        "data-extraction"
+      ]
+    },
+    {
+      "id": "C05",
+      "name": "APIs & public datasets",
+      "discovery_tags": [
+        "public-apis",
+        "datasets",
+        "open-data"
+      ]
+    },
+    {
+      "id": "C06",
+      "name": "Geographic intelligence",
+      "discovery_tags": [
+        "geospatial",
+        "maps",
+        "gis",
+        "remote-sensing"
+      ]
+    },
+    {
+      "id": "C07",
+      "name": "Competitive & change intelligence",
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ]
+    },
+    {
+      "id": "C08",
+      "name": "Data engineering & relational joins",
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ]
+    },
+    {
+      "id": "C09",
+      "name": "Additional specialized intelligence",
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "forecasting",
+        "business-intelligence"
+      ]
+    },
+    {
+      "id": "C10",
+      "name": "UI, UX & design systems",
+      "discovery_tags": [
+        "ui",
+        "ux",
+        "design-systems",
+        "components"
+      ]
+    },
+    {
+      "id": "C11",
+      "name": "Frontend & interactive experiences",
+      "discovery_tags": [
+        "frontend",
+        "web-development",
+        "interactive-experiences"
+      ]
+    },
+    {
+      "id": "C12",
+      "name": "Mobile, desktop & cross-platform apps",
+      "discovery_tags": [
+        "mobile",
+        "desktop",
+        "cross-platform"
+      ]
+    },
+    {
+      "id": "C13",
+      "name": "Backend & full-stack development",
+      "discovery_tags": [
+        "backend",
+        "full-stack",
+        "apis",
+        "frameworks"
+      ]
+    },
+    {
+      "id": "C14",
+      "name": "AI models, machine learning & RAG",
+      "discovery_tags": [
+        "machine-learning",
+        "llm",
+        "rag",
+        "model-evaluation"
+      ]
+    },
+    {
+      "id": "C15",
+      "name": "Generative media & creative AI",
+      "discovery_tags": [
+        "generative-ai",
+        "creative-media",
+        "image-video"
+      ]
+    },
+    {
+      "id": "C16",
+      "name": "Voice, speech & real-time communication",
+      "discovery_tags": [
+        "speech",
+        "voice",
+        "audio",
+        "realtime-communication"
+      ]
+    },
+    {
+      "id": "C17",
+      "name": "Automation & workflow orchestration",
+      "discovery_tags": [
+        "automation",
+        "workflows",
+        "orchestration"
+      ]
+    },
+    {
+      "id": "C18",
+      "name": "Databases, analytics & visualization",
+      "discovery_tags": [
+        "databases",
+        "analytics",
+        "visualization"
+      ]
+    },
+    {
+      "id": "C19",
+      "name": "E-commerce, payments & fintech",
+      "discovery_tags": [
+        "ecommerce",
+        "payments",
+        "fintech"
+      ]
+    },
+    {
+      "id": "C20",
+      "name": "Marketing, growth & creator infrastructure",
+      "discovery_tags": [
+        "marketing",
+        "growth",
+        "creator-tools"
+      ]
+    },
+    {
+      "id": "C21",
+      "name": "DevOps, cloud & self-hosting",
+      "discovery_tags": [
+        "devops",
+        "cloud",
+        "selfhosting"
+      ]
+    },
+    {
+      "id": "C22",
+      "name": "Cybersecurity, identity & software quality",
+      "discovery_tags": [
+        "security",
+        "privacy",
+        "identity",
+        "testing"
+      ]
+    },
+    {
+      "id": "C23",
+      "name": "Blockchain, Web3 & decentralized systems",
+      "discovery_tags": [
+        "blockchain",
+        "web3",
+        "decentralization"
+      ]
+    },
+    {
+      "id": "C24",
+      "name": "Gaming, simulation & spatial computing",
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ]
+    },
+    {
+      "id": "C25",
+      "name": "Robotics, hardware & physical AI",
+      "discovery_tags": [
+        "robotics",
+        "hardware",
+        "iot",
+        "physical-ai"
+      ]
+    },
+    {
+      "id": "C26",
+      "name": "Education, science & specialized industries",
+      "discovery_tags": [
+        "education",
+        "science",
+        "industry-tools"
+      ]
+    },
+    {
+      "id": "C27",
+      "name": "Developer productivity & knowledge tools",
+      "discovery_tags": [
+        "developer-tools",
+        "productivity",
+        "documentation"
+      ]
+    }
+  ],
+  "repositories": [
+    {
+      "repository": "jivoi/awesome-osint",
+      "url": "https://github.com/jivoi/awesome-osint",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 30556,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "edoardottt/awesome-hacker-search-engines",
+      "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 11442,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "cipher387/osint_stuff_tool_collection",
+      "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 9017,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Astrosp/Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 4606,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rawfilejson/awesome-osint-arsenal",
+      "url": "https://github.com/rawfilejson/awesome-osint-arsenal",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 3527,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "redhuntlabs/Awesome-Asset-Discovery",
+      "url": "https://github.com/redhuntlabs/Awesome-Asset-Discovery",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 2888,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ARPSyndicate/awesome-intelligence",
+      "url": "https://github.com/ARPSyndicate/awesome-intelligence",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 2425,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "OffcierCia/On-Chain-Investigations-Tools-List",
+      "url": "https://github.com/OffcierCia/On-Chain-Investigations-Tools-List",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 1978,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "soxoj/awesome-osint-mcp-servers",
+      "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 535,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "tracelabs/awesome-osint",
+      "url": "https://github.com/tracelabs/awesome-osint",
+      "primary_category": "OSINT & information discovery",
+      "categories": [
+        "OSINT & information discovery"
+      ],
+      "discovery_tags": [
+        "information-discovery",
+        "investigation",
+        "osint"
+      ],
+      "stars": 432,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 97043,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "yzfly/Awesome-MCP-ZH",
+      "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 7790,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "punkpeye/awesome-mcp-clients",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 6616,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "appcypher/awesome-mcp-servers",
+      "url": "https://github.com/appcypher/awesome-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 5811,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wong2/awesome-mcp-servers",
+      "url": "https://github.com/wong2/awesome-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 4393,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "punkpeye/awesome-remote-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 2208,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rohitg00/awesome-devops-mcp-servers",
+      "url": "https://github.com/rohitg00/awesome-devops-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 1028,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "TensorBlock/awesome-mcp-servers",
+      "url": "https://github.com/TensorBlock/awesome-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 998,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ai-boost/awesome-a2a",
+      "url": "https://github.com/ai-boost/awesome-a2a",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 703,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "demcp/awesome-web3-mcp-servers",
+      "url": "https://github.com/demcp/awesome-web3-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 615,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools",
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents",
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 143438,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 48740,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 40570,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 36584,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "e2b-dev/awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 30708,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dipakkr/awesome-ai-engineering",
+      "url": "https://github.com/dipakkr/awesome-ai-engineering",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 22489,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Arindam200/awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 16651,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "awesome-opencode/awesome-opencode",
+      "url": "https://github.com/awesome-opencode/awesome-opencode",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 10781,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "nibzard/awesome-agentic-patterns",
+      "url": "https://github.com/nibzard/awesome-agentic-patterns",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 5055,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "kyrolabs/awesome-agents",
+      "url": "https://github.com/kyrolabs/awesome-agents",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 2973,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "lorien/awesome-web-scraping",
+      "url": "https://github.com/lorien/awesome-web-scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 8198,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Germey/AwesomeWebScraping",
+      "url": "https://github.com/Germey/AwesomeWebScraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 265,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "h4ckf0r0day/awesome-ai-web-scraping",
+      "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 117,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "luminati-io/Awesome-Web-Scraping",
+      "url": "https://github.com/luminati-io/Awesome-Web-Scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 28,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "spinov001-art/awesome-web-scraping-2026",
+      "url": "https://github.com/spinov001-art/awesome-web-scraping-2026",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 27,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ScrapeRouter/awesome-scraping",
+      "url": "https://github.com/ScrapeRouter/awesome-scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 18,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "edwardtay/awesome-scrapers",
+      "url": "https://github.com/edwardtay/awesome-scrapers",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 18,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ipqwery/awesome-web-scraping",
+      "url": "https://github.com/ipqwery/awesome-web-scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 13,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pablohoffman/awesome-web-scraping",
+      "url": "https://github.com/pablohoffman/awesome-web-scraping",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 13,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools",
+      "url": "https://github.com/the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools",
+      "primary_category": "Scraping & extraction",
+      "categories": [
+        "Scraping & extraction"
+      ],
+      "discovery_tags": [
+        "crawling",
+        "data-extraction",
+        "web-scraping"
+      ],
+      "stars": 12,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 493250,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "awesomedata/awesome-public-datasets",
+      "url": "https://github.com/awesomedata/awesome-public-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 79843,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "public-api-lists/public-api-lists",
+      "url": "https://github.com/public-api-lists/public-api-lists",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 16254,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "marcelscruz/public-apis",
+      "url": "https://github.com/marcelscruz/public-apis",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 9654,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "bytewax/awesome-public-real-time-datasets",
+      "url": "https://github.com/bytewax/awesome-public-real-time-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 2966,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jonathanwvd/awesome-industrial-datasets",
+      "url": "https://github.com/jonathanwvd/awesome-industrial-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 615,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ColinEberhardt/awesome-public-streaming-datasets",
+      "url": "https://github.com/ColinEberhardt/awesome-public-streaming-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 460,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "italia/awesome-italian-public-datasets",
+      "url": "https://github.com/italia/awesome-italian-public-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 336,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "nickls/awesome-healthcare-datasets",
+      "url": "https://github.com/nickls/awesome-healthcare-datasets",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 127,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "alexandresanlim/public-apis-no-auth-only",
+      "url": "https://github.com/alexandresanlim/public-apis-no-auth-only",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 39,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sshuair/awesome-gis",
+      "url": "https://github.com/sshuair/awesome-gis",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 5606,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sacridini/Awesome-Geospatial",
+      "url": "https://github.com/sacridini/Awesome-Geospatial",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 5352,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "softwareunderground/awesome-open-geoscience",
+      "url": "https://github.com/softwareunderground/awesome-open-geoscience",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 1867,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "acgeospatial/awesome-earthobservation-code",
+      "url": "https://github.com/acgeospatial/awesome-earthobservation-code",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 1389,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "opengeos/Awesome-GEE",
+      "url": "https://github.com/opengeos/Awesome-GEE",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 1256,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "samapriya/awesome-gee-community-datasets",
+      "url": "https://github.com/samapriya/awesome-gee-community-datasets",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 1246,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "osmlab/awesome-openstreetmap",
+      "url": "https://github.com/osmlab/awesome-openstreetmap",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 1024,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pka/awesome-georust",
+      "url": "https://github.com/pka/awesome-georust",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 416,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "attibalazs/awesome-remote-sensing",
+      "url": "https://github.com/attibalazs/awesome-remote-sensing",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 115,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "iamtekson/awesome-geospatial-data-sources",
+      "url": "https://github.com/iamtekson/awesome-geospatial-data-sources",
+      "primary_category": "Geographic intelligence",
+      "categories": [
+        "Geographic intelligence"
+      ],
+      "discovery_tags": [
+        "geospatial",
+        "gis",
+        "maps",
+        "remote-sensing"
+      ],
+      "stars": 73,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "edgi-govdata-archiving/awesome-website-change-monitoring",
+      "url": "https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 514,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dgtlmoon/awesome-website-change-monitoring",
+      "url": "https://github.com/dgtlmoon/awesome-website-change-monitoring",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 7,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "IntelCue/awesome-competitive-intelligence",
+      "url": "https://github.com/IntelCue/awesome-competitive-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 6,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Rainmaker-Ventures/awesome-competitive-intelligence-and-monitoring",
+      "url": "https://github.com/Rainmaker-Ventures/awesome-competitive-intelligence-and-monitoring",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 5,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "fly0pants/awesome-ad-intelligence",
+      "url": "https://github.com/fly0pants/awesome-ad-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "tripkrant/awesome-competitive-intelligence",
+      "url": "https://github.com/tripkrant/awesome-competitive-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "patwalls/awesome-competitive-intelligence",
+      "url": "https://github.com/patwalls/awesome-competitive-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "patwalls/awesome-competitive-intelligence-and-monitoring",
+      "url": "https://github.com/patwalls/awesome-competitive-intelligence-and-monitoring",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "oxnr/awesome-competitive-intelligence",
+      "url": "https://github.com/oxnr/awesome-competitive-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 0,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "newlylights/awesome-competitive-intelligence",
+      "url": "https://github.com/newlylights/awesome-competitive-intelligence",
+      "primary_category": "Competitive & change intelligence",
+      "categories": [
+        "Competitive & change intelligence"
+      ],
+      "discovery_tags": [
+        "competitive-intelligence",
+        "monitoring",
+        "website-changes"
+      ],
+      "stars": 0,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "igorbarinov/awesome-data-engineering",
+      "url": "https://github.com/igorbarinov/awesome-data-engineering",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 9217,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "husthuke/awesome-knowledge-graph",
+      "url": "https://github.com/husthuke/awesome-knowledge-graph",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 5175,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gunnarmorling/awesome-opensource-data-engineering",
+      "url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 3308,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "totogo/awesome-knowledge-graph",
+      "url": "https://github.com/totogo/awesome-knowledge-graph",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 1905,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "BrambleXu/knowledge-graph-learning",
+      "url": "https://github.com/BrambleXu/knowledge-graph-learning",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 782,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pracdata/awesome-open-source-data-engineering",
+      "url": "https://github.com/pracdata/awesome-open-source-data-engineering",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 620,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "snird/awesome-data-engineering-learning",
+      "url": "https://github.com/snird/awesome-data-engineering-learning",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 545,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mistercrunch/awesome-data-engineering",
+      "url": "https://github.com/mistercrunch/awesome-data-engineering",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 509,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "OlivierBinette/Awesome-Entity-Resolution",
+      "url": "https://github.com/OlivierBinette/Awesome-Entity-Resolution",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 137,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Senzing/awesome",
+      "url": "https://github.com/Senzing/awesome",
+      "primary_category": "Data engineering & relational joins",
+      "categories": [
+        "Data engineering & relational joins"
+      ],
+      "discovery_tags": [
+        "data-engineering",
+        "entity-resolution",
+        "knowledge-graphs"
+      ],
+      "stars": 67,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "qingsongedu/time-series-transformers-review",
+      "url": "https://github.com/qingsongedu/time-series-transformers-review",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 3023,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "iipc/awesome-web-archiving",
+      "url": "https://github.com/iipc/awesome-web-archiving",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 2673,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "thenaturalist/awesome-business-intelligence",
+      "url": "https://github.com/thenaturalist/awesome-business-intelligence",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 2335,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "MaxBenChrist/awesome_time_series_in_python",
+      "url": "https://github.com/MaxBenChrist/awesome_time_series_in_python",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 2266,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "qingsongedu/awesome-AI-for-time-series-papers",
+      "url": "https://github.com/qingsongedu/awesome-AI-for-time-series-papers",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 1634,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "TongjiFinLab/awesome-time-series-forecasting",
+      "url": "https://github.com/TongjiFinLab/awesome-time-series-forecasting",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 316,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rebase-energy/awesome-weather-models",
+      "url": "https://github.com/rebase-energy/awesome-weather-models",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 147,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pirate/awesome-web-archiving",
+      "url": "https://github.com/pirate/awesome-web-archiving",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 18,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "happyendpointhq/awesome-alternative-data",
+      "url": "https://github.com/happyendpointhq/awesome-alternative-data",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 3,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "JovaniPink/awesome-economic-data",
+      "url": "https://github.com/JovaniPink/awesome-economic-data",
+      "primary_category": "Additional specialized intelligence",
+      "categories": [
+        "Additional specialized intelligence"
+      ],
+      "discovery_tags": [
+        "alternative-data",
+        "archiving",
+        "business-intelligence",
+        "forecasting"
+      ],
+      "stars": 3,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 124486,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wasabeef/awesome-android-ui",
+      "url": "https://github.com/wasabeef/awesome-android-ui",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 58216,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "goabstract/Awesome-Design-Tools",
+      "url": "https://github.com/goabstract/Awesome-Design-Tools",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 41690,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "alexpate/awesome-design-systems",
+      "url": "https://github.com/alexpate/awesome-design-systems",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 26252,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "birobirobiro/awesome-shadcn-ui",
+      "url": "https://github.com/birobirobiro/awesome-shadcn-ui",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 20722,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gztchan/awesome-design",
+      "url": "https://github.com/gztchan/awesome-design",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 17714,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "cjwirth/awesome-ios-ui",
+      "url": "https://github.com/cjwirth/awesome-ios-ui",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems",
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "components",
+        "cross-platform",
+        "design-systems",
+        "desktop",
+        "mobile",
+        "ui",
+        "ux"
+      ],
+      "stars": 11223,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "greatfrontend/awesome-front-end-system-design",
+      "url": "https://github.com/greatfrontend/awesome-front-end-system-design",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 8603,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "VoltAgent/awesome-claude-design",
+      "url": "https://github.com/VoltAgent/awesome-claude-design",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 4259,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "xyflow/awesome-node-based-uis",
+      "url": "https://github.com/xyflow/awesome-node-based-uis",
+      "primary_category": "UI, UX & design systems",
+      "categories": [
+        "UI, UX & design systems"
+      ],
+      "discovery_tags": [
+        "components",
+        "design-systems",
+        "ui",
+        "ux"
+      ],
+      "stars": 3700,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "enaqx/awesome-react",
+      "url": "https://github.com/enaqx/awesome-react",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 75092,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "brillout/awesome-react-components",
+      "url": "https://github.com/brillout/awesome-react-components",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 48765,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "aniftyco/awesome-tailwindcss",
+      "url": "https://github.com/aniftyco/awesome-tailwindcss",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 15212,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "unicodeveloper/awesome-nextjs",
+      "url": "https://github.com/unicodeveloper/awesome-nextjs",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 11106,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rehooks/awesome-react-hooks",
+      "url": "https://github.com/rehooks/awesome-react-hooks",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 10271,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "troxler/awesome-css-frameworks",
+      "url": "https://github.com/troxler/awesome-css-frameworks",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 9561,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "awesome-css-group/awesome-css",
+      "url": "https://github.com/awesome-css-group/awesome-css",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 5646,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "JingwenTian/awesome-frontend",
+      "url": "https://github.com/JingwenTian/awesome-frontend",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 1742,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rajasegar/awesome-micro-frontends",
+      "url": "https://github.com/rajasegar/awesome-micro-frontends",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 1286,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "felipefialho/frontend-awesome",
+      "url": "https://github.com/felipefialho/frontend-awesome",
+      "primary_category": "Frontend & interactive experiences",
+      "categories": [
+        "Frontend & interactive experiences"
+      ],
+      "discovery_tags": [
+        "frontend",
+        "interactive-experiences",
+        "web-development"
+      ],
+      "stars": 472,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Solido/awesome-flutter",
+      "url": "https://github.com/Solido/awesome-flutter",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 61708,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "vsouza/awesome-ios",
+      "url": "https://github.com/vsouza/awesome-ios",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 53814,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jondot/awesome-react-native",
+      "url": "https://github.com/jondot/awesome-react-native",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 35705,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "JStumpp/awesome-android",
+      "url": "https://github.com/JStumpp/awesome-android",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 12430,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "opendigg/awesome-github-android-ui",
+      "url": "https://github.com/opendigg/awesome-github-android-ui",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 5781,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wasabeef/awesome-android-libraries",
+      "url": "https://github.com/wasabeef/awesome-android-libraries",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 5532,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "v5tech/awesome-ios-animation",
+      "url": "https://github.com/v5tech/awesome-ios-animation",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 5471,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "onmyway133/awesome-ios-architecture",
+      "url": "https://github.com/onmyway133/awesome-ios-architecture",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 5267,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "fluttergems/awesome-open-source-flutter-apps",
+      "url": "https://github.com/fluttergems/awesome-open-source-flutter-apps",
+      "primary_category": "Mobile, desktop & cross-platform apps",
+      "categories": [
+        "Mobile, desktop & cross-platform apps"
+      ],
+      "discovery_tags": [
+        "cross-platform",
+        "desktop",
+        "mobile"
+      ],
+      "stars": 3172,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 331184,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 191049,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sindresorhus/awesome-nodejs",
+      "url": "https://github.com/sindresorhus/awesome-nodejs",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 67301,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rust-unofficial/awesome-rust",
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 60190,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mahmoud/awesome-python-applications",
+      "url": "https://github.com/mahmoud/awesome-python-applications",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 18126,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sqreen/awesome-nodejs-projects",
+      "url": "https://github.com/sqreen/awesome-nodejs-projects",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 5591,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "zhashkevych/awesome-backend",
+      "url": "https://github.com/zhashkevych/awesome-backend",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 3498,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "bnb/awesome-awesome-nodejs",
+      "url": "https://github.com/bnb/awesome-awesome-nodejs",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 1636,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ManzDev/awesome-fullstack",
+      "url": "https://github.com/ManzDev/awesome-fullstack",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 33,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "augustogoulart/awesome-typescript-backends",
+      "url": "https://github.com/augustogoulart/awesome-typescript-backends",
+      "primary_category": "Backend & full-stack development",
+      "categories": [
+        "Backend & full-stack development"
+      ],
+      "discovery_tags": [
+        "apis",
+        "backend",
+        "frameworks",
+        "full-stack"
+      ],
+      "stars": 7,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "josephmisiti/awesome-machine-learning",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 74690,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Hannibal046/Awesome-LLM",
+      "url": "https://github.com/Hannibal046/Awesome-LLM",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 27463,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "AiHubCN/Awesome-Chinese-LLM",
+      "url": "https://github.com/AiHubCN/Awesome-Chinese-LLM",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 22769,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "EthicalML/awesome-production-machine-learning",
+      "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 21059,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "WangRongsheng/awesome-LLM-resources",
+      "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 9051,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "tensorchord/Awesome-LLMOps",
+      "url": "https://github.com/tensorchord/Awesome-LLMOps",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 5968,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "DEEP-PolyU/Awesome-GraphRAG",
+      "url": "https://github.com/DEEP-PolyU/Awesome-GraphRAG",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 2681,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "lizhe2004/Awesome-LLM-RAG-Application",
+      "url": "https://github.com/lizhe2004/Awesome-LLM-RAG-Application",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 1663,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jxzhangjhu/Awesome-LLM-RAG",
+      "url": "https://github.com/jxzhangjhu/Awesome-LLM-RAG",
+      "primary_category": "AI models, machine learning & RAG",
+      "categories": [
+        "AI models, machine learning & RAG"
+      ],
+      "discovery_tags": [
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "rag"
+      ],
+      "stars": 1371,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 30021,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "steven2358/awesome-generative-ai",
+      "url": "https://github.com/steven2358/awesome-generative-ai",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 12787,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ai-collection/ai-collection",
+      "url": "https://github.com/ai-collection/ai-collection",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 9257,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "JimmyLv/awesome-nano-banana",
+      "url": "https://github.com/JimmyLv/awesome-nano-banana",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 8807,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "showlab/Awesome-Video-Diffusion",
+      "url": "https://github.com/showlab/Awesome-Video-Diffusion",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 5821,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "filipecalegario/awesome-generative-ai",
+      "url": "https://github.com/filipecalegario/awesome-generative-ai",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 3563,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "altryne/awesome-ai-art-image-synthesis",
+      "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 1824,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ComfyUI-Workflow/awesome-comfyui",
+      "url": "https://github.com/ComfyUI-Workflow/awesome-comfyui",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 743,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Anil-matcha/awesome-generative-ai-apps",
+      "url": "https://github.com/Anil-matcha/awesome-generative-ai-apps",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 668,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wentianli/awesome-video-editing",
+      "url": "https://github.com/wentianli/awesome-video-editing",
+      "primary_category": "Generative media & creative AI",
+      "categories": [
+        "Generative media & creative AI"
+      ],
+      "discovery_tags": [
+        "creative-media",
+        "generative-ai",
+        "image-video"
+      ],
+      "stars": 101,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+      "url": "https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 3133,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sindresorhus/awesome-whisper",
+      "url": "https://github.com/sindresorhus/awesome-whisper",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 2422,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "libukai/Awesome-ChatTTS",
+      "url": "https://github.com/libukai/Awesome-ChatTTS",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 1884,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "WenzheLiu-Speech/awesome-speech-enhancement",
+      "url": "https://github.com/WenzheLiu-Speech/awesome-speech-enhancement",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 1253,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "nanahou/Awesome-Speech-Enhancement",
+      "url": "https://github.com/nanahou/Awesome-Speech-Enhancement",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 841,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "EnableSecurity/awesome-rtc-hacking",
+      "url": "https://github.com/EnableSecurity/awesome-rtc-hacking",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 557,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "metame-ai/awesome-audio-plaza",
+      "url": "https://github.com/metame-ai/awesome-audio-plaza",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 410,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "zycv/awesome-keyword-spotting",
+      "url": "https://github.com/zycv/awesome-keyword-spotting",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 294,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "nuzulul/awesome-webrtc",
+      "url": "https://github.com/nuzulul/awesome-webrtc",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 49,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wespeech/awesome-tts",
+      "url": "https://github.com/wespeech/awesome-tts",
+      "primary_category": "Voice, speech & real-time communication",
+      "categories": [
+        "Voice, speech & real-time communication"
+      ],
+      "discovery_tags": [
+        "audio",
+        "realtime-communication",
+        "speech",
+        "voice"
+      ],
+      "stars": 23,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "enescingoz/awesome-n8n-templates",
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 26168,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "atinfo/awesome-test-automation",
+      "url": "https://github.com/atinfo/awesome-test-automation",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 7202,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "restyler/awesome-n8n",
+      "url": "https://github.com/restyler/awesome-n8n",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 3000,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "networktocode/awesome-network-automation",
+      "url": "https://github.com/networktocode/awesome-network-automation",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 2871,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dariubs/awesome-workflow-automation",
+      "url": "https://github.com/dariubs/awesome-workflow-automation",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 1254,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "python-geeks/Automation-scripts",
+      "url": "https://github.com/python-geeks/Automation-scripts",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 1234,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "correlatedsecurity/Awesome-SOAR",
+      "url": "https://github.com/correlatedsecurity/Awesome-SOAR",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 1006,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "angrykoala/awesome-browser-automation",
+      "url": "https://github.com/angrykoala/awesome-browser-automation",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 651,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "felipfr/awesome-n8n-workflows",
+      "url": "https://github.com/felipfr/awesome-n8n-workflows",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 414,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rpabotsworld/awesome-rpa",
+      "url": "https://github.com/rpabotsworld/awesome-rpa",
+      "primary_category": "Automation & workflow orchestration",
+      "categories": [
+        "Automation & workflow orchestration"
+      ],
+      "discovery_tags": [
+        "automation",
+        "orchestration",
+        "workflows"
+      ],
+      "stars": 88,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dhamaniasad/awesome-postgres",
+      "url": "https://github.com/dhamaniasad/awesome-postgres",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 12126,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pingcap/awesome-database-learning",
+      "url": "https://github.com/pingcap/awesome-database-learning",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 11233,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "hal9ai/awesome-dataviz",
+      "url": "https://github.com/hal9ai/awesome-dataviz",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 4444,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "chartjs/awesome",
+      "url": "https://github.com/chartjs/awesome",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 2734,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jrieke/best-of-streamlit",
+      "url": "https://github.com/jrieke/best-of-streamlit",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 1417,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "xephonhq/awesome-time-series-database",
+      "url": "https://github.com/xephonhq/awesome-time-series-database",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 889,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "cube-js/awesome-tools",
+      "url": "https://github.com/cube-js/awesome-tools",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 214,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pg-tr/awesome-postgres",
+      "url": "https://github.com/pg-tr/awesome-postgres",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 212,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "alpers/awesome-data-visualization",
+      "url": "https://github.com/alpers/awesome-data-visualization",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 21,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "tkoyama010/awesome-python-data-visualization",
+      "url": "https://github.com/tkoyama010/awesome-python-data-visualization",
+      "primary_category": "Databases, analytics & visualization",
+      "categories": [
+        "Databases, analytics & visualization"
+      ],
+      "discovery_tags": [
+        "analytics",
+        "databases",
+        "visualization"
+      ],
+      "stars": 15,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "adrien2p/awesome-medusajs",
+      "url": "https://github.com/adrien2p/awesome-medusajs",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 636,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "olivrg/Awesome-Open-Source-eCommerce-Platforms",
+      "url": "https://github.com/olivrg/Awesome-Open-Source-eCommerce-Platforms",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 546,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "notrab/awesome-headless-commerce",
+      "url": "https://github.com/notrab/awesome-headless-commerce",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 467,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ScaleLeap/awesome-amazon-seller",
+      "url": "https://github.com/ScaleLeap/awesome-amazon-seller",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 450,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "lukecav/awesome-woocommerce",
+      "url": "https://github.com/lukecav/awesome-woocommerce",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 448,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "astrotars/awesome-ecommerce-stack",
+      "url": "https://github.com/astrotars/awesome-ecommerce-stack",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 443,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "LeCoupa/awesome-shopify",
+      "url": "https://github.com/LeCoupa/awesome-shopify",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 134,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "zachary/awesome-ecommerce",
+      "url": "https://github.com/zachary/awesome-ecommerce",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 78,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sandermangel/awesome-pwa-ecommerce",
+      "url": "https://github.com/sandermangel/awesome-pwa-ecommerce",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 72,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "MentionNetwork/awesome-agentic-commerce",
+      "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
+      "primary_category": "E-commerce, payments & fintech",
+      "categories": [
+        "E-commerce, payments & fintech"
+      ],
+      "discovery_tags": [
+        "ecommerce",
+        "fintech",
+        "payments"
+      ],
+      "stars": 65,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mmccaff/PlacesToPostYourStartup",
+      "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 8307,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "EdoStra/Marketing-for-Founders",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 7138,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "i365dev/awesome-seo",
+      "url": "https://github.com/i365dev/awesome-seo",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 2832,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "serpapi/awesome-seo-tools",
+      "url": "https://github.com/serpapi/awesome-seo-tools",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 1134,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "teles/awesome-seo",
+      "url": "https://github.com/teles/awesome-seo",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 885,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "marketingtoolslist/awesome-marketing",
+      "url": "https://github.com/marketingtoolslist/awesome-marketing",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 493,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ronakganatra/awesome-marketing",
+      "url": "https://github.com/ronakganatra/awesome-marketing",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 414,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "best-of-ai/awesome-ai-seo",
+      "url": "https://github.com/best-of-ai/awesome-ai-seo",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 321,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "paulbradish/awesome-digital-marketing",
+      "url": "https://github.com/paulbradish/awesome-digital-marketing",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 320,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "indie-hacking/Awesome-SEO-Backlinks",
+      "url": "https://github.com/indie-hacking/Awesome-SEO-Backlinks",
+      "primary_category": "Marketing, growth & creator infrastructure",
+      "categories": [
+        "Marketing, growth & creator infrastructure"
+      ],
+      "discovery_tags": [
+        "creator-tools",
+        "growth",
+        "marketing"
+      ],
+      "stars": 140,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 331799,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 254296,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "binhnguyennus/awesome-scalability",
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 75221,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "awesome-foss/awesome-sysadmin",
+      "url": "https://github.com/awesome-foss/awesome-sysadmin",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 35545,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ramitsurana/awesome-kubernetes",
+      "url": "https://github.com/ramitsurana/awesome-kubernetes",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 16131,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "visenger/awesome-mlops",
+      "url": "https://github.com/visenger/awesome-mlops",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 14255,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dastergon/awesome-sre",
+      "url": "https://github.com/dastergon/awesome-sre",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 13745,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wmariuss/awesome-devops",
+      "url": "https://github.com/wmariuss/awesome-devops",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 4443,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ligurio/awesome-ci",
+      "url": "https://github.com/ligurio/awesome-ci",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 4175,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rootsongjc/awesome-cloud-native",
+      "url": "https://github.com/rootsongjc/awesome-cloud-native",
+      "primary_category": "DevOps, cloud & self-hosting",
+      "categories": [
+        "DevOps, cloud & self-hosting"
+      ],
+      "discovery_tags": [
+        "cloud",
+        "devops",
+        "selfhosting"
+      ],
+      "stars": 2543,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Hack-with-Github/Awesome-Hacking",
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 124019,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pluja/awesome-privacy",
+      "url": "https://github.com/pluja/awesome-privacy",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 20137,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sbilly/awesome-security",
+      "url": "https://github.com/sbilly/awesome-security",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 15051,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "qazbnm456/awesome-web-security",
+      "url": "https://github.com/qazbnm456/awesome-web-security",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 13977,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "hslatman/awesome-threat-intelligence",
+      "url": "https://github.com/hslatman/awesome-threat-intelligence",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 10792,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "lissy93/awesome-privacy",
+      "url": "https://github.com/lissy93/awesome-privacy",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 10025,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "meirwah/awesome-incident-response",
+      "url": "https://github.com/meirwah/awesome-incident-response",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 9513,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "paragonie/awesome-appsec",
+      "url": "https://github.com/paragonie/awesome-appsec",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 7126,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "kdeldycke/awesome-iam",
+      "url": "https://github.com/kdeldycke/awesome-iam",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 2312,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "pomerium/awesome-zero-trust",
+      "url": "https://github.com/pomerium/awesome-zero-trust",
+      "primary_category": "Cybersecurity, identity & software quality",
+      "categories": [
+        "Cybersecurity, identity & software quality"
+      ],
+      "discovery_tags": [
+        "identity",
+        "privacy",
+        "security",
+        "testing"
+      ],
+      "stars": 775,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "chaozh/awesome-blockchain-cn",
+      "url": "https://github.com/chaozh/awesome-blockchain-cn",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 18942,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "OffcierCia/DeFi-Developer-Road-Map",
+      "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 10879,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "openblockchains/awesome-blockchains",
+      "url": "https://github.com/openblockchains/awesome-blockchains",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 3783,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rust-in-blockchain/awesome-blockchain-rust",
+      "url": "https://github.com/rust-in-blockchain/awesome-blockchain-rust",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 2827,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ong/awesome-decentralized-finance",
+      "url": "https://github.com/ong/awesome-decentralized-finance",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 1672,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "crytic/awesome-ethereum-security",
+      "url": "https://github.com/crytic/awesome-ethereum-security",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 1482,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "fltenwall/web3-awesome",
+      "url": "https://github.com/fltenwall/web3-awesome",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 1425,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "4337Mafia/awesome-account-abstraction",
+      "url": "https://github.com/4337Mafia/awesome-account-abstraction",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 1022,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ahmet/awesome-web3",
+      "url": "https://github.com/ahmet/awesome-web3",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 904,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Mikerah/awesome-foundations-of-DeFi",
+      "url": "https://github.com/Mikerah/awesome-foundations-of-DeFi",
+      "primary_category": "Blockchain, Web3 & decentralized systems",
+      "categories": [
+        "Blockchain, Web3 & decentralized systems"
+      ],
+      "discovery_tags": [
+        "blockchain",
+        "decentralization",
+        "web3"
+      ],
+      "stars": 230,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ellisonleao/magictools",
+      "url": "https://github.com/ellisonleao/magictools",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 17631,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "RyanNielson/awesome-unity",
+      "url": "https://github.com/RyanNielson/awesome-unity",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 7092,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gamedev-skills/awesome-gamedev-agent-skills",
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 5602,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gbdev/awesome-gbdev",
+      "url": "https://github.com/gbdev/awesome-gbdev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 4538,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "baba-s/awesome-unity-open-source-on-github",
+      "url": "https://github.com/baba-s/awesome-unity-open-source-on-github",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 4477,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "dawdle-deer/awesome-learn-gamedev",
+      "url": "https://github.com/dawdle-deer/awesome-learn-gamedev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 3589,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Calinou/awesome-gamedev",
+      "url": "https://github.com/Calinou/awesome-gamedev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 3204,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "stevinz/awesome-game-engine-dev",
+      "url": "https://github.com/stevinz/awesome-game-engine-dev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 1441,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gbadev-org/awesome-gbadev",
+      "url": "https://github.com/gbadev-org/awesome-gbadev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 1360,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mbrukman/awesome-game-dev",
+      "url": "https://github.com/mbrukman/awesome-game-dev",
+      "primary_category": "Gaming, simulation & spatial computing",
+      "categories": [
+        "Gaming, simulation & spatial computing"
+      ],
+      "discovery_tags": [
+        "gaming",
+        "simulation",
+        "spatial-computing"
+      ],
+      "stars": 571,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "rust-embedded/awesome-embedded-rust",
+      "url": "https://github.com/rust-embedded/awesome-embedded-rust",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 8167,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "kiloreux/awesome-robotics",
+      "url": "https://github.com/kiloreux/awesome-robotics",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 7267,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "phodal/awesome-iot",
+      "url": "https://github.com/phodal/awesome-iot",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 4634,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "GT-RIPL/Awesome-LLM-Robotics",
+      "url": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 4495,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jslee02/awesome-robotics-libraries",
+      "url": "https://github.com/jslee02/awesome-robotics-libraries",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 3097,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "YanjieZe/awesome-humanoid-robot-learning",
+      "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 2862,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "fkromer/awesome-ros2",
+      "url": "https://github.com/fkromer/awesome-ros2",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 2135,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+      "url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 1910,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mjyc/awesome-robotics-projects",
+      "url": "https://github.com/mjyc/awesome-robotics-projects",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 1824,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mathworks-robotics/awesome-matlab-robotics",
+      "url": "https://github.com/mathworks-robotics/awesome-matlab-robotics",
+      "primary_category": "Robotics, hardware & physical AI",
+      "categories": [
+        "Robotics, hardware & physical AI"
+      ],
+      "discovery_tags": [
+        "hardware",
+        "iot",
+        "physical-ai",
+        "robotics"
+      ],
+      "stars": 1738,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "academic/awesome-datascience",
+      "url": "https://github.com/academic/awesome-datascience",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 30248,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "wowlusitong/awesome-education",
+      "url": "https://github.com/wowlusitong/awesome-education",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 2195,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ai4s-research/awesome-ai-for-science",
+      "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 2059,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "yrgo/awesome-educational-games",
+      "url": "https://github.com/yrgo/awesome-educational-games",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 1201,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "gaerae/awesome-algorithms-education",
+      "url": "https://github.com/gaerae/awesome-algorithms-education",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 908,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "quobit/awesome-python-in-education",
+      "url": "https://github.com/quobit/awesome-python-in-education",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 907,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "mathworks/awesome-matlab-students",
+      "url": "https://github.com/mathworks/awesome-matlab-students",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 763,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "fffaraz/awesome-courses",
+      "url": "https://github.com/fffaraz/awesome-courses",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 423,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "GeminiLight/awesome-ai-llm4education",
+      "url": "https://github.com/GeminiLight/awesome-ai-llm4education",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 221,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "hkalant/awesome-edtech-tools",
+      "url": "https://github.com/hkalant/awesome-edtech-tools",
+      "primary_category": "Education, science & specialized industries",
+      "categories": [
+        "Education, science & specialized industries"
+      ],
+      "discovery_tags": [
+        "education",
+        "industry-tools",
+        "science"
+      ],
+      "stars": 217,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 526824,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 56865,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "agarrharr/awesome-cli-apps",
+      "url": "https://github.com/agarrharr/awesome-cli-apps",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 20583,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jamesmurdza/awesome-ai-devtools",
+      "url": "https://github.com/jamesmurdza/awesome-ai-devtools",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 3990,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "stefanbuck/awesome-browser-extensions-for-github",
+      "url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 3316,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "agamm/awesome-developer-first",
+      "url": "https://github.com/agamm/awesome-developer-first",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 1866,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "open-saas-directory/awesome-native-macosx-apps",
+      "url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 1661,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "bradAGI/awesome-cli-coding-agents",
+      "url": "https://github.com/bradAGI/awesome-cli-coding-agents",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 1427,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ml-tooling/best-of-python-dev",
+      "url": "https://github.com/ml-tooling/best-of-python-dev",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 1323,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "devtoolsd/awesome-devtools",
+      "url": "https://github.com/devtoolsd/awesome-devtools",
+      "primary_category": "Developer productivity & knowledge tools",
+      "categories": [
+        "Developer productivity & knowledge tools"
+      ],
+      "discovery_tags": [
+        "developer-tools",
+        "documentation",
+        "productivity"
+      ],
+      "stars": 687,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": false,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Christian-Sidak/awesome-mcp-tools",
+      "url": "https://github.com/Christian-Sidak/awesome-mcp-tools",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "Sagargupta16/awesome-mcp-servers",
+      "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+      "primary_category": "MCP servers & integrations",
+      "categories": [
+        "MCP servers & integrations"
+      ],
+      "discovery_tags": [
+        "agent-connectors",
+        "mcp",
+        "tool-integration"
+      ],
+      "stars": 27,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "ianwieds/awesome-ai-agents",
+      "url": "https://github.com/ianwieds/awesome-ai-agents",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 5,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "korchasa/awesome-ai-agents",
+      "url": "https://github.com/korchasa/awesome-ai-agents",
+      "primary_category": "AI agents & specialized tools",
+      "categories": [
+        "AI agents & specialized tools"
+      ],
+      "discovery_tags": [
+        "agent-orchestration",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "stars": 46,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "jasonniebauer/awesome-public-data-sources",
+      "url": "https://github.com/jasonniebauer/awesome-public-data-sources",
+      "primary_category": "APIs & public datasets",
+      "categories": [
+        "APIs & public datasets"
+      ],
+      "discovery_tags": [
+        "datasets",
+        "open-data",
+        "public-apis"
+      ],
+      "stars": 1,
+      "stars_checked_at": "2026-10-29",
+      "original_screenshot": true,
+      "source_kind": "external-curated-collection",
+      "review_status": "linked-not-audited",
+      "description": null,
+      "license_spdx_id": null,
+      "archived": null,
+      "pushed_at": null
+    }
+  ]
+}
