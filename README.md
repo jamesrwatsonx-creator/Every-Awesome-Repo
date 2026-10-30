@@ -50,33 +50,33 @@ You can also open **[the full directory](docs/CATALOG.md)** and browse by catego
 
 | # | Category | Linked collections |
 |---|---|---:|
-| 1 | [OSINT & information discovery](docs/CATALOG.md#osint-information-discovery) | 10 |
-| 2 | [MCP servers & integrations](docs/CATALOG.md#mcp-servers-integrations) | 12 |
-| 3 | [AI agents & specialized tools](docs/CATALOG.md#ai-agents-specialized-tools) | 12 |
-| 4 | [Scraping & extraction](docs/CATALOG.md#scraping-extraction) | 10 |
-| 5 | [APIs & public datasets](docs/CATALOG.md#apis-public-datasets) | 11 |
-| 6 | [Geographic intelligence](docs/CATALOG.md#geographic-intelligence) | 10 |
-| 7 | [Competitive & change intelligence](docs/CATALOG.md#competitive-change-intelligence) | 10 |
-| 8 | [Data engineering & relational joins](docs/CATALOG.md#data-engineering-relational-joins) | 10 |
-| 9 | [Additional specialized intelligence](docs/CATALOG.md#additional-specialized-intelligence) | 10 |
-| 10 | [UI, UX & design systems](docs/CATALOG.md#ui-ux-design-systems) | 10 |
-| 11 | [Frontend & interactive experiences](docs/CATALOG.md#frontend-interactive-experiences) | 10 |
-| 12 | [Mobile, desktop & cross-platform apps](docs/CATALOG.md#mobile-desktop-crossplatform-apps) | 10 |
-| 13 | [Backend & full-stack development](docs/CATALOG.md#backend-fullstack-development) | 10 |
-| 14 | [AI models, machine learning & RAG](docs/CATALOG.md#ai-models-machine-learning-rag) | 10 |
-| 15 | [Generative media & creative AI](docs/CATALOG.md#generative-media-creative-ai) | 10 |
-| 16 | [Voice, speech & real-time communication](docs/CATALOG.md#voice-speech-realtime-communication) | 10 |
-| 17 | [Automation & workflow orchestration](docs/CATALOG.md#automation-workflow-orchestration) | 10 |
-| 18 | [Databases, analytics & visualization](docs/CATALOG.md#databases-analytics-visualization) | 10 |
-| 19 | [E-commerce, payments & fintech](docs/CATALOG.md#ecommerce-payments-fintech) | 10 |
-| 20 | [Marketing, growth & creator infrastructure](docs/CATALOG.md#marketing-growth-creator-infrastructure) | 10 |
-| 21 | [DevOps, cloud & self-hosting](docs/CATALOG.md#devops-cloud-selfhosting) | 10 |
-| 22 | [Cybersecurity, identity & software quality](docs/CATALOG.md#cybersecurity-identity-software-quality) | 10 |
-| 23 | [Blockchain, Web3 & decentralized systems](docs/CATALOG.md#blockchain-web3-decentralized-systems) | 10 |
-| 24 | [Gaming, simulation & spatial computing](docs/CATALOG.md#gaming-simulation-spatial-computing) | 10 |
-| 25 | [Robotics, hardware & physical AI](docs/CATALOG.md#robotics-hardware-physical-ai) | 10 |
-| 26 | [Education, science & specialized industries](docs/CATALOG.md#education-science-specialized-industries) | 10 |
-| 27 | [Developer productivity & knowledge tools](docs/CATALOG.md#developer-productivity-knowledge-tools) | 10 |
+| 1 | [OSINT & information discovery](docs/CATALOG.md#category-01) | 10 |
+| 2 | [MCP servers & integrations](docs/CATALOG.md#category-02) | 12 |
+| 3 | [AI agents & specialized tools](docs/CATALOG.md#category-03) | 12 |
+| 4 | [Scraping & extraction](docs/CATALOG.md#category-04) | 10 |
+| 5 | [APIs & public datasets](docs/CATALOG.md#category-05) | 11 |
+| 6 | [Geographic intelligence](docs/CATALOG.md#category-06) | 10 |
+| 7 | [Competitive & change intelligence](docs/CATALOG.md#category-07) | 10 |
+| 8 | [Data engineering & relational joins](docs/CATALOG.md#category-08) | 10 |
+| 9 | [Additional specialized intelligence](docs/CATALOG.md#category-09) | 10 |
+| 10 | [UI, UX & design systems](docs/CATALOG.md#category-10) | 10 |
+| 11 | [Frontend & interactive experiences](docs/CATALOG.md#category-11) | 10 |
+| 12 | [Mobile, desktop & cross-platform apps](docs/CATALOG.md#category-12) | 10 |
+| 13 | [Backend & full-stack development](docs/CATALOG.md#category-13) | 10 |
+| 14 | [AI models, machine learning & RAG](docs/CATALOG.md#category-14) | 10 |
+| 15 | [Generative media & creative AI](docs/CATALOG.md#category-15) | 10 |
+| 16 | [Voice, speech & real-time communication](docs/CATALOG.md#category-16) | 10 |
+| 17 | [Automation & workflow orchestration](docs/CATALOG.md#category-17) | 10 |
+| 18 | [Databases, analytics & visualization](docs/CATALOG.md#category-18) | 10 |
+| 19 | [E-commerce, payments & fintech](docs/CATALOG.md#category-19) | 10 |
+| 20 | [Marketing, growth & creator infrastructure](docs/CATALOG.md#category-20) | 10 |
+| 21 | [DevOps, cloud & self-hosting](docs/CATALOG.md#category-21) | 10 |
+| 22 | [Cybersecurity, identity & software quality](docs/CATALOG.md#category-22) | 10 |
+| 23 | [Blockchain, Web3 & decentralized systems](docs/CATALOG.md#category-23) | 10 |
+| 24 | [Gaming, simulation & spatial computing](docs/CATALOG.md#category-24) | 10 |
+| 25 | [Robotics, hardware & physical AI](docs/CATALOG.md#category-25) | 10 |
+| 26 | [Education, science & specialized industries](docs/CATALOG.md#category-26) | 10 |
+| 27 | [Developer productivity & knowledge tools](docs/CATALOG.md#category-27) | 10 |
 
 ## How search works
 
