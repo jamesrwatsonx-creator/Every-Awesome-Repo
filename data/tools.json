@@ -5096,9 +5096,9 @@
           "repository": "james-brand/korea-market-data",
           "path": "README.md",
           "commit": "c0fc57db347d427b379cb7fd5379dd4cdf9f956a",
-          "line": 10,
-          "evidence_url": "https://github.com/james-brand/korea-market-data/blob/c0fc57db347d427b379cb7fd5379dd4cdf9f956a/README.md#L10",
-          "documented_statement": "are published daily by Korean institutions — in Korean, in formats built for domestic use."
+          "line": 6,
+          "evidence_url": "https://github.com/james-brand/korea-market-data/blob/c0fc57db347d427b379cb7fd5379dd4cdf9f956a/README.md#L6-L7",
+          "documented_statement": "Two datasets covering the Korean stock market (KOSPI and KOSDAQ), rebuilt every trading day from primary Korean sources and published in English, machine-readable, under CC BY 4.0."
         }
       ],
       "license_spdx_id": "CC-BY-4.0",
