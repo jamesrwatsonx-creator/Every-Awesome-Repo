@@ -1,0 +1,45 @@
+name: Seed individual tool evidence index
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: seed-individual-tool-index
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Offline tests (no external network)
+        run: python -m unittest discover -s tests -v
+      - name: Build starter evidence index from public collections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/index_tools.py --collection bytewax/awesome-public-real-time-datasets --limit 110 --enrich-repo james-brand/korea-market-data
+          python scripts/index_tools.py --collection sacridini/Awesome-Geospatial --limit 120 --enrich-repo ahuarte47/duckdb-raster --enrich-repo clarisma/geodesk --enrich-repo tidwall/tile38
+      - name: Verify standalone data application search
+        run: python scripts/search_tools.py "realtime weather" --json --limit 10 > /tmp/data-tools-results.json
+      - name: Validate indexed data
+        run: python -m unittest discover -s tests -v
+      - name: Commit bounded public seed on feature branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tools.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: seed data and geospatial child-tool evidence index"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push
+          fi
