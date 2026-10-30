@@ -46,6 +46,21 @@ python scripts/sync_metadata.py
 
 You can also open **[the full directory](docs/CATALOG.md)** and browse by category. Read **[AGENTS.md](AGENTS.md)** to give an AI coding agent a disciplined discovery-and-evaluation workflow.
 
+
+## Individual tools, APIs and evidence (optional second index)
+
+The original collection directory is unchanged. A separate **[individual-tool index](data/tools.json)** provides source-linked tools and public data APIs extracted from selected Awesome lists. It starts with 230 candidates from real-time datasets and geospatial software; most remain list-only leads, while four have a quoted, pinned statement from their own GitHub READMEs. Neither evidence level proves runtime compatibility or availability.
+
+**[How to use Every Awesome Repo by itself](docs/INDIVIDUAL-TOOLS.md)** — no Maliky installation is needed.
+
+```bash
+python scripts/search_tools.py "realtime transport data"
+python scripts/search_tools.py "geospatial database raster" --documented-only
+python scripts/search_tools.py "weather API" --json
+```
+
+Only call Maliky when you *also* want to compare these external candidates against your owned repository capabilities. The two catalogs are independent and never merge ownership or verification status.
+
 ## Browse the 27 categories
 
 | # | Category | Linked collections |
