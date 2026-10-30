@@ -1,0 +1,36 @@
+name: Refresh public GitHub metadata
+
+on:
+  schedule:
+    - cron: "30 10 * * 1" # Mondays at 10:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh metadata and regenerate directory
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_metadata.py
+      - name: Validate updated catalog
+        run: python -m unittest discover -s tests -v
+      - name: Commit changes when there are updates
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json data/catalog.csv docs/CATALOG.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh GitHub catalog metadata"
+            git push
+          fi
