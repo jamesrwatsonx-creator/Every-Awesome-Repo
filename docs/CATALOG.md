@@ -8,34 +8,35 @@ This is a **discovery index**, not a collection of copied upstream source code. 
 
 ## Categories
 
-1. [OSINT & information discovery](#osint-information-discovery)
-2. [MCP servers & integrations](#mcp-servers-integrations)
-3. [AI agents & specialized tools](#ai-agents-specialized-tools)
-4. [Scraping & extraction](#scraping-extraction)
-5. [APIs & public datasets](#apis-public-datasets)
-6. [Geographic intelligence](#geographic-intelligence)
-7. [Competitive & change intelligence](#competitive-change-intelligence)
-8. [Data engineering & relational joins](#data-engineering-relational-joins)
-9. [Additional specialized intelligence](#additional-specialized-intelligence)
-10. [UI, UX & design systems](#ui-ux-design-systems)
-11. [Frontend & interactive experiences](#frontend-interactive-experiences)
-12. [Mobile, desktop & cross-platform apps](#mobile-desktop-crossplatform-apps)
-13. [Backend & full-stack development](#backend-fullstack-development)
-14. [AI models, machine learning & RAG](#ai-models-machine-learning-rag)
-15. [Generative media & creative AI](#generative-media-creative-ai)
-16. [Voice, speech & real-time communication](#voice-speech-realtime-communication)
-17. [Automation & workflow orchestration](#automation-workflow-orchestration)
-18. [Databases, analytics & visualization](#databases-analytics-visualization)
-19. [E-commerce, payments & fintech](#ecommerce-payments-fintech)
-20. [Marketing, growth & creator infrastructure](#marketing-growth-creator-infrastructure)
-21. [DevOps, cloud & self-hosting](#devops-cloud-selfhosting)
-22. [Cybersecurity, identity & software quality](#cybersecurity-identity-software-quality)
-23. [Blockchain, Web3 & decentralized systems](#blockchain-web3-decentralized-systems)
-24. [Gaming, simulation & spatial computing](#gaming-simulation-spatial-computing)
-25. [Robotics, hardware & physical AI](#robotics-hardware-physical-ai)
-26. [Education, science & specialized industries](#education-science-specialized-industries)
-27. [Developer productivity & knowledge tools](#developer-productivity-knowledge-tools)
+1. [OSINT & information discovery](#category-01)
+2. [MCP servers & integrations](#category-02)
+3. [AI agents & specialized tools](#category-03)
+4. [Scraping & extraction](#category-04)
+5. [APIs & public datasets](#category-05)
+6. [Geographic intelligence](#category-06)
+7. [Competitive & change intelligence](#category-07)
+8. [Data engineering & relational joins](#category-08)
+9. [Additional specialized intelligence](#category-09)
+10. [UI, UX & design systems](#category-10)
+11. [Frontend & interactive experiences](#category-11)
+12. [Mobile, desktop & cross-platform apps](#category-12)
+13. [Backend & full-stack development](#category-13)
+14. [AI models, machine learning & RAG](#category-14)
+15. [Generative media & creative AI](#category-15)
+16. [Voice, speech & real-time communication](#category-16)
+17. [Automation & workflow orchestration](#category-17)
+18. [Databases, analytics & visualization](#category-18)
+19. [E-commerce, payments & fintech](#category-19)
+20. [Marketing, growth & creator infrastructure](#category-20)
+21. [DevOps, cloud & self-hosting](#category-21)
+22. [Cybersecurity, identity & software quality](#category-22)
+23. [Blockchain, Web3 & decentralized systems](#category-23)
+24. [Gaming, simulation & spatial computing](#category-24)
+25. [Robotics, hardware & physical AI](#category-25)
+26. [Education, science & specialized industries](#category-26)
+27. [Developer productivity & knowledge tools](#category-27)
 
+<a id="category-01"></a>
 ## 1. OSINT & information discovery
 
 Discovery tags: `osint` · `investigation` · `information-discovery`
@@ -51,6 +52,7 @@ Discovery tags: `osint` · `investigation` · `information-discovery`
 9. [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) — 535 stars
 10. [tracelabs/awesome-osint](https://github.com/tracelabs/awesome-osint) — 432 stars
 
+<a id="category-02"></a>
 ## 2. MCP servers & integrations
 
 Discovery tags: `mcp` · `tool-integration` · `agent-connectors`
@@ -68,6 +70,7 @@ Discovery tags: `mcp` · `tool-integration` · `agent-connectors`
 11. [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) — 27 stars · **original screenshot source**
 12. [Christian-Sidak/awesome-mcp-tools](https://github.com/Christian-Sidak/awesome-mcp-tools) — 1 stars · **original screenshot source**
 
+<a id="category-03"></a>
 ## 3. AI agents & specialized tools
 
 Discovery tags: `ai-agents` · `agent-skills` · `agent-orchestration`
@@ -85,6 +88,7 @@ Discovery tags: `ai-agents` · `agent-skills` · `agent-orchestration`
 11. [korchasa/awesome-ai-agents](https://github.com/korchasa/awesome-ai-agents) — 46 stars · **original screenshot source**
 12. [ianwieds/awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) — 5 stars · **original screenshot source**
 
+<a id="category-04"></a>
 ## 4. Scraping & extraction
 
 Discovery tags: `web-scraping` · `crawling` · `data-extraction`
@@ -100,6 +104,7 @@ Discovery tags: `web-scraping` · `crawling` · `data-extraction`
 9. [pablohoffman/awesome-web-scraping](https://github.com/pablohoffman/awesome-web-scraping) — 13 stars
 10. [the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools](https://github.com/the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools) — 12 stars
 
+<a id="category-05"></a>
 ## 5. APIs & public datasets
 
 Discovery tags: `public-apis` · `datasets` · `open-data`
@@ -116,6 +121,7 @@ Discovery tags: `public-apis` · `datasets` · `open-data`
 10. [alexandresanlim/public-apis-no-auth-only](https://github.com/alexandresanlim/public-apis-no-auth-only) — 39 stars
 11. [jasonniebauer/awesome-public-data-sources](https://github.com/jasonniebauer/awesome-public-data-sources) — 1 stars · **original screenshot source**
 
+<a id="category-06"></a>
 ## 6. Geographic intelligence
 
 Discovery tags: `geospatial` · `maps` · `gis` · `remote-sensing`
@@ -131,6 +137,7 @@ Discovery tags: `geospatial` · `maps` · `gis` · `remote-sensing`
 9. [attibalazs/awesome-remote-sensing](https://github.com/attibalazs/awesome-remote-sensing) — 115 stars · **original screenshot source**
 10. [iamtekson/awesome-geospatial-data-sources](https://github.com/iamtekson/awesome-geospatial-data-sources) — 73 stars · **original screenshot source**
 
+<a id="category-07"></a>
 ## 7. Competitive & change intelligence
 
 Discovery tags: `competitive-intelligence` · `monitoring` · `website-changes`
@@ -146,6 +153,7 @@ Discovery tags: `competitive-intelligence` · `monitoring` · `website-changes`
 9. [newlylights/awesome-competitive-intelligence](https://github.com/newlylights/awesome-competitive-intelligence) — 0 stars
 10. [oxnr/awesome-competitive-intelligence](https://github.com/oxnr/awesome-competitive-intelligence) — 0 stars
 
+<a id="category-08"></a>
 ## 8. Data engineering & relational joins
 
 Discovery tags: `data-engineering` · `entity-resolution` · `knowledge-graphs`
@@ -161,6 +169,7 @@ Discovery tags: `data-engineering` · `entity-resolution` · `knowledge-graphs`
 9. [OlivierBinette/Awesome-Entity-Resolution](https://github.com/OlivierBinette/Awesome-Entity-Resolution) — 137 stars · **original screenshot source**
 10. [Senzing/awesome](https://github.com/Senzing/awesome) — 67 stars
 
+<a id="category-09"></a>
 ## 9. Additional specialized intelligence
 
 Discovery tags: `alternative-data` · `archiving` · `forecasting` · `business-intelligence`
@@ -176,6 +185,7 @@ Discovery tags: `alternative-data` · `archiving` · `forecasting` · `business-
 9. [happyendpointhq/awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) — 3 stars · **original screenshot source**
 10. [JovaniPink/awesome-economic-data](https://github.com/JovaniPink/awesome-economic-data) — 3 stars
 
+<a id="category-10"></a>
 ## 10. UI, UX & design systems
 
 Discovery tags: `ui` · `ux` · `design-systems` · `components`
@@ -191,6 +201,7 @@ Discovery tags: `ui` · `ux` · `design-systems` · `components`
 9. [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) — 4,259 stars
 10. [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) — 3,700 stars
 
+<a id="category-11"></a>
 ## 11. Frontend & interactive experiences
 
 Discovery tags: `frontend` · `web-development` · `interactive-experiences`
@@ -206,6 +217,7 @@ Discovery tags: `frontend` · `web-development` · `interactive-experiences`
 9. [rajasegar/awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends) — 1,286 stars
 10. [felipefialho/frontend-awesome](https://github.com/felipefialho/frontend-awesome) — 472 stars
 
+<a id="category-12"></a>
 ## 12. Mobile, desktop & cross-platform apps
 
 Discovery tags: `mobile` · `desktop` · `cross-platform`
@@ -221,6 +233,7 @@ Discovery tags: `mobile` · `desktop` · `cross-platform`
 9. [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) — 5,267 stars
 10. [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps) — 3,172 stars
 
+<a id="category-13"></a>
 ## 13. Backend & full-stack development
 
 Discovery tags: `backend` · `full-stack` · `apis` · `frameworks`
@@ -236,6 +249,7 @@ Discovery tags: `backend` · `full-stack` · `apis` · `frameworks`
 9. [ManzDev/awesome-fullstack](https://github.com/ManzDev/awesome-fullstack) — 33 stars
 10. [augustogoulart/awesome-typescript-backends](https://github.com/augustogoulart/awesome-typescript-backends) — 7 stars
 
+<a id="category-14"></a>
 ## 14. AI models, machine learning & RAG
 
 Discovery tags: `machine-learning` · `llm` · `rag` · `model-evaluation`
@@ -251,6 +265,7 @@ Discovery tags: `machine-learning` · `llm` · `rag` · `model-evaluation`
 9. [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) — 1,663 stars
 10. [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) — 1,371 stars
 
+<a id="category-15"></a>
 ## 15. Generative media & creative AI
 
 Discovery tags: `generative-ai` · `creative-media` · `image-video`
@@ -266,6 +281,7 @@ Discovery tags: `generative-ai` · `creative-media` · `image-video`
 9. [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 668 stars
 10. [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing) — 101 stars
 
+<a id="category-16"></a>
 ## 16. Voice, speech & real-time communication
 
 Discovery tags: `speech` · `voice` · `audio` · `realtime-communication`
@@ -281,6 +297,7 @@ Discovery tags: `speech` · `voice` · `audio` · `realtime-communication`
 9. [nuzulul/awesome-webrtc](https://github.com/nuzulul/awesome-webrtc) — 49 stars
 10. [wespeech/awesome-tts](https://github.com/wespeech/awesome-tts) — 23 stars
 
+<a id="category-17"></a>
 ## 17. Automation & workflow orchestration
 
 Discovery tags: `automation` · `workflows` · `orchestration`
@@ -296,6 +313,7 @@ Discovery tags: `automation` · `workflows` · `orchestration`
 9. [felipfr/awesome-n8n-workflows](https://github.com/felipfr/awesome-n8n-workflows) — 414 stars
 10. [rpabotsworld/awesome-rpa](https://github.com/rpabotsworld/awesome-rpa) — 88 stars
 
+<a id="category-18"></a>
 ## 18. Databases, analytics & visualization
 
 Discovery tags: `databases` · `analytics` · `visualization`
@@ -311,6 +329,7 @@ Discovery tags: `databases` · `analytics` · `visualization`
 9. [alpers/awesome-data-visualization](https://github.com/alpers/awesome-data-visualization) — 21 stars
 10. [tkoyama010/awesome-python-data-visualization](https://github.com/tkoyama010/awesome-python-data-visualization) — 15 stars
 
+<a id="category-19"></a>
 ## 19. E-commerce, payments & fintech
 
 Discovery tags: `ecommerce` · `payments` · `fintech`
@@ -326,6 +345,7 @@ Discovery tags: `ecommerce` · `payments` · `fintech`
 9. [sandermangel/awesome-pwa-ecommerce](https://github.com/sandermangel/awesome-pwa-ecommerce) — 72 stars
 10. [MentionNetwork/awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) — 65 stars
 
+<a id="category-20"></a>
 ## 20. Marketing, growth & creator infrastructure
 
 Discovery tags: `marketing` · `growth` · `creator-tools`
@@ -341,6 +361,7 @@ Discovery tags: `marketing` · `growth` · `creator-tools`
 9. [paulbradish/awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) — 320 stars
 10. [indie-hacking/Awesome-SEO-Backlinks](https://github.com/indie-hacking/Awesome-SEO-Backlinks) — 140 stars
 
+<a id="category-21"></a>
 ## 21. DevOps, cloud & self-hosting
 
 Discovery tags: `devops` · `cloud` · `selfhosting`
@@ -356,6 +377,7 @@ Discovery tags: `devops` · `cloud` · `selfhosting`
 9. [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — 4,175 stars
 10. [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) — 2,543 stars
 
+<a id="category-22"></a>
 ## 22. Cybersecurity, identity & software quality
 
 Discovery tags: `security` · `privacy` · `identity` · `testing`
@@ -371,6 +393,7 @@ Discovery tags: `security` · `privacy` · `identity` · `testing`
 9. [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) — 2,312 stars
 10. [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) — 775 stars
 
+<a id="category-23"></a>
 ## 23. Blockchain, Web3 & decentralized systems
 
 Discovery tags: `blockchain` · `web3` · `decentralization`
@@ -386,6 +409,7 @@ Discovery tags: `blockchain` · `web3` · `decentralization`
 9. [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) — 904 stars
 10. [Mikerah/awesome-foundations-of-DeFi](https://github.com/Mikerah/awesome-foundations-of-DeFi) — 230 stars
 
+<a id="category-24"></a>
 ## 24. Gaming, simulation & spatial computing
 
 Discovery tags: `gaming` · `simulation` · `spatial-computing`
@@ -401,6 +425,7 @@ Discovery tags: `gaming` · `simulation` · `spatial-computing`
 9. [gbadev-org/awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) — 1,360 stars
 10. [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) — 571 stars
 
+<a id="category-25"></a>
 ## 25. Robotics, hardware & physical AI
 
 Discovery tags: `robotics` · `hardware` · `iot` · `physical-ai`
@@ -416,6 +441,7 @@ Discovery tags: `robotics` · `hardware` · `iot` · `physical-ai`
 9. [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) — 1,824 stars
 10. [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) — 1,738 stars
 
+<a id="category-26"></a>
 ## 26. Education, science & specialized industries
 
 Discovery tags: `education` · `science` · `industry-tools`
@@ -431,6 +457,7 @@ Discovery tags: `education` · `science` · `industry-tools`
 9. [GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) — 221 stars
 10. [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) — 217 stars
 
+<a id="category-27"></a>
 ## 27. Developer productivity & knowledge tools
 
 Discovery tags: `developer-tools` · `productivity` · `documentation`
