@@ -231,7 +231,7 @@ def enrich_github(entry: dict, *, token: str | None = None) -> bool:
         candidate = cleaned(line, 350)
         if (45 <= len(candidate) <= 350 and
             not line.lstrip().startswith(("#", "[", "!", "<", "|", "-", "*", ">", chr(96))) and
-            re.search(r"\b(is|are|provides|supports|allows|enables|offers|extension|library|database|data)\b",
+            re.search(r"\b(is|are|provides|supports|allows|enables|offers|extension|library|database|data|datasets|dataset|covering)\b",
                       candidate, re.IGNORECASE)):
             excerpt, line_no = candidate, number
             break
