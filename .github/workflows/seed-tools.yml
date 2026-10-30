@@ -1,14 +1,11 @@
 name: Seed individual tool evidence index
 
 on:
-  push:
-    branches: [feature/individual-tool-evidence-index]
-    paths:
-      - "scripts/index_tools.py"
-      - "scripts/search_tools.py"
-      - "tests/test_tool_index.py"
-      - ".github/workflows/seed-tools.yml"
   workflow_dispatch:
+
+concurrency:
+  group: seed-individual-tool-index
+  cancel-in-progress: false
 
 permissions:
   contents: write
