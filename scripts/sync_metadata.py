@@ -42,7 +42,7 @@ def export(data: dict) -> tuple[str, str]:
     seen = {x["repository"].lower() for x in records}
     if len(seen) != len(records):
         raise ValueError("Duplicate repository identities in catalog")
-    if any(c["name"] not in {x["name"] for x in categories} for r in records for c in r["categories"]):
+    if any(c not in {x["name"] for x in categories} for r in records for c in r["categories"]):
         raise ValueError("Unknown category in catalog")
 
     buf = io.StringIO()
