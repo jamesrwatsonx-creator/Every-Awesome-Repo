@@ -1,0 +1,276 @@
+category,repo,stars_snapshot,url,original_screenshot,discovery_tags
+OSINT & information discovery,jivoi/awesome-osint,30556,https://github.com/jivoi/awesome-osint,true,information-discovery;investigation;osint
+OSINT & information discovery,edoardottt/awesome-hacker-search-engines,11442,https://github.com/edoardottt/awesome-hacker-search-engines,false,information-discovery;investigation;osint
+OSINT & information discovery,cipher387/osint_stuff_tool_collection,9017,https://github.com/cipher387/osint_stuff_tool_collection,false,information-discovery;investigation;osint
+OSINT & information discovery,Astrosp/Awesome-OSINT-List,4606,https://github.com/Astrosp/Awesome-OSINT-List,true,information-discovery;investigation;osint
+OSINT & information discovery,rawfilejson/awesome-osint-arsenal,3527,https://github.com/rawfilejson/awesome-osint-arsenal,true,information-discovery;investigation;osint
+OSINT & information discovery,redhuntlabs/Awesome-Asset-Discovery,2888,https://github.com/redhuntlabs/Awesome-Asset-Discovery,false,information-discovery;investigation;osint
+OSINT & information discovery,ARPSyndicate/awesome-intelligence,2425,https://github.com/ARPSyndicate/awesome-intelligence,false,information-discovery;investigation;osint
+OSINT & information discovery,OffcierCia/On-Chain-Investigations-Tools-List,1978,https://github.com/OffcierCia/On-Chain-Investigations-Tools-List,false,information-discovery;investigation;osint
+OSINT & information discovery,soxoj/awesome-osint-mcp-servers,535,https://github.com/soxoj/awesome-osint-mcp-servers,false,information-discovery;investigation;osint
+OSINT & information discovery,tracelabs/awesome-osint,432,https://github.com/tracelabs/awesome-osint,false,information-discovery;investigation;osint
+MCP servers & integrations,punkpeye/awesome-mcp-servers,97043,https://github.com/punkpeye/awesome-mcp-servers,true,agent-connectors;mcp;tool-integration
+MCP servers & integrations,yzfly/Awesome-MCP-ZH,7790,https://github.com/yzfly/Awesome-MCP-ZH,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,punkpeye/awesome-mcp-clients,6616,https://github.com/punkpeye/awesome-mcp-clients,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,appcypher/awesome-mcp-servers,5811,https://github.com/appcypher/awesome-mcp-servers,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,wong2/awesome-mcp-servers,4393,https://github.com/wong2/awesome-mcp-servers,true,agent-connectors;mcp;tool-integration
+MCP servers & integrations,punkpeye/awesome-remote-mcp-servers,2208,https://github.com/punkpeye/awesome-remote-mcp-servers,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,rohitg00/awesome-devops-mcp-servers,1028,https://github.com/rohitg00/awesome-devops-mcp-servers,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,TensorBlock/awesome-mcp-servers,998,https://github.com/TensorBlock/awesome-mcp-servers,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,ai-boost/awesome-a2a,703,https://github.com/ai-boost/awesome-a2a,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,demcp/awesome-web3-mcp-servers,615,https://github.com/demcp/awesome-web3-mcp-servers,false,agent-connectors;mcp;tool-integration
+MCP servers & integrations,Sagargupta16/awesome-mcp-servers,27,https://github.com/Sagargupta16/awesome-mcp-servers,true,agent-connectors;mcp;tool-integration
+MCP servers & integrations,Christian-Sidak/awesome-mcp-tools,1,https://github.com/Christian-Sidak/awesome-mcp-tools,true,agent-connectors;mcp;tool-integration
+AI agents & specialized tools,Shubhamsaboo/awesome-llm-apps,143438,https://github.com/Shubhamsaboo/awesome-llm-apps,false,agent-orchestration;agent-skills;ai-agents;llm;machine-learning;model-evaluation;rag
+AI agents & specialized tools,sickn33/agentic-awesome-skills,48740,https://github.com/sickn33/agentic-awesome-skills,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,github/awesome-copilot,40570,https://github.com/github/awesome-copilot,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,VoltAgent/awesome-agent-skills,36584,https://github.com/VoltAgent/awesome-agent-skills,true,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,e2b-dev/awesome-ai-agents,30708,https://github.com/e2b-dev/awesome-ai-agents,true,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,dipakkr/awesome-ai-engineering,22489,https://github.com/dipakkr/awesome-ai-engineering,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,Arindam200/awesome-ai-apps,16651,https://github.com/Arindam200/awesome-ai-apps,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,awesome-opencode/awesome-opencode,10781,https://github.com/awesome-opencode/awesome-opencode,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,nibzard/awesome-agentic-patterns,5055,https://github.com/nibzard/awesome-agentic-patterns,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,kyrolabs/awesome-agents,2973,https://github.com/kyrolabs/awesome-agents,false,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,korchasa/awesome-ai-agents,46,https://github.com/korchasa/awesome-ai-agents,true,agent-orchestration;agent-skills;ai-agents
+AI agents & specialized tools,ianwieds/awesome-ai-agents,5,https://github.com/ianwieds/awesome-ai-agents,true,agent-orchestration;agent-skills;ai-agents
+Scraping & extraction,lorien/awesome-web-scraping,8198,https://github.com/lorien/awesome-web-scraping,true,crawling;data-extraction;web-scraping
+Scraping & extraction,Germey/AwesomeWebScraping,265,https://github.com/Germey/AwesomeWebScraping,true,crawling;data-extraction;web-scraping
+Scraping & extraction,h4ckf0r0day/awesome-ai-web-scraping,117,https://github.com/h4ckf0r0day/awesome-ai-web-scraping,true,crawling;data-extraction;web-scraping
+Scraping & extraction,luminati-io/Awesome-Web-Scraping,28,https://github.com/luminati-io/Awesome-Web-Scraping,false,crawling;data-extraction;web-scraping
+Scraping & extraction,spinov001-art/awesome-web-scraping-2026,27,https://github.com/spinov001-art/awesome-web-scraping-2026,false,crawling;data-extraction;web-scraping
+Scraping & extraction,edwardtay/awesome-scrapers,18,https://github.com/edwardtay/awesome-scrapers,false,crawling;data-extraction;web-scraping
+Scraping & extraction,ScrapeRouter/awesome-scraping,18,https://github.com/ScrapeRouter/awesome-scraping,true,crawling;data-extraction;web-scraping
+Scraping & extraction,ipqwery/awesome-web-scraping,13,https://github.com/ipqwery/awesome-web-scraping,false,crawling;data-extraction;web-scraping
+Scraping & extraction,pablohoffman/awesome-web-scraping,13,https://github.com/pablohoffman/awesome-web-scraping,false,crawling;data-extraction;web-scraping
+Scraping & extraction,the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools,12,https://github.com/the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools,false,crawling;data-extraction;web-scraping
+APIs & public datasets,public-apis/public-apis,493250,https://github.com/public-apis/public-apis,false,datasets;open-data;public-apis
+APIs & public datasets,awesomedata/awesome-public-datasets,79843,https://github.com/awesomedata/awesome-public-datasets,true,datasets;open-data;public-apis
+APIs & public datasets,public-api-lists/public-api-lists,16254,https://github.com/public-api-lists/public-api-lists,true,datasets;open-data;public-apis
+APIs & public datasets,marcelscruz/public-apis,9654,https://github.com/marcelscruz/public-apis,false,datasets;open-data;public-apis
+APIs & public datasets,bytewax/awesome-public-real-time-datasets,2966,https://github.com/bytewax/awesome-public-real-time-datasets,true,datasets;open-data;public-apis
+APIs & public datasets,jonathanwvd/awesome-industrial-datasets,615,https://github.com/jonathanwvd/awesome-industrial-datasets,false,datasets;open-data;public-apis
+APIs & public datasets,ColinEberhardt/awesome-public-streaming-datasets,460,https://github.com/ColinEberhardt/awesome-public-streaming-datasets,false,datasets;open-data;public-apis
+APIs & public datasets,italia/awesome-italian-public-datasets,336,https://github.com/italia/awesome-italian-public-datasets,false,datasets;open-data;public-apis
+APIs & public datasets,nickls/awesome-healthcare-datasets,127,https://github.com/nickls/awesome-healthcare-datasets,false,datasets;open-data;public-apis
+APIs & public datasets,alexandresanlim/public-apis-no-auth-only,39,https://github.com/alexandresanlim/public-apis-no-auth-only,false,datasets;open-data;public-apis
+APIs & public datasets,jasonniebauer/awesome-public-data-sources,1,https://github.com/jasonniebauer/awesome-public-data-sources,true,datasets;open-data;public-apis
+Geographic intelligence,sshuair/awesome-gis,5606,https://github.com/sshuair/awesome-gis,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,sacridini/Awesome-Geospatial,5352,https://github.com/sacridini/Awesome-Geospatial,true,geospatial;gis;maps;remote-sensing
+Geographic intelligence,softwareunderground/awesome-open-geoscience,1867,https://github.com/softwareunderground/awesome-open-geoscience,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,acgeospatial/awesome-earthobservation-code,1389,https://github.com/acgeospatial/awesome-earthobservation-code,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,opengeos/Awesome-GEE,1256,https://github.com/opengeos/Awesome-GEE,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,samapriya/awesome-gee-community-datasets,1246,https://github.com/samapriya/awesome-gee-community-datasets,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,osmlab/awesome-openstreetmap,1024,https://github.com/osmlab/awesome-openstreetmap,true,geospatial;gis;maps;remote-sensing
+Geographic intelligence,pka/awesome-georust,416,https://github.com/pka/awesome-georust,false,geospatial;gis;maps;remote-sensing
+Geographic intelligence,attibalazs/awesome-remote-sensing,115,https://github.com/attibalazs/awesome-remote-sensing,true,geospatial;gis;maps;remote-sensing
+Geographic intelligence,iamtekson/awesome-geospatial-data-sources,73,https://github.com/iamtekson/awesome-geospatial-data-sources,true,geospatial;gis;maps;remote-sensing
+Competitive & change intelligence,edgi-govdata-archiving/awesome-website-change-monitoring,514,https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring,true,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,dgtlmoon/awesome-website-change-monitoring,7,https://github.com/dgtlmoon/awesome-website-change-monitoring,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,IntelCue/awesome-competitive-intelligence,6,https://github.com/IntelCue/awesome-competitive-intelligence,true,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,Rainmaker-Ventures/awesome-competitive-intelligence-and-monitoring,5,https://github.com/Rainmaker-Ventures/awesome-competitive-intelligence-and-monitoring,true,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,fly0pants/awesome-ad-intelligence,1,https://github.com/fly0pants/awesome-ad-intelligence,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,patwalls/awesome-competitive-intelligence,1,https://github.com/patwalls/awesome-competitive-intelligence,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,patwalls/awesome-competitive-intelligence-and-monitoring,1,https://github.com/patwalls/awesome-competitive-intelligence-and-monitoring,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,tripkrant/awesome-competitive-intelligence,1,https://github.com/tripkrant/awesome-competitive-intelligence,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,newlylights/awesome-competitive-intelligence,0,https://github.com/newlylights/awesome-competitive-intelligence,false,competitive-intelligence;monitoring;website-changes
+Competitive & change intelligence,oxnr/awesome-competitive-intelligence,0,https://github.com/oxnr/awesome-competitive-intelligence,false,competitive-intelligence;monitoring;website-changes
+Data engineering & relational joins,igorbarinov/awesome-data-engineering,9217,https://github.com/igorbarinov/awesome-data-engineering,true,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,husthuke/awesome-knowledge-graph,5175,https://github.com/husthuke/awesome-knowledge-graph,true,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,gunnarmorling/awesome-opensource-data-engineering,3308,https://github.com/gunnarmorling/awesome-opensource-data-engineering,true,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,totogo/awesome-knowledge-graph,1905,https://github.com/totogo/awesome-knowledge-graph,false,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,BrambleXu/knowledge-graph-learning,782,https://github.com/BrambleXu/knowledge-graph-learning,false,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,pracdata/awesome-open-source-data-engineering,620,https://github.com/pracdata/awesome-open-source-data-engineering,false,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,snird/awesome-data-engineering-learning,545,https://github.com/snird/awesome-data-engineering-learning,false,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,mistercrunch/awesome-data-engineering,509,https://github.com/mistercrunch/awesome-data-engineering,false,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,OlivierBinette/Awesome-Entity-Resolution,137,https://github.com/OlivierBinette/Awesome-Entity-Resolution,true,data-engineering;entity-resolution;knowledge-graphs
+Data engineering & relational joins,Senzing/awesome,67,https://github.com/Senzing/awesome,false,data-engineering;entity-resolution;knowledge-graphs
+Additional specialized intelligence,qingsongedu/time-series-transformers-review,3023,https://github.com/qingsongedu/time-series-transformers-review,false,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,iipc/awesome-web-archiving,2673,https://github.com/iipc/awesome-web-archiving,true,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,thenaturalist/awesome-business-intelligence,2335,https://github.com/thenaturalist/awesome-business-intelligence,true,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,MaxBenChrist/awesome_time_series_in_python,2266,https://github.com/MaxBenChrist/awesome_time_series_in_python,false,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,qingsongedu/awesome-AI-for-time-series-papers,1634,https://github.com/qingsongedu/awesome-AI-for-time-series-papers,false,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,TongjiFinLab/awesome-time-series-forecasting,316,https://github.com/TongjiFinLab/awesome-time-series-forecasting,true,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,rebase-energy/awesome-weather-models,147,https://github.com/rebase-energy/awesome-weather-models,false,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,pirate/awesome-web-archiving,18,https://github.com/pirate/awesome-web-archiving,false,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,happyendpointhq/awesome-alternative-data,3,https://github.com/happyendpointhq/awesome-alternative-data,true,alternative-data;archiving;business-intelligence;forecasting
+Additional specialized intelligence,JovaniPink/awesome-economic-data,3,https://github.com/JovaniPink/awesome-economic-data,false,alternative-data;archiving;business-intelligence;forecasting
+"UI, UX & design systems",VoltAgent/awesome-design-md,124486,https://github.com/VoltAgent/awesome-design-md,false,components;design-systems;ui;ux
+"UI, UX & design systems",wasabeef/awesome-android-ui,58216,https://github.com/wasabeef/awesome-android-ui,false,components;design-systems;ui;ux
+"UI, UX & design systems",goabstract/Awesome-Design-Tools,41690,https://github.com/goabstract/Awesome-Design-Tools,false,components;design-systems;ui;ux
+"UI, UX & design systems",alexpate/awesome-design-systems,26252,https://github.com/alexpate/awesome-design-systems,false,components;design-systems;ui;ux
+"UI, UX & design systems",birobirobiro/awesome-shadcn-ui,20722,https://github.com/birobirobiro/awesome-shadcn-ui,false,components;design-systems;ui;ux
+"UI, UX & design systems",gztchan/awesome-design,17714,https://github.com/gztchan/awesome-design,false,components;design-systems;ui;ux
+"UI, UX & design systems",cjwirth/awesome-ios-ui,11223,https://github.com/cjwirth/awesome-ios-ui,false,components;cross-platform;design-systems;desktop;mobile;ui;ux
+"UI, UX & design systems",greatfrontend/awesome-front-end-system-design,8603,https://github.com/greatfrontend/awesome-front-end-system-design,false,components;design-systems;ui;ux
+"UI, UX & design systems",VoltAgent/awesome-claude-design,4259,https://github.com/VoltAgent/awesome-claude-design,false,components;design-systems;ui;ux
+"UI, UX & design systems",xyflow/awesome-node-based-uis,3700,https://github.com/xyflow/awesome-node-based-uis,false,components;design-systems;ui;ux
+Frontend & interactive experiences,enaqx/awesome-react,75092,https://github.com/enaqx/awesome-react,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,brillout/awesome-react-components,48765,https://github.com/brillout/awesome-react-components,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,aniftyco/awesome-tailwindcss,15212,https://github.com/aniftyco/awesome-tailwindcss,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,unicodeveloper/awesome-nextjs,11106,https://github.com/unicodeveloper/awesome-nextjs,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,rehooks/awesome-react-hooks,10271,https://github.com/rehooks/awesome-react-hooks,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,troxler/awesome-css-frameworks,9561,https://github.com/troxler/awesome-css-frameworks,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,awesome-css-group/awesome-css,5646,https://github.com/awesome-css-group/awesome-css,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,JingwenTian/awesome-frontend,1742,https://github.com/JingwenTian/awesome-frontend,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,rajasegar/awesome-micro-frontends,1286,https://github.com/rajasegar/awesome-micro-frontends,false,frontend;interactive-experiences;web-development
+Frontend & interactive experiences,felipefialho/frontend-awesome,472,https://github.com/felipefialho/frontend-awesome,false,frontend;interactive-experiences;web-development
+"Mobile, desktop & cross-platform apps",Solido/awesome-flutter,61708,https://github.com/Solido/awesome-flutter,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",vsouza/awesome-ios,53814,https://github.com/vsouza/awesome-ios,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",jondot/awesome-react-native,35705,https://github.com/jondot/awesome-react-native,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",JStumpp/awesome-android,12430,https://github.com/JStumpp/awesome-android,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",cjwirth/awesome-ios-ui,11223,https://github.com/cjwirth/awesome-ios-ui,false,components;cross-platform;design-systems;desktop;mobile;ui;ux
+"Mobile, desktop & cross-platform apps",opendigg/awesome-github-android-ui,5781,https://github.com/opendigg/awesome-github-android-ui,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",wasabeef/awesome-android-libraries,5532,https://github.com/wasabeef/awesome-android-libraries,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",v5tech/awesome-ios-animation,5471,https://github.com/v5tech/awesome-ios-animation,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",onmyway133/awesome-ios-architecture,5267,https://github.com/onmyway133/awesome-ios-architecture,false,cross-platform;desktop;mobile
+"Mobile, desktop & cross-platform apps",fluttergems/awesome-open-source-flutter-apps,3172,https://github.com/fluttergems/awesome-open-source-flutter-apps,false,cross-platform;desktop;mobile
+Backend & full-stack development,vinta/awesome-python,331184,https://github.com/vinta/awesome-python,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,avelino/awesome-go,191049,https://github.com/avelino/awesome-go,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,sindresorhus/awesome-nodejs,67301,https://github.com/sindresorhus/awesome-nodejs,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,rust-unofficial/awesome-rust,60190,https://github.com/rust-unofficial/awesome-rust,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,mahmoud/awesome-python-applications,18126,https://github.com/mahmoud/awesome-python-applications,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,sqreen/awesome-nodejs-projects,5591,https://github.com/sqreen/awesome-nodejs-projects,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,zhashkevych/awesome-backend,3498,https://github.com/zhashkevych/awesome-backend,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,bnb/awesome-awesome-nodejs,1636,https://github.com/bnb/awesome-awesome-nodejs,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,ManzDev/awesome-fullstack,33,https://github.com/ManzDev/awesome-fullstack,false,apis;backend;frameworks;full-stack
+Backend & full-stack development,augustogoulart/awesome-typescript-backends,7,https://github.com/augustogoulart/awesome-typescript-backends,false,apis;backend;frameworks;full-stack
+"AI models, machine learning & RAG",Shubhamsaboo/awesome-llm-apps,143438,https://github.com/Shubhamsaboo/awesome-llm-apps,false,agent-orchestration;agent-skills;ai-agents;llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",josephmisiti/awesome-machine-learning,74690,https://github.com/josephmisiti/awesome-machine-learning,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",Hannibal046/Awesome-LLM,27463,https://github.com/Hannibal046/Awesome-LLM,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",AiHubCN/Awesome-Chinese-LLM,22769,https://github.com/AiHubCN/Awesome-Chinese-LLM,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",EthicalML/awesome-production-machine-learning,21059,https://github.com/EthicalML/awesome-production-machine-learning,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",WangRongsheng/awesome-LLM-resources,9051,https://github.com/WangRongsheng/awesome-LLM-resources,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",tensorchord/Awesome-LLMOps,5968,https://github.com/tensorchord/Awesome-LLMOps,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",DEEP-PolyU/Awesome-GraphRAG,2681,https://github.com/DEEP-PolyU/Awesome-GraphRAG,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",lizhe2004/Awesome-LLM-RAG-Application,1663,https://github.com/lizhe2004/Awesome-LLM-RAG-Application,false,llm;machine-learning;model-evaluation;rag
+"AI models, machine learning & RAG",jxzhangjhu/Awesome-LLM-RAG,1371,https://github.com/jxzhangjhu/Awesome-LLM-RAG,false,llm;machine-learning;model-evaluation;rag
+Generative media & creative AI,aishwaryanr/awesome-generative-ai-guide,30021,https://github.com/aishwaryanr/awesome-generative-ai-guide,false,creative-media;generative-ai;image-video
+Generative media & creative AI,steven2358/awesome-generative-ai,12787,https://github.com/steven2358/awesome-generative-ai,false,creative-media;generative-ai;image-video
+Generative media & creative AI,ai-collection/ai-collection,9257,https://github.com/ai-collection/ai-collection,false,creative-media;generative-ai;image-video
+Generative media & creative AI,JimmyLv/awesome-nano-banana,8807,https://github.com/JimmyLv/awesome-nano-banana,false,creative-media;generative-ai;image-video
+Generative media & creative AI,showlab/Awesome-Video-Diffusion,5821,https://github.com/showlab/Awesome-Video-Diffusion,false,creative-media;generative-ai;image-video
+Generative media & creative AI,filipecalegario/awesome-generative-ai,3563,https://github.com/filipecalegario/awesome-generative-ai,false,creative-media;generative-ai;image-video
+Generative media & creative AI,altryne/awesome-ai-art-image-synthesis,1824,https://github.com/altryne/awesome-ai-art-image-synthesis,false,creative-media;generative-ai;image-video
+Generative media & creative AI,ComfyUI-Workflow/awesome-comfyui,743,https://github.com/ComfyUI-Workflow/awesome-comfyui,false,creative-media;generative-ai;image-video
+Generative media & creative AI,Anil-matcha/awesome-generative-ai-apps,668,https://github.com/Anil-matcha/awesome-generative-ai-apps,false,creative-media;generative-ai;image-video
+Generative media & creative AI,wentianli/awesome-video-editing,101,https://github.com/wentianli/awesome-video-editing,false,creative-media;generative-ai;image-video
+"Voice, speech & real-time communication",zzw922cn/awesome-speech-recognition-speech-synthesis-papers,3133,https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",sindresorhus/awesome-whisper,2422,https://github.com/sindresorhus/awesome-whisper,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",libukai/Awesome-ChatTTS,1884,https://github.com/libukai/Awesome-ChatTTS,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",WenzheLiu-Speech/awesome-speech-enhancement,1253,https://github.com/WenzheLiu-Speech/awesome-speech-enhancement,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",nanahou/Awesome-Speech-Enhancement,841,https://github.com/nanahou/Awesome-Speech-Enhancement,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",EnableSecurity/awesome-rtc-hacking,557,https://github.com/EnableSecurity/awesome-rtc-hacking,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",metame-ai/awesome-audio-plaza,410,https://github.com/metame-ai/awesome-audio-plaza,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",zycv/awesome-keyword-spotting,294,https://github.com/zycv/awesome-keyword-spotting,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",nuzulul/awesome-webrtc,49,https://github.com/nuzulul/awesome-webrtc,false,audio;realtime-communication;speech;voice
+"Voice, speech & real-time communication",wespeech/awesome-tts,23,https://github.com/wespeech/awesome-tts,false,audio;realtime-communication;speech;voice
+Automation & workflow orchestration,enescingoz/awesome-n8n-templates,26168,https://github.com/enescingoz/awesome-n8n-templates,false,automation;orchestration;workflows
+Automation & workflow orchestration,atinfo/awesome-test-automation,7202,https://github.com/atinfo/awesome-test-automation,false,automation;orchestration;workflows
+Automation & workflow orchestration,restyler/awesome-n8n,3000,https://github.com/restyler/awesome-n8n,false,automation;orchestration;workflows
+Automation & workflow orchestration,networktocode/awesome-network-automation,2871,https://github.com/networktocode/awesome-network-automation,false,automation;orchestration;workflows
+Automation & workflow orchestration,dariubs/awesome-workflow-automation,1254,https://github.com/dariubs/awesome-workflow-automation,false,automation;orchestration;workflows
+Automation & workflow orchestration,python-geeks/Automation-scripts,1234,https://github.com/python-geeks/Automation-scripts,false,automation;orchestration;workflows
+Automation & workflow orchestration,correlatedsecurity/Awesome-SOAR,1006,https://github.com/correlatedsecurity/Awesome-SOAR,false,automation;orchestration;workflows
+Automation & workflow orchestration,angrykoala/awesome-browser-automation,651,https://github.com/angrykoala/awesome-browser-automation,false,automation;orchestration;workflows
+Automation & workflow orchestration,felipfr/awesome-n8n-workflows,414,https://github.com/felipfr/awesome-n8n-workflows,false,automation;orchestration;workflows
+Automation & workflow orchestration,rpabotsworld/awesome-rpa,88,https://github.com/rpabotsworld/awesome-rpa,false,automation;orchestration;workflows
+"Databases, analytics & visualization",dhamaniasad/awesome-postgres,12126,https://github.com/dhamaniasad/awesome-postgres,false,analytics;databases;visualization
+"Databases, analytics & visualization",pingcap/awesome-database-learning,11233,https://github.com/pingcap/awesome-database-learning,false,analytics;databases;visualization
+"Databases, analytics & visualization",hal9ai/awesome-dataviz,4444,https://github.com/hal9ai/awesome-dataviz,false,analytics;databases;visualization
+"Databases, analytics & visualization",chartjs/awesome,2734,https://github.com/chartjs/awesome,false,analytics;databases;visualization
+"Databases, analytics & visualization",jrieke/best-of-streamlit,1417,https://github.com/jrieke/best-of-streamlit,false,analytics;databases;visualization
+"Databases, analytics & visualization",xephonhq/awesome-time-series-database,889,https://github.com/xephonhq/awesome-time-series-database,false,analytics;databases;visualization
+"Databases, analytics & visualization",cube-js/awesome-tools,214,https://github.com/cube-js/awesome-tools,false,analytics;databases;visualization
+"Databases, analytics & visualization",pg-tr/awesome-postgres,212,https://github.com/pg-tr/awesome-postgres,false,analytics;databases;visualization
+"Databases, analytics & visualization",alpers/awesome-data-visualization,21,https://github.com/alpers/awesome-data-visualization,false,analytics;databases;visualization
+"Databases, analytics & visualization",tkoyama010/awesome-python-data-visualization,15,https://github.com/tkoyama010/awesome-python-data-visualization,false,analytics;databases;visualization
+"E-commerce, payments & fintech",adrien2p/awesome-medusajs,636,https://github.com/adrien2p/awesome-medusajs,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",olivrg/Awesome-Open-Source-eCommerce-Platforms,546,https://github.com/olivrg/Awesome-Open-Source-eCommerce-Platforms,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",notrab/awesome-headless-commerce,467,https://github.com/notrab/awesome-headless-commerce,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",ScaleLeap/awesome-amazon-seller,450,https://github.com/ScaleLeap/awesome-amazon-seller,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",lukecav/awesome-woocommerce,448,https://github.com/lukecav/awesome-woocommerce,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",astrotars/awesome-ecommerce-stack,443,https://github.com/astrotars/awesome-ecommerce-stack,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",LeCoupa/awesome-shopify,134,https://github.com/LeCoupa/awesome-shopify,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",zachary/awesome-ecommerce,78,https://github.com/zachary/awesome-ecommerce,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",sandermangel/awesome-pwa-ecommerce,72,https://github.com/sandermangel/awesome-pwa-ecommerce,false,ecommerce;fintech;payments
+"E-commerce, payments & fintech",MentionNetwork/awesome-agentic-commerce,65,https://github.com/MentionNetwork/awesome-agentic-commerce,false,ecommerce;fintech;payments
+"Marketing, growth & creator infrastructure",mmccaff/PlacesToPostYourStartup,8307,https://github.com/mmccaff/PlacesToPostYourStartup,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",EdoStra/Marketing-for-Founders,7138,https://github.com/EdoStra/Marketing-for-Founders,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",i365dev/awesome-seo,2832,https://github.com/i365dev/awesome-seo,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",serpapi/awesome-seo-tools,1134,https://github.com/serpapi/awesome-seo-tools,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",teles/awesome-seo,885,https://github.com/teles/awesome-seo,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",marketingtoolslist/awesome-marketing,493,https://github.com/marketingtoolslist/awesome-marketing,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",ronakganatra/awesome-marketing,414,https://github.com/ronakganatra/awesome-marketing,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",best-of-ai/awesome-ai-seo,321,https://github.com/best-of-ai/awesome-ai-seo,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",paulbradish/awesome-digital-marketing,320,https://github.com/paulbradish/awesome-digital-marketing,false,creator-tools;growth;marketing
+"Marketing, growth & creator infrastructure",indie-hacking/Awesome-SEO-Backlinks,140,https://github.com/indie-hacking/Awesome-SEO-Backlinks,false,creator-tools;growth;marketing
+"DevOps, cloud & self-hosting",awesome-selfhosted/awesome-selfhosted,331799,https://github.com/awesome-selfhosted/awesome-selfhosted,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",trimstray/the-book-of-secret-knowledge,254296,https://github.com/trimstray/the-book-of-secret-knowledge,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",binhnguyennus/awesome-scalability,75221,https://github.com/binhnguyennus/awesome-scalability,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",awesome-foss/awesome-sysadmin,35545,https://github.com/awesome-foss/awesome-sysadmin,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",ramitsurana/awesome-kubernetes,16131,https://github.com/ramitsurana/awesome-kubernetes,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",visenger/awesome-mlops,14255,https://github.com/visenger/awesome-mlops,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",dastergon/awesome-sre,13745,https://github.com/dastergon/awesome-sre,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",wmariuss/awesome-devops,4443,https://github.com/wmariuss/awesome-devops,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",ligurio/awesome-ci,4175,https://github.com/ligurio/awesome-ci,false,cloud;devops;selfhosting
+"DevOps, cloud & self-hosting",rootsongjc/awesome-cloud-native,2543,https://github.com/rootsongjc/awesome-cloud-native,false,cloud;devops;selfhosting
+"Cybersecurity, identity & software quality",Hack-with-Github/Awesome-Hacking,124019,https://github.com/Hack-with-Github/Awesome-Hacking,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",pluja/awesome-privacy,20137,https://github.com/pluja/awesome-privacy,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",sbilly/awesome-security,15051,https://github.com/sbilly/awesome-security,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",qazbnm456/awesome-web-security,13977,https://github.com/qazbnm456/awesome-web-security,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",hslatman/awesome-threat-intelligence,10792,https://github.com/hslatman/awesome-threat-intelligence,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",lissy93/awesome-privacy,10025,https://github.com/lissy93/awesome-privacy,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",meirwah/awesome-incident-response,9513,https://github.com/meirwah/awesome-incident-response,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",paragonie/awesome-appsec,7126,https://github.com/paragonie/awesome-appsec,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",kdeldycke/awesome-iam,2312,https://github.com/kdeldycke/awesome-iam,false,identity;privacy;security;testing
+"Cybersecurity, identity & software quality",pomerium/awesome-zero-trust,775,https://github.com/pomerium/awesome-zero-trust,false,identity;privacy;security;testing
+"Blockchain, Web3 & decentralized systems",chaozh/awesome-blockchain-cn,18942,https://github.com/chaozh/awesome-blockchain-cn,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",OffcierCia/DeFi-Developer-Road-Map,10879,https://github.com/OffcierCia/DeFi-Developer-Road-Map,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",openblockchains/awesome-blockchains,3783,https://github.com/openblockchains/awesome-blockchains,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",rust-in-blockchain/awesome-blockchain-rust,2827,https://github.com/rust-in-blockchain/awesome-blockchain-rust,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",ong/awesome-decentralized-finance,1672,https://github.com/ong/awesome-decentralized-finance,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",crytic/awesome-ethereum-security,1482,https://github.com/crytic/awesome-ethereum-security,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",fltenwall/web3-awesome,1425,https://github.com/fltenwall/web3-awesome,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",4337Mafia/awesome-account-abstraction,1022,https://github.com/4337Mafia/awesome-account-abstraction,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",ahmet/awesome-web3,904,https://github.com/ahmet/awesome-web3,false,blockchain;decentralization;web3
+"Blockchain, Web3 & decentralized systems",Mikerah/awesome-foundations-of-DeFi,230,https://github.com/Mikerah/awesome-foundations-of-DeFi,false,blockchain;decentralization;web3
+"Gaming, simulation & spatial computing",ellisonleao/magictools,17631,https://github.com/ellisonleao/magictools,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",RyanNielson/awesome-unity,7092,https://github.com/RyanNielson/awesome-unity,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",gamedev-skills/awesome-gamedev-agent-skills,5602,https://github.com/gamedev-skills/awesome-gamedev-agent-skills,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",gbdev/awesome-gbdev,4538,https://github.com/gbdev/awesome-gbdev,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",baba-s/awesome-unity-open-source-on-github,4477,https://github.com/baba-s/awesome-unity-open-source-on-github,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",dawdle-deer/awesome-learn-gamedev,3589,https://github.com/dawdle-deer/awesome-learn-gamedev,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",Calinou/awesome-gamedev,3204,https://github.com/Calinou/awesome-gamedev,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",stevinz/awesome-game-engine-dev,1441,https://github.com/stevinz/awesome-game-engine-dev,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",gbadev-org/awesome-gbadev,1360,https://github.com/gbadev-org/awesome-gbadev,false,gaming;simulation;spatial-computing
+"Gaming, simulation & spatial computing",mbrukman/awesome-game-dev,571,https://github.com/mbrukman/awesome-game-dev,false,gaming;simulation;spatial-computing
+"Robotics, hardware & physical AI",rust-embedded/awesome-embedded-rust,8167,https://github.com/rust-embedded/awesome-embedded-rust,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",kiloreux/awesome-robotics,7267,https://github.com/kiloreux/awesome-robotics,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",phodal/awesome-iot,4634,https://github.com/phodal/awesome-iot,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",GT-RIPL/Awesome-LLM-Robotics,4495,https://github.com/GT-RIPL/Awesome-LLM-Robotics,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",jslee02/awesome-robotics-libraries,3097,https://github.com/jslee02/awesome-robotics-libraries,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",YanjieZe/awesome-humanoid-robot-learning,2862,https://github.com/YanjieZe/awesome-humanoid-robot-learning,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",fkromer/awesome-ros2,2135,https://github.com/fkromer/awesome-ros2,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",zchoi/Awesome-Embodied-Robotics-and-Agent,1910,https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",mjyc/awesome-robotics-projects,1824,https://github.com/mjyc/awesome-robotics-projects,false,hardware;iot;physical-ai;robotics
+"Robotics, hardware & physical AI",mathworks-robotics/awesome-matlab-robotics,1738,https://github.com/mathworks-robotics/awesome-matlab-robotics,false,hardware;iot;physical-ai;robotics
+"Education, science & specialized industries",academic/awesome-datascience,30248,https://github.com/academic/awesome-datascience,false,education;industry-tools;science
+"Education, science & specialized industries",wowlusitong/awesome-education,2195,https://github.com/wowlusitong/awesome-education,false,education;industry-tools;science
+"Education, science & specialized industries",ai4s-research/awesome-ai-for-science,2059,https://github.com/ai4s-research/awesome-ai-for-science,false,education;industry-tools;science
+"Education, science & specialized industries",yrgo/awesome-educational-games,1201,https://github.com/yrgo/awesome-educational-games,false,education;industry-tools;science
+"Education, science & specialized industries",gaerae/awesome-algorithms-education,908,https://github.com/gaerae/awesome-algorithms-education,false,education;industry-tools;science
+"Education, science & specialized industries",quobit/awesome-python-in-education,907,https://github.com/quobit/awesome-python-in-education,false,education;industry-tools;science
+"Education, science & specialized industries",mathworks/awesome-matlab-students,763,https://github.com/mathworks/awesome-matlab-students,false,education;industry-tools;science
+"Education, science & specialized industries",fffaraz/awesome-courses,423,https://github.com/fffaraz/awesome-courses,false,education;industry-tools;science
+"Education, science & specialized industries",GeminiLight/awesome-ai-llm4education,221,https://github.com/GeminiLight/awesome-ai-llm4education,false,education;industry-tools;science
+"Education, science & specialized industries",hkalant/awesome-edtech-tools,217,https://github.com/hkalant/awesome-edtech-tools,false,education;industry-tools;science
+Developer productivity & knowledge tools,sindresorhus/awesome,526824,https://github.com/sindresorhus/awesome,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,hesreallyhim/awesome-claude-code,56865,https://github.com/hesreallyhim/awesome-claude-code,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,agarrharr/awesome-cli-apps,20583,https://github.com/agarrharr/awesome-cli-apps,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,jamesmurdza/awesome-ai-devtools,3990,https://github.com/jamesmurdza/awesome-ai-devtools,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,stefanbuck/awesome-browser-extensions-for-github,3316,https://github.com/stefanbuck/awesome-browser-extensions-for-github,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,agamm/awesome-developer-first,1866,https://github.com/agamm/awesome-developer-first,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,open-saas-directory/awesome-native-macosx-apps,1661,https://github.com/open-saas-directory/awesome-native-macosx-apps,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,bradAGI/awesome-cli-coding-agents,1427,https://github.com/bradAGI/awesome-cli-coding-agents,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,ml-tooling/best-of-python-dev,1323,https://github.com/ml-tooling/best-of-python-dev,false,developer-tools;documentation;productivity
+Developer productivity & knowledge tools,devtoolsd/awesome-devtools,687,https://github.com/devtoolsd/awesome-devtools,false,developer-tools;documentation;productivity
