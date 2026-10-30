@@ -36,3 +36,7 @@ Search separately for `frontend animation design systems`, `voice assistant real
 Preserve upstream identity and attribution; never copy or fork dozens of repositories into this one. Avoid duplication by canonical `owner/repo`. Add multiple `categories` and candidate discovery tags when appropriate. Do not overwrite original-source flags. Test catalog validity before committing. Never claim that GitHub stars prove safety, quality, or maintenance.
 
 The most important evaluation output is a **verified source-to-requirement mapping**: requirement → possible component → confirmed support → integration conditions → risk → decision.
+
+## Search individual child tools when appropriate
+
+For a data-only project or external solution search, use the standalone `scripts/search_tools.py` over `data/tools.json` in addition to searching collections with `scripts/search_catalog.py`. Each child item has a pinned Awesome-list mention. Selected GitHub projects may additionally have a literal pinned upstream README statement (`UPSTREAM_DOCUMENTED_NOT_TESTED`). Do not confuse documentation with code execution, security audits, verified API availability, or license approval. This index is fully usable without Maliky. See `docs/INDIVIDUAL-TOOLS.md`; external child code must not be executed or imported during discovery.
