@@ -30,7 +30,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python scripts/index_tools.py --collection bytewax/awesome-public-real-time-datasets --limit 110 --enrich-repo james-brand/korea-market-data
-          python scripts/index_tools.py --collection sacrdini/Awesome-Geospatial --limit 120 --enrich-repo ahuarte47/duckdb-raster --enrich-repo clarisma/geodesk --enrich-repo tidwall/tile38
+          python scripts/index_tools.py --collection sacridini/Awesome-Geospatial --limit 120 --enrich-repo ahuarte47/duckdb-raster --enrich-repo clarisma/geodesk --enrich-repo tidwall/tile38
       - name: Verify standalone data application search
         run: python scripts/search_tools.py "realtime weather" --json --limit 10 > /tmp/data-tools-results.json
       - name: Validate indexed data
