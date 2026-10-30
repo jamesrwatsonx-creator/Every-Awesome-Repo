@@ -55,16 +55,13 @@ def export(data: dict) -> tuple[str, str]:
              "",
              "Star counts are snapshots. Inclusion is not an audit. Labels are candidate discovery tags, not verified features.",
              "", "## Categories", ""]
-    def anchor(name: str) -> str:
-        import re
-        return re.sub(r"\s+", "-", re.sub(r"[^a-z0-9 ]", "", name.lower()))
     for i, cat in enumerate(categories, 1):
-        lines.append(f"{i}. [{cat['name']}](#{anchor(cat['name'])})")
+        lines.append(f"{i}. [{cat['name']}](#category-{i:02d})")
     for i, cat in enumerate(categories, 1):
         name = cat["name"]
         items = sorted((r for r in records if name in r["categories"]),
                        key=lambda r: (-(r.get("stars") or 0), r["repository"].lower()))
-        lines.extend(["", f"## {i}. {name}", "",
+        lines.extend(["", f'<a id="category-{i:02d}"></a>', f"## {i}. {name}", "",
                       "Discovery tags: " + " · ".join(f"`{t}`" for t in cat.get("discovery_tags", [])),
                       ""])
         for j, r in enumerate(items, 1):
