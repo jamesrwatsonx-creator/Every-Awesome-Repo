@@ -39,13 +39,13 @@ One-off indexed source collection; this **only writes `data/tools.json` in your 
 
 ```bash
 python scripts/index_tools.py --collection bytewax/awesome-public-real-time-datasets --limit 100
-python scripts/index_tools.py --collection sacrdini/Awesome-Geospatial --limit 100
+python scripts/index_tools.py --collection sacridini/Awesome-Geospatial --limit 100
 ```
 
 To inspect and attach a quoted README statement from a selected downstream project:
 
 ```bash
-python scripts/index_tools.py --collection sacrdini/Awesome-Geospatial --limit 100 --enrich-repo ahuarte47/duckdb-raster
+python scripts/index_tools.py --collection sacridini/Awesome-Geospatial --limit 100 --enrich-repo ahuarte47/duckdb-raster
 ```
 
 API token: optional `GITHUB_TOKEN`; public GitHub anonymous rate limits may apply. Source pins are fixed per run; the tool index doesn't automatically imply these remain current.
