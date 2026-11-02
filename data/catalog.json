@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "project": "Every Awesome Repo",
   "purpose": "Discover and evaluate reusable open-source resources for any future application idea",
-  "snapshot_date": "2026-10-29",
+  "snapshot_date": "2026-11-02",
   "provenance": "270 ranked category entries plus all 34 screenshot sources (five previously missing), deduplicated by repository identity",
   "notes": [
     "Star counts are a historical snapshot, not live ranks.",
@@ -275,15 +275,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 30556,
-      "stars_checked_at": "2026-10-29",
+      "stars": 30663,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":scream: A curated list of amazingly awesome OSINT",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-31T14:39:10Z"
     },
     {
       "repository": "edoardottt/awesome-hacker-search-engines",
@@ -297,15 +297,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 11442,
-      "stars_checked_at": "2026-10-29",
+      "stars": 11458,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T10:51:43Z"
     },
     {
       "repository": "cipher387/osint_stuff_tool_collection",
@@ -319,15 +319,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 9017,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9041,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of several hundred online tools for OSINT",
+      "license_spdx_id": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T18:06:01Z"
     },
     {
       "repository": "Astrosp/Awesome-OSINT-List",
@@ -341,15 +341,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 4606,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4627,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "license_spdx_id": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T09:37:57Z"
     },
     {
       "repository": "rawfilejson/awesome-osint-arsenal",
@@ -363,15 +363,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 3527,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3559,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-29T03:14:19Z"
     },
     {
       "repository": "redhuntlabs/Awesome-Asset-Discovery",
@@ -385,15 +385,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 2888,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2889,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of Awesome Asset Discovery Resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-01-22T10:48:28Z"
     },
     {
       "repository": "ARPSyndicate/awesome-intelligence",
@@ -407,15 +407,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 2425,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2429,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": true,
+      "pushed_at": "2025-06-26T23:21:05Z"
     },
     {
       "repository": "OffcierCia/On-Chain-Investigations-Tools-List",
@@ -429,15 +429,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 1978,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1985,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
+      "license_spdx_id": "Unlicense",
+      "archived": false,
+      "pushed_at": "2026-06-03T14:21:13Z"
     },
     {
       "repository": "soxoj/awesome-osint-mcp-servers",
@@ -451,15 +451,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 535,
-      "stars_checked_at": "2026-10-29",
+      "stars": 537,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T20:13:00Z"
     },
     {
       "repository": "tracelabs/awesome-osint",
@@ -473,15 +473,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 432,
-      "stars_checked_at": "2026-10-29",
+      "stars": 436,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🕵️ A curated list of awesome TraceLabs-endorsed OSINT tools ",
+      "license_spdx_id": "MPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-08-23T07:20:06Z"
     },
     {
       "repository": "punkpeye/awesome-mcp-servers",
@@ -495,15 +495,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 97043,
-      "stars_checked_at": "2026-10-29",
+      "stars": 97200,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of MCP servers.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T04:38:05Z"
     },
     {
       "repository": "yzfly/Awesome-MCP-ZH",
@@ -517,15 +517,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 7790,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7804,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-01T02:54:38Z"
     },
     {
       "repository": "punkpeye/awesome-mcp-clients",
@@ -539,15 +539,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 6616,
-      "stars_checked_at": "2026-10-29",
+      "stars": 6619,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of MCP clients.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-07T18:57:48Z"
     },
     {
       "repository": "appcypher/awesome-mcp-servers",
@@ -561,15 +561,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 5811,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5820,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": true,
+      "pushed_at": "2026-05-06T08:04:35Z"
     },
     {
       "repository": "wong2/awesome-mcp-servers",
@@ -583,15 +583,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 4393,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4397,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Model Context Protocol (MCP) servers",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-13T12:44:30Z"
     },
     {
       "repository": "punkpeye/awesome-remote-mcp-servers",
@@ -605,15 +605,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 2208,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2459,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of remote MCP servers.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T11:43:09Z"
     },
     {
       "repository": "rohitg00/awesome-devops-mcp-servers",
@@ -628,14 +628,14 @@
         "tool-integration"
       ],
       "stars": 1028,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome MCP servers focused on DevOps tools and capabilities.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-05-12T23:10:35Z"
     },
     {
       "repository": "TensorBlock/awesome-mcp-servers",
@@ -649,15 +649,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 998,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1020,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A comprehensive collection of Model Context Protocol (MCP) servers",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T18:58:44Z"
     },
     {
       "repository": "ai-boost/awesome-a2a",
@@ -671,15 +671,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 703,
-      "stars_checked_at": "2026-10-29",
+      "stars": 705,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T08:56:47Z"
     },
     {
       "repository": "demcp/awesome-web3-mcp-servers",
@@ -694,14 +694,14 @@
         "tool-integration"
       ],
       "stars": 615,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-05-22T02:39:23Z"
     },
     {
       "repository": "Shubhamsaboo/awesome-llm-apps",
@@ -720,15 +720,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 143438,
-      "stars_checked_at": "2026-10-29",
+      "stars": 143753,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-22T19:10:10Z"
     },
     {
       "repository": "sickn33/agentic-awesome-skills",
@@ -742,15 +742,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 48740,
-      "stars_checked_at": "2026-10-29",
+      "stars": 49048,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T17:10:27Z"
     },
     {
       "repository": "github/awesome-copilot",
@@ -764,15 +764,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 40570,
-      "stars_checked_at": "2026-10-29",
+      "stars": 40723,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T03:53:09Z"
     },
     {
       "repository": "VoltAgent/awesome-agent-skills",
@@ -786,15 +786,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 36584,
-      "stars_checked_at": "2026-10-29",
+      "stars": 36766,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T08:19:59Z"
     },
     {
       "repository": "e2b-dev/awesome-ai-agents",
@@ -808,15 +808,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 30708,
-      "stars_checked_at": "2026-10-29",
+      "stars": 30766,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A list of AI autonomous agents",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-08-21T18:52:45Z"
     },
     {
       "repository": "dipakkr/awesome-ai-engineering",
@@ -830,15 +830,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 22489,
-      "stars_checked_at": "2026-10-29",
+      "stars": 22517,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-21T16:19:25Z"
     },
     {
       "repository": "Arindam200/awesome-ai-apps",
@@ -852,15 +852,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 16651,
-      "stars_checked_at": "2026-10-29",
+      "stars": 16660,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-30T20:50:08Z"
     },
     {
       "repository": "awesome-opencode/awesome-opencode",
@@ -874,15 +874,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 10781,
-      "stars_checked_at": "2026-10-29",
+      "stars": 10842,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-01T18:59:25Z"
     },
     {
       "repository": "nibzard/awesome-agentic-patterns",
@@ -896,15 +896,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 5055,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5060,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated catalogue of awesome agentic AI patterns",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-14T23:13:20Z"
     },
     {
       "repository": "kyrolabs/awesome-agents",
@@ -918,15 +918,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 2973,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2983,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🤖 Awesome list of AI Agents",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T15:13:12Z"
     },
     {
       "repository": "lorien/awesome-web-scraping",
@@ -940,15 +940,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 8198,
-      "stars_checked_at": "2026-10-29",
+      "stars": 8206,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of libraries, tools and APIs for web scraping and data processing.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-27T09:08:44Z"
     },
     {
       "repository": "Germey/AwesomeWebScraping",
@@ -963,14 +963,14 @@
         "web-scraping"
       ],
       "stars": 265,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of libraries, tools and APIs for web scraping and data processing.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-07-30T01:03:59Z"
     },
     {
       "repository": "h4ckf0r0day/awesome-ai-web-scraping",
@@ -984,15 +984,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 117,
-      "stars_checked_at": "2026-10-29",
+      "stars": 119,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-05-18T20:15:13Z"
     },
     {
       "repository": "luminati-io/Awesome-Web-Scraping",
@@ -1007,14 +1007,14 @@
         "web-scraping"
       ],
       "stars": 28,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A list of libraries, tools, and APIs for web scraping and data processing. Find everything you need for extracting, managing, and processing data from the web, from HTTP libraries to browser automation tools and proxy services. ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-04-06T06:56:14Z"
     },
     {
       "repository": "spinov001-art/awesome-web-scraping-2026",
@@ -1028,15 +1028,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 27,
-      "stars_checked_at": "2026-10-29",
+      "stars": 29,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "130+ web scraping tools — Python, JavaScript, Go, Rust. Anti-detection, proxies, cloud platforms. Updated weekly. Includes free API alternatives.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-04-06T04:06:48Z"
     },
     {
       "repository": "ScrapeRouter/awesome-scraping",
@@ -1051,14 +1051,14 @@
         "web-scraping"
       ],
       "stars": 18,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "The definitive list of the latest libraries, tools, APIs and providers for web scraping. The only daily-updated collection of web scraping resources.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T03:59:12Z"
     },
     {
       "repository": "edwardtay/awesome-scrapers",
@@ -1073,14 +1073,14 @@
         "web-scraping"
       ],
       "stars": 18,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of 150+ web scraping tools, crawlers, proxies, and anti-detection libraries",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T14:55:17Z"
     },
     {
       "repository": "ipqwery/awesome-web-scraping",
@@ -1094,15 +1094,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 13,
-      "stars_checked_at": "2026-10-29",
+      "stars": 14,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of libraries, tools and APIs for web scraping and data processing.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2025-02-22T12:18:00Z"
     },
     {
       "repository": "pablohoffman/awesome-web-scraping",
@@ -1117,14 +1117,14 @@
         "web-scraping"
       ],
       "stars": 13,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of libraries, tools and APIs for web scraping and data processing.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2015-09-17T04:38:18Z"
     },
     {
       "repository": "the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools",
@@ -1139,14 +1139,14 @@
         "web-scraping"
       ],
       "stars": 12,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of the best web scraping tools, APIs, and services for developers. Updated 2026.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-08-25T10:30:40Z"
     },
     {
       "repository": "public-apis/public-apis",
@@ -1160,15 +1160,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 493250,
-      "stars_checked_at": "2026-10-29",
+      "stars": 495466,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collective list of free APIs",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-01T18:22:08Z"
     },
     {
       "repository": "awesomedata/awesome-public-datasets",
@@ -1182,15 +1182,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 79843,
-      "stars_checked_at": "2026-10-29",
+      "stars": 79916,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A topic-centric list of HQ open datasets.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T19:34:27Z"
     },
     {
       "repository": "public-api-lists/public-api-lists",
@@ -1204,15 +1204,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 16254,
-      "stars_checked_at": "2026-10-29",
+      "stars": 16288,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-09-14T07:19:57Z"
     },
     {
       "repository": "marcelscruz/public-apis",
@@ -1226,15 +1226,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 9654,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9671,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collaborative list of public APIs for developers",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T19:15:43Z"
     },
     {
       "repository": "bytewax/awesome-public-real-time-datasets",
@@ -1248,15 +1248,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 2966,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2969,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A list of publicly available datasets with real-time data maintained by the team at bytewax.io",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-22T10:18:56Z"
     },
     {
       "repository": "jonathanwvd/awesome-industrial-datasets",
@@ -1270,15 +1270,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 615,
-      "stars_checked_at": "2026-10-29",
+      "stars": 621,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated collection of public industrial datasets.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-28T20:44:22Z"
     },
     {
       "repository": "ColinEberhardt/awesome-public-streaming-datasets",
@@ -1292,15 +1292,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 460,
-      "stars_checked_at": "2026-10-29",
+      "stars": 461,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A list of free datasets that provide streaming data",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-09-24T10:49:24Z"
     },
     {
       "repository": "italia/awesome-italian-public-datasets",
@@ -1314,15 +1314,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 336,
-      "stars_checked_at": "2026-10-29",
+      "stars": 337,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2023-10-16T20:28:25Z"
     },
     {
       "repository": "nickls/awesome-healthcare-datasets",
@@ -1337,14 +1337,14 @@
         "public-apis"
       ],
       "stars": 127,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome healthcare datasets in the public domain.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2018-10-26T03:42:59Z"
     },
     {
       "repository": "alexandresanlim/public-apis-no-auth-only",
@@ -1358,15 +1358,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 39,
-      "stars_checked_at": "2026-10-29",
+      "stars": 41,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A fork from a collective list of free APIs but no auth only",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2022-09-17T19:29:20Z"
     },
     {
       "repository": "sshuair/awesome-gis",
@@ -1381,15 +1381,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 5606,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5614,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-21T09:10:54Z"
     },
     {
       "repository": "sacridini/Awesome-Geospatial",
@@ -1404,15 +1404,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 5352,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5361,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Long list of geospatial tools and resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T12:56:53Z"
     },
     {
       "repository": "softwareunderground/awesome-open-geoscience",
@@ -1427,15 +1427,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1867,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1869,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-05-26T11:55:08Z"
     },
     {
       "repository": "acgeospatial/awesome-earthobservation-code",
@@ -1450,15 +1450,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1389,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1390,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-05-13T19:36:13Z"
     },
     {
       "repository": "opengeos/Awesome-GEE",
@@ -1473,15 +1473,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1256,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1257,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Google Earth Engine resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-26T00:43:09Z"
     },
     {
       "repository": "samapriya/awesome-gee-community-datasets",
@@ -1497,14 +1497,14 @@
         "remote-sensing"
       ],
       "stars": 1246,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Community Datasets added by users and made available for use at large",
+      "license_spdx_id": "CC-BY-4.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T03:23:25Z"
     },
     {
       "repository": "osmlab/awesome-openstreetmap",
@@ -1519,15 +1519,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1024,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1025,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎 Curated list of awesome OpenSteetMap-projects",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-05T01:51:12Z"
     },
     {
       "repository": "pka/awesome-georust",
@@ -1543,14 +1543,14 @@
         "remote-sensing"
       ],
       "stars": 416,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome geospatial software, libraries, tools and resources, written in Rust",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-03-01T21:04:34Z"
     },
     {
       "repository": "attibalazs/awesome-remote-sensing",
@@ -1566,14 +1566,14 @@
         "remote-sensing"
       ],
       "stars": 115,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Collection of Remote Sensing Resources",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-01-18T16:06:11Z"
     },
     {
       "repository": "iamtekson/awesome-geospatial-data-sources",
@@ -1589,14 +1589,14 @@
         "remote-sensing"
       ],
       "stars": 73,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "This is the repo for open source geospatial data download sites.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T16:40:53Z"
     },
     {
       "repository": "edgi-govdata-archiving/awesome-website-change-monitoring",
@@ -1611,14 +1611,14 @@
         "website-changes"
       ],
       "stars": 514,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome tools for website diffing and change monitoring.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-08-11T19:40:32Z"
     },
     {
       "repository": "dgtlmoon/awesome-website-change-monitoring",
@@ -1633,14 +1633,14 @@
         "website-changes"
       ],
       "stars": 7,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome tools for website diffing and change monitoring.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-10-17T17:21:01Z"
     },
     {
       "repository": "IntelCue/awesome-competitive-intelligence",
@@ -1655,14 +1655,14 @@
         "website-changes"
       ],
       "stars": 6,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of competitive intelligence tools, resources, and guides",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-18T05:49:35Z"
     },
     {
       "repository": "Rainmaker-Ventures/awesome-competitive-intelligence-and-monitoring",
@@ -1677,14 +1677,14 @@
         "website-changes"
       ],
       "stars": 5,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of competitive intelligence tools, resources, frameworks, and best practices for tracking and analyzing competitors.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-01-27T16:22:06Z"
     },
     {
       "repository": "fly0pants/awesome-ad-intelligence",
@@ -1699,14 +1699,14 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🔍 A curated list of ad intelligence and competitive analysis tools — ad creative search, app analytics, web traffic, and AI-powered research. Maintained by AdMapix.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-04-15T02:31:52Z"
     },
     {
       "repository": "tripkrant/awesome-competitive-intelligence",
@@ -1721,14 +1721,14 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": null,
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-08-25T12:34:55Z"
     },
     {
       "repository": "patwalls/awesome-competitive-intelligence",
@@ -1743,14 +1743,14 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of competitive intelligence tools, resources, and guides",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-06-16T05:58:45Z"
     },
     {
       "repository": "patwalls/awesome-competitive-intelligence-and-monitoring",
@@ -1765,14 +1765,14 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of competitive intelligence tools, resources, frameworks, and best practices for tracking and analyzing competitors.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-06-16T05:58:44Z"
     },
     {
       "repository": "oxnr/awesome-competitive-intelligence",
@@ -1787,14 +1787,14 @@
         "website-changes"
       ],
       "stars": 0,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated list of competitive intelligence tools, frameworks, and resources for startups and SaaS companies",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-21T10:13:54Z"
     },
     {
       "repository": "newlylights/awesome-competitive-intelligence",
@@ -1809,14 +1809,14 @@
         "website-changes"
       ],
       "stars": 0,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of competitive intelligence resources, battle card templates, competitor analysis frameworks, and CI tools.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-06-23T01:34:15Z"
     },
     {
       "repository": "igorbarinov/awesome-data-engineering",
@@ -1830,15 +1830,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 9217,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9229,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of data engineering tools for software developers",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-07T13:29:54Z"
     },
     {
       "repository": "husthuke/awesome-knowledge-graph",
@@ -1852,15 +1852,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 5175,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5176,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "整理知识图谱相关学习资料",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2021-03-11T11:20:57Z"
     },
     {
       "repository": "gunnarmorling/awesome-opensource-data-engineering",
@@ -1874,15 +1874,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 3308,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3311,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An Awesome List of Open-Source Data Engineering Projects",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2024-10-04T11:45:10Z"
     },
     {
       "repository": "totogo/awesome-knowledge-graph",
@@ -1896,15 +1896,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 1905,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1907,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-09-11T15:30:31Z"
     },
     {
       "repository": "BrambleXu/knowledge-graph-learning",
@@ -1919,14 +1919,14 @@
         "knowledge-graphs"
       ],
       "stars": 782,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome knowledge graph tutorials, projects and communities.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-26T11:34:59Z"
     },
     {
       "repository": "pracdata/awesome-open-source-data-engineering",
@@ -1940,15 +1940,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 620,
-      "stars_checked_at": "2026-10-29",
+      "stars": 622,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of open source tools used in analytics platforms and data engineering ecosystem",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-03-12T06:59:32Z"
     },
     {
       "repository": "snird/awesome-data-engineering-learning",
@@ -1963,14 +1963,14 @@
         "knowledge-graphs"
       ],
       "stars": 545,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome list of data engineering learning materials by subject",
+      "license_spdx_id": "CC-BY-4.0",
+      "archived": false,
+      "pushed_at": "2021-06-09T21:09:07Z"
     },
     {
       "repository": "mistercrunch/awesome-data-engineering",
@@ -1985,14 +1985,14 @@
         "knowledge-graphs"
       ],
       "stars": 509,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of data engineering tools for software developers",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2017-06-23T04:57:42Z"
     },
     {
       "repository": "OlivierBinette/Awesome-Entity-Resolution",
@@ -2006,15 +2006,15 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 137,
-      "stars_checked_at": "2026-10-29",
+      "stars": 138,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of entity resolution software and resources.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-03-24T16:23:58Z"
     },
     {
       "repository": "Senzing/awesome",
@@ -2051,15 +2051,15 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 3023,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3025,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-08-08T15:03:54Z"
     },
     {
       "repository": "iipc/awesome-web-archiving",
@@ -2074,15 +2074,15 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 2673,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2678,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An Awesome List for getting started with web archiving",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-18T06:31:55Z"
     },
     {
       "repository": "thenaturalist/awesome-business-intelligence",
@@ -2097,15 +2097,15 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 2335,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2338,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Actively curated list of awesome BI tools. PRs welcome!",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-08-21T11:08:26Z"
     },
     {
       "repository": "MaxBenChrist/awesome_time_series_in_python",
@@ -2121,14 +2121,14 @@
         "forecasting"
       ],
       "stars": 2266,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "This curated list contains  python packages for time series analysis",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2023-02-10T06:55:24Z"
     },
     {
       "repository": "qingsongedu/awesome-AI-for-time-series-papers",
@@ -2143,15 +2143,15 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 1634,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1635,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-04-06T21:11:38Z"
     },
     {
       "repository": "TongjiFinLab/awesome-time-series-forecasting",
@@ -2166,15 +2166,15 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 316,
-      "stars_checked_at": "2026-10-29",
+      "stars": 317,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome time series forecasting papers and codes",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-22T17:34:01Z"
     },
     {
       "repository": "rebase-energy/awesome-weather-models",
@@ -2190,14 +2190,14 @@
         "forecasting"
       ],
       "stars": 147,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🌦️ A catalogue and categorization of AI-based weather forecasting models. ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-05-10T18:14:25Z"
     },
     {
       "repository": "pirate/awesome-web-archiving",
@@ -2213,14 +2213,14 @@
         "forecasting"
       ],
       "stars": 18,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "An Awesome List for getting started with web archiving",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2018-12-21T23:51:51Z"
     },
     {
       "repository": "happyendpointhq/awesome-alternative-data",
@@ -2236,14 +2236,14 @@
         "forecasting"
       ],
       "stars": 3,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated list of alternative data sources for investment research: web-scraped, satellite, transaction, sentiment, and free open data.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-08-12T17:20:55Z"
     },
     {
       "repository": "JovaniPink/awesome-economic-data",
@@ -2259,14 +2259,14 @@
         "forecasting"
       ],
       "stars": 3,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated U.S.-focused high-frequency and alternative economic indicators, datasets, and methodology resources.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-24T12:45:24Z"
     },
     {
       "repository": "VoltAgent/awesome-design-md",
@@ -2281,15 +2281,15 @@
         "ui",
         "ux"
       ],
-      "stars": 124486,
-      "stars_checked_at": "2026-10-29",
+      "stars": 125250,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-28T15:45:40Z"
     },
     {
       "repository": "wasabeef/awesome-android-ui",
@@ -2304,15 +2304,15 @@
         "ui",
         "ux"
       ],
-      "stars": 58216,
-      "stars_checked_at": "2026-10-29",
+      "stars": 58269,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Android UI/UX libraries",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-05T05:39:52Z"
     },
     {
       "repository": "goabstract/Awesome-Design-Tools",
@@ -2327,15 +2327,15 @@
         "ui",
         "ux"
       ],
-      "stars": 41690,
-      "stars_checked_at": "2026-10-29",
+      "stars": 41736,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The best design tools and plugins for everything 👉",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-07-28T19:57:31Z"
     },
     {
       "repository": "alexpate/awesome-design-systems",
@@ -2350,15 +2350,15 @@
         "ui",
         "ux"
       ],
-      "stars": 26252,
-      "stars_checked_at": "2026-10-29",
+      "stars": 26270,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "license_spdx_id": "Unlicense",
+      "archived": false,
+      "pushed_at": "2026-10-06T14:51:48Z"
     },
     {
       "repository": "birobirobiro/awesome-shadcn-ui",
@@ -2373,15 +2373,15 @@
         "ui",
         "ux"
       ],
-      "stars": 20722,
-      "stars_checked_at": "2026-10-29",
+      "stars": 20748,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome things related to shadcn/ui.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T17:49:24Z"
     },
     {
       "repository": "gztchan/awesome-design",
@@ -2396,15 +2396,15 @@
         "ui",
         "ux"
       ],
-      "stars": 17714,
-      "stars_checked_at": "2026-10-29",
+      "stars": 17726,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🌟 Curated design resources from all over the world.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-07-04T18:17:39Z"
     },
     {
       "repository": "cjwirth/awesome-ios-ui",
@@ -2423,15 +2423,15 @@
         "ui",
         "ux"
       ],
-      "stars": 11223,
-      "stars_checked_at": "2026-10-29",
+      "stars": 11222,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome iOS UI/UX libraries",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2018-03-08T08:57:40Z"
     },
     {
       "repository": "greatfrontend/awesome-front-end-system-design",
@@ -2446,15 +2446,15 @@
         "ui",
         "ux"
       ],
-      "stars": 8603,
-      "stars_checked_at": "2026-10-29",
+      "stars": 8606,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated front end system design resources for interviews and learning",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-03-03T13:55:49Z"
     },
     {
       "repository": "VoltAgent/awesome-claude-design",
@@ -2469,15 +2469,15 @@
         "ui",
         "ux"
       ],
-      "stars": 4259,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4308,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-20T17:54:18Z"
     },
     {
       "repository": "xyflow/awesome-node-based-uis",
@@ -2492,15 +2492,15 @@
         "ui",
         "ux"
       ],
-      "stars": 3700,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3705,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list with resources about node-based UIs",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-06-29T08:11:39Z"
     },
     {
       "repository": "enaqx/awesome-react",
@@ -2514,15 +2514,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 75092,
-      "stars_checked_at": "2026-10-29",
+      "stars": 75141,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A collection of awesome things regarding React ecosystem",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-09-04T01:13:20Z"
     },
     {
       "repository": "brillout/awesome-react-components",
@@ -2536,15 +2536,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 48765,
-      "stars_checked_at": "2026-10-29",
+      "stars": 48787,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated List of React Components & Libraries.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-01-26T16:36:45Z"
     },
     {
       "repository": "aniftyco/awesome-tailwindcss",
@@ -2558,15 +2558,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 15212,
-      "stars_checked_at": "2026-10-29",
+      "stars": 15221,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎 Awesome things related to Tailwind CSS",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-27T06:37:59Z"
     },
     {
       "repository": "unicodeveloper/awesome-nextjs",
@@ -2580,15 +2580,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 11106,
-      "stars_checked_at": "2026-10-29",
+      "stars": 11107,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T17:22:34Z"
     },
     {
       "repository": "rehooks/awesome-react-hooks",
@@ -2602,15 +2602,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 10271,
-      "stars_checked_at": "2026-10-29",
+      "stars": 10275,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome React Hooks",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2023-07-27T06:40:08Z"
     },
     {
       "repository": "troxler/awesome-css-frameworks",
@@ -2624,15 +2624,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 9561,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9573,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "List of awesome CSS frameworks in 2026",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-06-08T20:32:07Z"
     },
     {
       "repository": "awesome-css-group/awesome-css",
@@ -2646,15 +2646,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 5646,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5656,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":art: A curated contents of amazing CSS :)",
+      "license_spdx_id": "CC-BY-SA-4.0",
+      "archived": false,
+      "pushed_at": "2024-10-30T07:00:24Z"
     },
     {
       "repository": "JingwenTian/awesome-frontend",
@@ -2668,15 +2668,15 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 1742,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1743,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of amazingly awesome frontend libraries, resources and shiny things.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-05-11T10:10:57Z"
     },
     {
       "repository": "rajasegar/awesome-micro-frontends",
@@ -2691,14 +2691,14 @@
         "web-development"
       ],
       "stars": 1286,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2023-12-24T11:22:48Z"
     },
     {
       "repository": "felipefialho/frontend-awesome",
@@ -2713,14 +2713,14 @@
         "web-development"
       ],
       "stars": 472,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated, community-maintained list of tools and resources for building for the web",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-28T19:16:05Z"
     },
     {
       "repository": "Solido/awesome-flutter",
@@ -2734,15 +2734,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 61708,
-      "stars_checked_at": "2026-10-29",
+      "stars": 61758,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-09-03T04:34:54Z"
     },
     {
       "repository": "vsouza/awesome-ios",
@@ -2756,15 +2756,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 53814,
-      "stars_checked_at": "2026-10-29",
+      "stars": 53846,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-27T19:34:29Z"
     },
     {
       "repository": "jondot/awesome-react-native",
@@ -2778,15 +2778,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 35705,
-      "stars_checked_at": "2026-10-29",
+      "stars": 35707,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Awesome React Native components, news, tools, and learning material!",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-08-26T14:11:18Z"
     },
     {
       "repository": "JStumpp/awesome-android",
@@ -2800,15 +2800,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 12430,
-      "stars_checked_at": "2026-10-29",
+      "stars": 12436,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Android packages and resources.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-10-27T08:14:07Z"
     },
     {
       "repository": "opendigg/awesome-github-android-ui",
@@ -2822,15 +2822,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5781,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5785,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "安卓UI相关开源项目库汇总 ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2017-11-09T09:54:33Z"
     },
     {
       "repository": "wasabeef/awesome-android-libraries",
@@ -2845,14 +2845,14 @@
         "mobile"
       ],
       "stars": 5532,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2023-08-29T05:35:31Z"
     },
     {
       "repository": "v5tech/awesome-ios-animation",
@@ -2866,15 +2866,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5471,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5474,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-10-28T05:58:10Z"
     },
     {
       "repository": "onmyway133/awesome-ios-architecture",
@@ -2888,15 +2888,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5267,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5268,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":japanese_castle: Better ways to structure iOS apps",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2023-11-29T09:31:50Z"
     },
     {
       "repository": "fluttergems/awesome-open-source-flutter-apps",
@@ -2910,15 +2910,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 3172,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3175,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome open source Flutter apps",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-10T16:45:55Z"
     },
     {
       "repository": "vinta/awesome-python",
@@ -2933,15 +2933,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 331184,
-      "stars_checked_at": "2026-10-29",
+      "stars": 331997,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-02T04:36:52Z"
     },
     {
       "repository": "avelino/awesome-go",
@@ -2956,15 +2956,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 191049,
-      "stars_checked_at": "2026-10-29",
+      "stars": 191727,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T13:35:16Z"
     },
     {
       "repository": "sindresorhus/awesome-nodejs",
@@ -2979,15 +2979,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 67301,
-      "stars_checked_at": "2026-10-29",
+      "stars": 67349,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-02T02:11:34Z"
     },
     {
       "repository": "rust-unofficial/awesome-rust",
@@ -3002,15 +3002,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 60190,
-      "stars_checked_at": "2026-10-29",
+      "stars": 60288,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Rust code and resources.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T19:26:26Z"
     },
     {
       "repository": "mahmoud/awesome-python-applications",
@@ -3025,15 +3025,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 18126,
-      "stars_checked_at": "2026-10-29",
+      "stars": 18133,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "💿 Free software that works great, and also happens to be open-source Python. ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-18T07:15:39Z"
     },
     {
       "repository": "sqreen/awesome-nodejs-projects",
@@ -3048,15 +3048,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 5591,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5592,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated list of awesome open-source applications made with Node.js",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-05-16T04:11:42Z"
     },
     {
       "repository": "zhashkevych/awesome-backend",
@@ -3072,14 +3072,14 @@
         "full-stack"
       ],
       "stars": 3498,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-04-17T12:56:50Z"
     },
     {
       "repository": "bnb/awesome-awesome-nodejs",
@@ -3094,15 +3094,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 1636,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1637,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2023-02-07T19:57:30Z"
     },
     {
       "repository": "ManzDev/awesome-fullstack",
@@ -3118,14 +3118,14 @@
         "full-stack"
       ],
       "stars": 33,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A list of curated resources related to FullStack (Frontend, Backend and DevOps)",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": true,
+      "pushed_at": "2020-06-24T07:24:17Z"
     },
     {
       "repository": "augustogoulart/awesome-typescript-backends",
@@ -3141,14 +3141,14 @@
         "full-stack"
       ],
       "stars": 7,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of TypeScript backend frameworks, libraries, fullstack examples, starters, and learning resources.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-10-07T01:50:39Z"
     },
     {
       "repository": "josephmisiti/awesome-machine-learning",
@@ -3163,15 +3163,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 74690,
-      "stars_checked_at": "2026-10-29",
+      "stars": 74738,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-01T16:30:10Z"
     },
     {
       "repository": "Hannibal046/Awesome-LLM",
@@ -3186,15 +3186,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 27463,
-      "stars_checked_at": "2026-10-29",
+      "stars": 27473,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome-LLM: a curated list of Large Language Model",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-07-31T02:38:24Z"
     },
     {
       "repository": "AiHubCN/Awesome-Chinese-LLM",
@@ -3209,15 +3209,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 22769,
-      "stars_checked_at": "2026-10-29",
+      "stars": 22775,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-05-10T05:03:06Z"
     },
     {
       "repository": "EthicalML/awesome-production-machine-learning",
@@ -3232,15 +3232,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 21059,
-      "stars_checked_at": "2026-10-29",
+      "stars": 21067,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-01T05:14:48Z"
     },
     {
       "repository": "WangRongsheng/awesome-LLM-resources",
@@ -3255,15 +3255,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 9051,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9065,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-11-01T12:01:21Z"
     },
     {
       "repository": "tensorchord/Awesome-LLMOps",
@@ -3278,15 +3278,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 5968,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5969,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An awesome & curated list of best LLMOps tools for developers",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-16T06:34:42Z"
     },
     {
       "repository": "DEEP-PolyU/Awesome-GraphRAG",
@@ -3301,15 +3301,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 2681,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2683,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-02T12:52:38Z"
     },
     {
       "repository": "lizhe2004/Awesome-LLM-RAG-Application",
@@ -3324,15 +3324,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 1663,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1664,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "the resources about the application based on LLM with RAG pattern",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-12T05:58:46Z"
     },
     {
       "repository": "jxzhangjhu/Awesome-LLM-RAG",
@@ -3348,14 +3348,14 @@
         "rag"
       ],
       "stars": 1371,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-31T15:56:45Z"
     },
     {
       "repository": "aishwaryanr/awesome-generative-ai-guide",
@@ -3369,15 +3369,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 30021,
-      "stars_checked_at": "2026-10-29",
+      "stars": 30103,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-28T23:53:56Z"
     },
     {
       "repository": "steven2358/awesome-generative-ai",
@@ -3391,15 +3391,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 12787,
-      "stars_checked_at": "2026-10-29",
+      "stars": 12802,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-30T17:31:48Z"
     },
     {
       "repository": "ai-collection/ai-collection",
@@ -3413,15 +3413,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 9257,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9268,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-29T12:23:42Z"
     },
     {
       "repository": "JimmyLv/awesome-nano-banana",
@@ -3435,15 +3435,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 8807,
-      "stars_checked_at": "2026-10-29",
+      "stars": 8800,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Gemini, showcasing Google’s advanced image generation capabilities.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2025-09-08T15:05:52Z"
     },
     {
       "repository": "showlab/Awesome-Video-Diffusion",
@@ -3457,15 +3457,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 5821,
-      "stars_checked_at": "2026-10-29",
+      "stars": 5826,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of recent diffusion models for video generation, editing, and various other applications.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-27T21:08:31Z"
     },
     {
       "repository": "filipecalegario/awesome-generative-ai",
@@ -3479,15 +3479,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 3563,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3565,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Generative AI tools, works, models, and references",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-12-18T07:31:25Z"
     },
     {
       "repository": "altryne/awesome-ai-art-image-synthesis",
@@ -3502,14 +3502,14 @@
         "image-video"
       ],
       "stars": 1824,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2022-12-03T09:33:26Z"
     },
     {
       "repository": "ComfyUI-Workflow/awesome-comfyui",
@@ -3524,14 +3524,14 @@
         "image-video"
       ],
       "stars": 743,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of awesome custom nodes for ComfyUI",
+      "license_spdx_id": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2025-07-24T00:15:02Z"
     },
     {
       "repository": "Anil-matcha/awesome-generative-ai-apps",
@@ -3545,15 +3545,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 668,
-      "stars_checked_at": "2026-10-29",
+      "stars": 695,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-22T18:33:42Z"
     },
     {
       "repository": "wentianli/awesome-video-editing",
@@ -3568,14 +3568,14 @@
         "image-video"
       ],
       "stars": 101,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A paper list on video editing (in a cinematographic sense) and its related computer vision tasks.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-16T03:54:27Z"
     },
     {
       "repository": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
@@ -3591,14 +3591,14 @@
         "voice"
       ],
       "stars": 3133,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2023-10-19T03:52:13Z"
     },
     {
       "repository": "sindresorhus/awesome-whisper",
@@ -3613,15 +3613,15 @@
         "speech",
         "voice"
       ],
-      "stars": 2422,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2426,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-17T05:00:10Z"
     },
     {
       "repository": "libukai/Awesome-ChatTTS",
@@ -3636,15 +3636,15 @@
         "speech",
         "voice"
       ],
-      "stars": 1884,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1885,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-07-03T14:50:43Z"
     },
     {
       "repository": "WenzheLiu-Speech/awesome-speech-enhancement",
@@ -3660,14 +3660,14 @@
         "voice"
       ],
       "stars": 1253,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "speech enhancement\\speech seperation\\sound source localization",
+      "license_spdx_id": "GPL-2.0",
+      "archived": false,
+      "pushed_at": "2023-11-14T09:00:38Z"
     },
     {
       "repository": "nanahou/Awesome-Speech-Enhancement",
@@ -3683,14 +3683,14 @@
         "voice"
       ],
       "stars": 841,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2020-12-01T10:20:50Z"
     },
     {
       "repository": "EnableSecurity/awesome-rtc-hacking",
@@ -3705,15 +3705,15 @@
         "speech",
         "voice"
       ],
-      "stars": 557,
-      "stars_checked_at": "2026-10-29",
+      "stars": 558,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-06-30T08:25:18Z"
     },
     {
       "repository": "metame-ai/awesome-audio-plaza",
@@ -3729,14 +3729,14 @@
         "voice"
       ],
       "stars": 410,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Daily tracking of awesome audio papers, including music generation, zero-shot tts, asr, audio generation",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-11-02T02:57:14Z"
     },
     {
       "repository": "zycv/awesome-keyword-spotting",
@@ -3752,14 +3752,14 @@
         "voice"
       ],
       "stars": 294,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "This repository is a curated list of awesome Speech Keyword Spotting (Wake-Up Word Detection).",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2022-05-23T15:58:11Z"
     },
     {
       "repository": "nuzulul/awesome-webrtc",
@@ -3775,14 +3775,14 @@
         "voice"
       ],
       "stars": 49,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome WebRTC resources.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-05T08:36:55Z"
     },
     {
       "repository": "wespeech/awesome-tts",
@@ -3798,14 +3798,14 @@
         "voice"
       ],
       "stars": 23,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2022-04-25T06:47:48Z"
     },
     {
       "repository": "enescingoz/awesome-n8n-templates",
@@ -3819,15 +3819,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 26168,
-      "stars_checked_at": "2026-10-29",
+      "stars": 26232,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-09-12T13:00:32Z"
     },
     {
       "repository": "atinfo/awesome-test-automation",
@@ -3841,15 +3841,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 7202,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7208,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-11-28T16:02:39Z"
     },
     {
       "repository": "restyler/awesome-n8n",
@@ -3864,14 +3864,14 @@
         "workflows"
       ],
       "stars": 3000,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Useful n8n resources: list of community nodes and tutorials",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-01-20T08:27:38Z"
     },
     {
       "repository": "networktocode/awesome-network-automation",
@@ -3885,15 +3885,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 2871,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2878,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated Awesome list about Network Automation",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-01T01:47:12Z"
     },
     {
       "repository": "dariubs/awesome-workflow-automation",
@@ -3907,15 +3907,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 1254,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1259,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Workflow Automation  Software, Engines and Tools",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-04-28T14:45:31Z"
     },
     {
       "repository": "python-geeks/Automation-scripts",
@@ -3930,14 +3930,14 @@
         "workflows"
       ],
       "stars": 1234,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Repo for creating awesome automation scripts to make my panda lazier",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-08-09T05:29:05Z"
     },
     {
       "repository": "correlatedsecurity/Awesome-SOAR",
@@ -3951,15 +3951,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 1006,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1008,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated Cyber \"Security Orchestration, Automation and Response (SOAR)\" awesome list.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-08-26T12:58:28Z"
     },
     {
       "repository": "angrykoala/awesome-browser-automation",
@@ -3973,15 +3973,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 651,
-      "stars_checked_at": "2026-10-29",
+      "stars": 652,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated list of awesome browser automation tools and resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-28T19:26:46Z"
     },
     {
       "repository": "felipfr/awesome-n8n-workflows",
@@ -3996,14 +3996,14 @@
         "workflows"
       ],
       "stars": 414,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-08-08T14:15:29Z"
     },
     {
       "repository": "rpabotsworld/awesome-rpa",
@@ -4018,14 +4018,14 @@
         "workflows"
       ],
       "stars": 88,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome RPA Tools, Blogs, frameworks, libraries, software and resources",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2022-10-25T16:20:19Z"
     },
     {
       "repository": "dhamaniasad/awesome-postgres",
@@ -4040,14 +4040,14 @@
         "visualization"
       ],
       "stars": 12126,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-08-31T09:07:19Z"
     },
     {
       "repository": "pingcap/awesome-database-learning",
@@ -4061,15 +4061,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 11233,
-      "stars_checked_at": "2026-10-29",
+      "stars": 11239,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A list of learning materials to understand databases internals",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-08-29T02:14:04Z"
     },
     {
       "repository": "hal9ai/awesome-dataviz",
@@ -4083,15 +4083,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 4444,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4447,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome data visualization libraries and resources.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-27T22:24:57Z"
     },
     {
       "repository": "chartjs/awesome",
@@ -4105,15 +4105,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 2734,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2735,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Chart.js resources and libraries",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-03-23T13:19:39Z"
     },
     {
       "repository": "jrieke/best-of-streamlit",
@@ -4127,15 +4127,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 1417,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1418,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🏆 A ranked gallery of awesome streamlit apps built by the community",
+      "license_spdx_id": "CC-BY-SA-4.0",
+      "archived": false,
+      "pushed_at": "2024-06-28T01:43:05Z"
     },
     {
       "repository": "xephonhq/awesome-time-series-database",
@@ -4149,15 +4149,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 889,
-      "stars_checked_at": "2026-10-29",
+      "stars": 888,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": ":clock7: A curated list of awesome time series databases, benchmarks and papers",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2023-07-14T19:09:53Z"
     },
     {
       "repository": "cube-js/awesome-tools",
@@ -4172,14 +4172,14 @@
         "visualization"
       ],
       "stars": 214,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-03-02T10:51:09Z"
     },
     {
       "repository": "pg-tr/awesome-postgres",
@@ -4193,15 +4193,15 @@
         "databases",
         "visualization"
       ],
-      "stars": 212,
-      "stars_checked_at": "2026-10-29",
+      "stars": 213,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-06-16T16:03:23Z"
     },
     {
       "repository": "alpers/awesome-data-visualization",
@@ -4216,14 +4216,14 @@
         "visualization"
       ],
       "stars": 21,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome data visualization resources, tools and communities.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2020-11-14T11:33:35Z"
     },
     {
       "repository": "tkoyama010/awesome-python-data-visualization",
@@ -4238,14 +4238,14 @@
         "visualization"
       ],
       "stars": 15,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎 list of awesome python data visualization",
+      "license_spdx_id": "CC-BY-4.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T19:41:06Z"
     },
     {
       "repository": "adrien2p/awesome-medusajs",
@@ -4260,14 +4260,14 @@
         "payments"
       ],
       "stars": 636,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome resources related to MedusaJS 😎",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-12-09T09:02:24Z"
     },
     {
       "repository": "olivrg/Awesome-Open-Source-eCommerce-Platforms",
@@ -4281,15 +4281,15 @@
         "fintech",
         "payments"
       ],
-      "stars": 546,
-      "stars_checked_at": "2026-10-29",
+      "stars": 547,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome list of open source e-commerce platforms",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-24T13:29:48Z"
     },
     {
       "repository": "notrab/awesome-headless-commerce",
@@ -4304,14 +4304,14 @@
         "payments"
       ],
       "stars": 467,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A community curated list of headless commerce APIs, products, and services. A heads-up for modern store builders.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-29T18:19:02Z"
     },
     {
       "repository": "ScaleLeap/awesome-amazon-seller",
@@ -4326,14 +4326,14 @@
         "payments"
       ],
       "stars": 450,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of tools and resources for Amazon sellers.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-31T10:39:03Z"
     },
     {
       "repository": "lukecav/awesome-woocommerce",
@@ -4348,14 +4348,14 @@
         "payments"
       ],
       "stars": 448,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Plugins and code snippets to improve your WooCommerce store.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2022-11-16T19:42:26Z"
     },
     {
       "repository": "astrotars/awesome-ecommerce-stack",
@@ -4370,14 +4370,14 @@
         "payments"
       ],
       "stars": 443,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "💰 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-02-17T23:40:37Z"
     },
     {
       "repository": "LeCoupa/awesome-shopify",
@@ -4392,14 +4392,14 @@
         "payments"
       ],
       "stars": 134,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2022-12-30T19:31:46Z"
     },
     {
       "repository": "zachary/awesome-ecommerce",
@@ -4414,14 +4414,14 @@
         "payments"
       ],
       "stars": 78,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Collect and develop Open Source or Free Projects for building ecommerce platform easy and fast and free",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-01-08T13:29:03Z"
     },
     {
       "repository": "sandermangel/awesome-pwa-ecommerce",
@@ -4436,14 +4436,14 @@
         "payments"
       ],
       "stars": 72,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A collection of awesome cases and technologies around PWA in Ecommerce",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2022-04-06T08:54:50Z"
     },
     {
       "repository": "MentionNetwork/awesome-agentic-commerce",
@@ -4458,14 +4458,14 @@
         "payments"
       ],
       "stars": 65,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-07-20T06:57:02Z"
     },
     {
       "repository": "mmccaff/PlacesToPostYourStartup",
@@ -4479,15 +4479,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 8307,
-      "stars_checked_at": "2026-10-29",
+      "stars": 8345,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-08-29T14:08:02Z"
     },
     {
       "repository": "EdoStra/Marketing-for-Founders",
@@ -4501,15 +4501,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 7138,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7160,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
+      "license_spdx_id": "CC-BY-SA-4.0",
+      "archived": false,
+      "pushed_at": "2026-07-13T14:23:35Z"
     },
     {
       "repository": "i365dev/awesome-seo",
@@ -4523,15 +4523,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 2832,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2845,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated SEO, GEO & AI Search resources — technical SEO, agent discoverability, analytics, and traffic monetization.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-21T02:18:51Z"
     },
     {
       "repository": "serpapi/awesome-seo-tools",
@@ -4545,15 +4545,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 1134,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1139,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated list of awesome SEO tools",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T01:02:45Z"
     },
     {
       "repository": "teles/awesome-seo",
@@ -4567,15 +4567,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 885,
-      "stars_checked_at": "2026-10-29",
+      "stars": 886,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": ":star2: A curated list of SEO (Search Engine Optimization) links.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-31T19:22:48Z"
     },
     {
       "repository": "marketingtoolslist/awesome-marketing",
@@ -4589,15 +4589,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 493,
-      "stars_checked_at": "2026-10-29",
+      "stars": 495,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome marketing tools and resources",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-27T07:26:41Z"
     },
     {
       "repository": "ronakganatra/awesome-marketing",
@@ -4612,14 +4612,14 @@
         "marketing"
       ],
       "stars": 414,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A living document of hand-picked resources for marketers.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-30T13:37:05Z"
     },
     {
       "repository": "best-of-ai/awesome-ai-seo",
@@ -4633,15 +4633,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 321,
-      "stars_checked_at": "2026-10-29",
+      "stars": 324,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of AI marketing tools and resources",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-27T09:56:43Z"
     },
     {
       "repository": "paulbradish/awesome-digital-marketing",
@@ -4655,15 +4655,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 320,
-      "stars_checked_at": "2026-10-29",
+      "stars": 321,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎 A curated list of awesome digital marketing guides, resources, services, & more.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2024-07-29T15:44:32Z"
     },
     {
       "repository": "indie-hacking/Awesome-SEO-Backlinks",
@@ -4677,15 +4677,15 @@
         "growth",
         "marketing"
       ],
-      "stars": 140,
-      "stars_checked_at": "2026-10-29",
+      "stars": 141,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated collection of backlinks to optimize SEO",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-02-29T01:11:06Z"
     },
     {
       "repository": "awesome-selfhosted/awesome-selfhosted",
@@ -4699,15 +4699,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 331799,
-      "stars_checked_at": "2026-10-29",
+      "stars": 333091,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-02T10:34:16Z"
     },
     {
       "repository": "trimstray/the-book-of-secret-knowledge",
@@ -4721,15 +4721,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 254296,
-      "stars_checked_at": "2026-10-29",
+      "stars": 255361,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-11-19T14:00:38Z"
     },
     {
       "repository": "binhnguyennus/awesome-scalability",
@@ -4743,15 +4743,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 75221,
-      "stars_checked_at": "2026-10-29",
+      "stars": 75314,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-01-04T03:51:47Z"
     },
     {
       "repository": "awesome-foss/awesome-sysadmin",
@@ -4765,15 +4765,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 35545,
-      "stars_checked_at": "2026-10-29",
+      "stars": 35583,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-22T11:46:19Z"
     },
     {
       "repository": "ramitsurana/awesome-kubernetes",
@@ -4787,15 +4787,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 16131,
-      "stars_checked_at": "2026-10-29",
+      "stars": 16136,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list for awesome kubernetes sources :ship::tada:",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-31T06:53:23Z"
     },
     {
       "repository": "visenger/awesome-mlops",
@@ -4809,15 +4809,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 14255,
-      "stars_checked_at": "2026-10-29",
+      "stars": 14257,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of references for MLOps ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-11-21T14:45:11Z"
     },
     {
       "repository": "dastergon/awesome-sre",
@@ -4831,15 +4831,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 13745,
-      "stars_checked_at": "2026-10-29",
+      "stars": 13748,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Site Reliability and Production Engineering resources.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2025-08-28T14:43:14Z"
     },
     {
       "repository": "wmariuss/awesome-devops",
@@ -4853,15 +4853,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 4443,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4447,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T06:12:58Z"
     },
     {
       "repository": "ligurio/awesome-ci",
@@ -4875,15 +4875,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 4175,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4177,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The list of continuous integration services and tools",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-06T14:59:44Z"
     },
     {
       "repository": "rootsongjc/awesome-cloud-native",
@@ -4897,15 +4897,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 2543,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2549,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list for awesome cloud native tools, software and tutorials.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T06:26:08Z"
     },
     {
       "repository": "Hack-with-Github/Awesome-Hacking",
@@ -4920,15 +4920,15 @@
         "security",
         "testing"
       ],
-      "stars": 124019,
-      "stars_checked_at": "2026-10-29",
+      "stars": 124417,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-27T01:45:58Z"
     },
     {
       "repository": "pluja/awesome-privacy",
@@ -4943,15 +4943,15 @@
         "security",
         "testing"
       ],
-      "stars": 20137,
-      "stars_checked_at": "2026-10-29",
+      "stars": 20169,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T16:55:45Z"
     },
     {
       "repository": "sbilly/awesome-security",
@@ -4966,15 +4966,15 @@
         "security",
         "testing"
       ],
-      "stars": 15051,
-      "stars_checked_at": "2026-10-29",
+      "stars": 15064,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-01-11T02:00:26Z"
     },
     {
       "repository": "qazbnm456/awesome-web-security",
@@ -4989,15 +4989,15 @@
         "security",
         "testing"
       ],
-      "stars": 13977,
-      "stars_checked_at": "2026-10-29",
+      "stars": 13992,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🐶 A curated list of Web Security materials and resources.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T14:05:42Z"
     },
     {
       "repository": "hslatman/awesome-threat-intelligence",
@@ -5012,15 +5012,15 @@
         "security",
         "testing"
       ],
-      "stars": 10792,
-      "stars_checked_at": "2026-10-29",
+      "stars": 10817,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Awesome Threat Intelligence resources",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-30T13:48:16Z"
     },
     {
       "repository": "lissy93/awesome-privacy",
@@ -5035,15 +5035,15 @@
         "security",
         "testing"
       ],
-      "stars": 10025,
-      "stars_checked_at": "2026-10-29",
+      "stars": 10042,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🦄  A curated list of privacy & security-focused software and services",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-31T05:09:14Z"
     },
     {
       "repository": "meirwah/awesome-incident-response",
@@ -5058,15 +5058,15 @@
         "security",
         "testing"
       ],
-      "stars": 9513,
-      "stars_checked_at": "2026-10-29",
+      "stars": 9526,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of tools for incident response",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-13T05:08:25Z"
     },
     {
       "repository": "paragonie/awesome-appsec",
@@ -5081,15 +5081,15 @@
         "security",
         "testing"
       ],
-      "stars": 7126,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7128,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of resources for learning about application security",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2025-02-22T16:39:11Z"
     },
     {
       "repository": "kdeldycke/awesome-iam",
@@ -5104,15 +5104,15 @@
         "security",
         "testing"
       ],
-      "stars": 2312,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2318,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "👤 Identity and Access Management knowledge for cloud platforms",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-31T09:06:14Z"
     },
     {
       "repository": "pomerium/awesome-zero-trust",
@@ -5127,15 +5127,15 @@
         "security",
         "testing"
       ],
-      "stars": 775,
-      "stars_checked_at": "2026-10-29",
+      "stars": 776,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated collection of awesome resources for the zero-trust security model. ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2022-12-09T17:36:47Z"
     },
     {
       "repository": "chaozh/awesome-blockchain-cn",
@@ -5149,15 +5149,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 18942,
-      "stars_checked_at": "2026-10-29",
+      "stars": 18948,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2024-02-29T07:33:18Z"
     },
     {
       "repository": "OffcierCia/DeFi-Developer-Road-Map",
@@ -5171,15 +5171,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 10879,
-      "stars_checked_at": "2026-10-29",
+      "stars": 10886,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-20T15:42:14Z"
     },
     {
       "repository": "openblockchains/awesome-blockchains",
@@ -5193,15 +5193,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 3783,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3782,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2023-02-10T16:37:58Z"
     },
     {
       "repository": "rust-in-blockchain/awesome-blockchain-rust",
@@ -5215,15 +5215,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 2827,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2828,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Collect libraries and packages about blockchain/cryptography in Rust",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-05-17T21:39:23Z"
     },
     {
       "repository": "ong/awesome-decentralized-finance",
@@ -5237,15 +5237,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1672,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1674,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A curated list of awesome decentralized finance projects",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-01-14T20:11:22Z"
     },
     {
       "repository": "crytic/awesome-ethereum-security",
@@ -5260,14 +5260,14 @@
         "web3"
       ],
       "stars": 1482,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Ethereum security references",
+      "license_spdx_id": "CC-BY-4.0",
+      "archived": false,
+      "pushed_at": "2024-08-20T12:39:26Z"
     },
     {
       "repository": "fltenwall/web3-awesome",
@@ -5282,14 +5282,14 @@
         "web3"
       ],
       "stars": 1425,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "web3百科全书👏🏻 打造 web3 全球第一中文资源",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-11-01T11:36:05Z"
     },
     {
       "repository": "4337Mafia/awesome-account-abstraction",
@@ -5303,15 +5303,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1022,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1023,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-06-09T22:38:44Z"
     },
     {
       "repository": "ahmet/awesome-web3",
@@ -5325,15 +5325,15 @@
         "decentralization",
         "web3"
       ],
-      "stars": 904,
-      "stars_checked_at": "2026-10-29",
+      "stars": 906,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T20:26:38Z"
     },
     {
       "repository": "Mikerah/awesome-foundations-of-DeFi",
@@ -5348,14 +5348,14 @@
         "web3"
       ],
       "stars": 230,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An Awesome List for resources on the foundations of Decentralized Finance (DeFi)",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2023-05-24T05:08:52Z"
     },
     {
       "repository": "ellisonleao/magictools",
@@ -5369,15 +5369,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 17631,
-      "stars_checked_at": "2026-10-29",
+      "stars": 17669,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-31T19:32:43Z"
     },
     {
       "repository": "RyanNielson/awesome-unity",
@@ -5391,15 +5391,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 7092,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7090,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome Unity assets, resources, and more.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": true,
+      "pushed_at": "2025-01-22T15:47:15Z"
     },
     {
       "repository": "gamedev-skills/awesome-gamedev-agent-skills",
@@ -5413,15 +5413,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 5602,
-      "stars_checked_at": "2026-10-29",
+      "stars": 6580,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-28T03:10:14Z"
     },
     {
       "repository": "gbdev/awesome-gbdev",
@@ -5435,15 +5435,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 4538,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4542,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+      "license_spdx_id": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-26T18:56:20Z"
     },
     {
       "repository": "baba-s/awesome-unity-open-source-on-github",
@@ -5457,15 +5457,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 4477,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4479,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
+      "license_spdx_id": "Unlicense",
+      "archived": false,
+      "pushed_at": "2026-02-02T09:52:39Z"
     },
     {
       "repository": "dawdle-deer/awesome-learn-gamedev",
@@ -5479,15 +5479,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 3589,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3594,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated collection of game development learning resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-06-01T23:12:11Z"
     },
     {
       "repository": "Calinou/awesome-gamedev",
@@ -5501,15 +5501,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 3204,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3209,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+      "license_spdx_id": "CC-BY-SA-4.0",
+      "archived": false,
+      "pushed_at": "2026-08-25T18:12:52Z"
     },
     {
       "repository": "stevinz/awesome-game-engine-dev",
@@ -5523,15 +5523,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 1441,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1445,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome list of resources for Game Engine Development.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-08-17T18:26:37Z"
     },
     {
       "repository": "gbadev-org/awesome-gbadev",
@@ -5545,15 +5545,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 1360,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1363,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of Game Boy Advance development resources",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-01-30T13:27:32Z"
     },
     {
       "repository": "mbrukman/awesome-game-dev",
@@ -5568,14 +5568,14 @@
         "spatial-computing"
       ],
       "stars": 571,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":video_game: A list of Game Development resources to make magic happen.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-17T20:27:11Z"
     },
     {
       "repository": "rust-embedded/awesome-embedded-rust",
@@ -5590,15 +5590,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 8167,
-      "stars_checked_at": "2026-10-29",
+      "stars": 8177,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-27T09:25:54Z"
     },
     {
       "repository": "kiloreux/awesome-robotics",
@@ -5613,15 +5613,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 7267,
-      "stars_checked_at": "2026-10-29",
+      "stars": 7275,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A list of awesome Robotics resources",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2024-09-22T20:24:10Z"
     },
     {
       "repository": "phodal/awesome-iot",
@@ -5636,15 +5636,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 4634,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4637,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T07:47:47Z"
     },
     {
       "repository": "GT-RIPL/Awesome-LLM-Robotics",
@@ -5659,15 +5659,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 4495,
-      "stars_checked_at": "2026-10-29",
+      "stars": 4496,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+      "license_spdx_id": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-10-29T04:41:10Z"
     },
     {
       "repository": "jslee02/awesome-robotics-libraries",
@@ -5682,15 +5682,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 3097,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3103,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":sunglasses: A curated list of robotics libraries and software",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T17:56:20Z"
     },
     {
       "repository": "YanjieZe/awesome-humanoid-robot-learning",
@@ -5705,15 +5705,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 2862,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2870,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A Paper List for Humanoid Robot Learning.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T02:06:36Z"
     },
     {
       "repository": "fkromer/awesome-ros2",
@@ -5728,15 +5728,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 2135,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2138,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "The Robot Operating System Version 2.0 is awesome!",
+      "license_spdx_id": "NOASSERTION",
+      "archived": true,
+      "pushed_at": "2023-08-18T07:40:50Z"
     },
     {
       "repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -5752,14 +5752,14 @@
         "robotics"
       ],
       "stars": 1910,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
+      "license_spdx_id": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-30T10:54:00Z"
     },
     {
       "repository": "mjyc/awesome-robotics-projects",
@@ -5774,15 +5774,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 1824,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1827,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-02-13T01:40:21Z"
     },
     {
       "repository": "mathworks-robotics/awesome-matlab-robotics",
@@ -5797,15 +5797,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 1738,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1742,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-12T14:40:12Z"
     },
     {
       "repository": "academic/awesome-datascience",
@@ -5819,15 +5819,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 30248,
-      "stars_checked_at": "2026-10-29",
+      "stars": 30267,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-31T21:12:43Z"
     },
     {
       "repository": "wowlusitong/awesome-education",
@@ -5841,15 +5841,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 2195,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2196,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "学生福利-收集支持教育优惠的软件与服务",
+      "license_spdx_id": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2021-03-14T01:49:42Z"
     },
     {
       "repository": "ai4s-research/awesome-ai-for-science",
@@ -5863,15 +5863,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 2059,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2065,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-02T08:37:21Z"
     },
     {
       "repository": "yrgo/awesome-educational-games",
@@ -5885,15 +5885,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 1201,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1204,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome educational games to learn editors, languages, programming, etc",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2024-04-08T06:32:51Z"
     },
     {
       "repository": "gaerae/awesome-algorithms-education",
@@ -5908,14 +5908,14 @@
         "science"
       ],
       "stars": 908,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of courses, online judges, visualizations, books and competitions for learning and practicing algorithms. English and Korean.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-28T16:29:56Z"
     },
     {
       "repository": "quobit/awesome-python-in-education",
@@ -5930,14 +5930,14 @@
         "science"
       ],
       "stars": 907,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list about Python in Education :snake: :mortar_board:",
+      "license_spdx_id": "CC0-1.0",
+      "archived": true,
+      "pushed_at": "2024-06-06T07:05:41Z"
     },
     {
       "repository": "mathworks/awesome-matlab-students",
@@ -5951,15 +5951,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 763,
-      "stars_checked_at": "2026-10-29",
+      "stars": 766,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-14T15:36:07Z"
     },
     {
       "repository": "fffaraz/awesome-courses",
@@ -5974,14 +5974,14 @@
         "science"
       ],
       "stars": 423,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "List of free online programming/CS courses [Massive Open Online Courses]",
+      "license_spdx_id": "Unlicense",
+      "archived": true,
+      "pushed_at": "2019-10-26T22:00:20Z"
     },
     {
       "repository": "GeminiLight/awesome-ai-llm4education",
@@ -5996,14 +5996,14 @@
         "science"
       ],
       "stars": 221,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Awesome artificial intelligence (AI) and large language model (LLM) for education papers.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-10-23T11:31:32Z"
     },
     {
       "repository": "hkalant/awesome-edtech-tools",
@@ -6018,14 +6018,14 @@
         "science"
       ],
       "stars": 217,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "An ongoing curated list with awesome tools and resources for instructional designers.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2025-09-02T20:26:12Z"
     },
     {
       "repository": "sindresorhus/awesome",
@@ -6039,15 +6039,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 526824,
-      "stars_checked_at": "2026-10-29",
+      "stars": 529611,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-09-02T02:10:47Z"
     },
     {
       "repository": "hesreallyhim/awesome-claude-code",
@@ -6061,15 +6061,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 56865,
-      "stars_checked_at": "2026-10-29",
+      "stars": 57115,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-02T18:08:06Z"
     },
     {
       "repository": "agarrharr/awesome-cli-apps",
@@ -6083,15 +6083,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 20583,
-      "stars_checked_at": "2026-10-29",
+      "stars": 20588,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": true,
+      "pushed_at": "2026-10-12T03:27:55Z"
     },
     {
       "repository": "jamesmurdza/awesome-ai-devtools",
@@ -6105,15 +6105,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 3990,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3992,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated list of AI-powered developer tools.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-08-27T15:25:27Z"
     },
     {
       "repository": "stefanbuck/awesome-browser-extensions-for-github",
@@ -6127,15 +6127,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 3316,
-      "stars_checked_at": "2026-10-29",
+      "stars": 3323,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "A collection of awesome browser extensions for GitHub.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2024-08-18T20:11:31Z"
     },
     {
       "repository": "agamm/awesome-developer-first",
@@ -6149,15 +6149,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1866,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1870,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome developer-first tools products.",
+      "license_spdx_id": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-11-02T11:45:07Z"
     },
     {
       "repository": "open-saas-directory/awesome-native-macosx-apps",
@@ -6171,15 +6171,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1661,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1671,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "Discover the best mac apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities.",
+      "license_spdx_id": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-01T20:49:35Z"
     },
     {
       "repository": "bradAGI/awesome-cli-coding-agents",
@@ -6193,15 +6193,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1427,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1441,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. ",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-11-02T17:37:04Z"
     },
     {
       "repository": "ml-tooling/best-of-python-dev",
@@ -6215,15 +6215,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1323,
-      "stars_checked_at": "2026-10-29",
+      "stars": 1322,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
+      "license_spdx_id": "CC-BY-SA-4.0",
+      "archived": false,
+      "pushed_at": "2026-10-29T20:05:13Z"
     },
     {
       "repository": "devtoolsd/awesome-devtools",
@@ -6237,15 +6237,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 687,
-      "stars_checked_at": "2026-10-29",
+      "stars": 690,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.",
+      "license_spdx_id": "Unlicense",
+      "archived": false,
+      "pushed_at": "2025-10-12T01:02:48Z"
     },
     {
       "repository": "Christian-Sidak/awesome-mcp-tools",
@@ -6260,14 +6260,14 @@
         "tool-integration"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of MCP servers, tools, SDKs, and resources for the Model Context Protocol ecosystem",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-07-18T23:42:54Z"
     },
     {
       "repository": "Sagargupta16/awesome-mcp-servers",
@@ -6281,15 +6281,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 27,
-      "stars_checked_at": "2026-10-29",
+      "stars": 40,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T12:40:47Z"
     },
     {
       "repository": "ianwieds/awesome-ai-agents",
@@ -6303,15 +6303,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 5,
-      "stars_checked_at": "2026-10-29",
+      "stars": 6,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T01:01:55Z"
     },
     {
       "repository": "korchasa/awesome-ai-agents",
@@ -6326,14 +6326,14 @@
         "ai-agents"
       ],
       "stars": 46,
-      "stars_checked_at": "2026-10-29",
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
-      "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "description": "This curated list focuses on tools and frameworks for building AI agents",
+      "license_spdx_id": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-11-02T04:10:22Z"
     },
     {
       "repository": "jasonniebauer/awesome-public-data-sources",
@@ -6347,15 +6347,16 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 1,
-      "stars_checked_at": "2026-10-29",
+      "stars": 2,
+      "stars_checked_at": "2026-11-02",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": null,
+      "description": "Curated list of high-quality public data sources, providers, and open datasets for projects, analysis, and inspiration.",
       "license_spdx_id": null,
-      "archived": null,
-      "pushed_at": null
+      "archived": false,
+      "pushed_at": "2026-03-29T22:40:53Z"
     }
-  ]
+  ],
+  "metadata_refreshed_at": "2026-11-02T20:27:05+00:00"
 }
