@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "project": "Every Awesome Repo",
   "purpose": "Discover and evaluate reusable open-source resources for any future application idea",
-  "snapshot_date": "2026-11-16",
+  "snapshot_date": "2026-11-23",
   "provenance": "270 ranked category entries plus all 34 screenshot sources (five previously missing), deduplicated by repository identity",
   "notes": [
     "Star counts are a historical snapshot, not live ranks.",
@@ -275,15 +275,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 31149,
-      "stars_checked_at": "2026-11-16",
+      "stars": 31351,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": ":scream: A curated list of amazingly awesome OSINT",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-12T12:36:25Z"
+      "pushed_at": "2026-11-22T17:42:14Z"
     },
     {
       "repository": "edoardottt/awesome-hacker-search-engines",
@@ -297,8 +297,8 @@
         "investigation",
         "osint"
       ],
-      "stars": 11519,
-      "stars_checked_at": "2026-11-16",
+      "stars": 11552,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -319,15 +319,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 9206,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9264,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collection of several hundred online tools for OSINT",
       "license_spdx_id": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-11-16T11:23:52Z"
+      "pushed_at": "2026-11-22T08:36:54Z"
     },
     {
       "repository": "Astrosp/Awesome-OSINT-List",
@@ -341,15 +341,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 4674,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4694,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
       "license_spdx_id": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-11-12T13:42:38Z"
+      "pushed_at": "2026-11-23T08:29:12Z"
     },
     {
       "repository": "rawfilejson/awesome-osint-arsenal",
@@ -363,8 +363,8 @@
         "investigation",
         "osint"
       ],
-      "stars": 3981,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4039,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -385,8 +385,8 @@
         "investigation",
         "osint"
       ],
-      "stars": 2908,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2911,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -407,15 +407,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 2435,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2441,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources",
       "license_spdx_id": "CC0-1.0",
-      "archived": true,
-      "pushed_at": "2025-06-26T23:21:05Z"
+      "archived": false,
+      "pushed_at": "2026-11-23T08:32:55Z"
     },
     {
       "repository": "OffcierCia/On-Chain-Investigations-Tools-List",
@@ -429,8 +429,8 @@
         "investigation",
         "osint"
       ],
-      "stars": 1990,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1993,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -451,15 +451,15 @@
         "investigation",
         "osint"
       ],
-      "stars": 549,
-      "stars_checked_at": "2026-11-16",
+      "stars": 554,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-12T21:16:27Z"
+      "pushed_at": "2026-11-22T16:23:23Z"
     },
     {
       "repository": "tracelabs/awesome-osint",
@@ -474,7 +474,7 @@
         "osint"
       ],
       "stars": 443,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -495,15 +495,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 97765,
-      "stars_checked_at": "2026-11-16",
+      "stars": 98427,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collection of MCP servers.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-06T17:59:03Z"
+      "pushed_at": "2026-11-23T20:45:40Z"
     },
     {
       "repository": "yzfly/Awesome-MCP-ZH",
@@ -517,8 +517,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 7838,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7862,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -539,8 +539,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 6642,
-      "stars_checked_at": "2026-11-16",
+      "stars": 6644,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -561,8 +561,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 5839,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5840,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -583,8 +583,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 4411,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4417,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -605,15 +605,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 3346,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3891,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collection of remote MCP servers.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-06T17:47:35Z"
+      "pushed_at": "2026-11-23T19:59:28Z"
     },
     {
       "repository": "rohitg00/awesome-devops-mcp-servers",
@@ -627,8 +627,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 1033,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1031,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -649,15 +649,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 1091,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1129,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A comprehensive collection of Model Context Protocol (MCP) servers",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T18:58:51Z"
+      "pushed_at": "2026-11-23T20:41:56Z"
     },
     {
       "repository": "ai-boost/awesome-a2a",
@@ -672,14 +672,14 @@
         "tool-integration"
       ],
       "stars": 710,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T08:58:18Z"
+      "pushed_at": "2026-11-23T08:53:33Z"
     },
     {
       "repository": "demcp/awesome-web3-mcp-servers",
@@ -694,7 +694,7 @@
         "tool-integration"
       ],
       "stars": 616,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -720,15 +720,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 144872,
-      "stars_checked_at": "2026-11-16",
+      "stars": 145519,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "license_spdx_id": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-11-15T20:56:20Z"
+      "pushed_at": "2026-11-18T05:25:32Z"
     },
     {
       "repository": "sickn33/agentic-awesome-skills",
@@ -742,15 +742,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 49808,
-      "stars_checked_at": "2026-11-16",
+      "stars": 50207,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
-      "description": "2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+      "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T17:12:16Z"
+      "pushed_at": "2026-11-23T21:06:36Z"
     },
     {
       "repository": "github/awesome-copilot",
@@ -764,15 +764,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 41218,
-      "stars_checked_at": "2026-11-16",
+      "stars": 41485,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T02:39:23Z"
+      "pushed_at": "2026-11-23T02:29:40Z"
     },
     {
       "repository": "VoltAgent/awesome-agent-skills",
@@ -786,8 +786,8 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 37243,
-      "stars_checked_at": "2026-11-16",
+      "stars": 37481,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -808,8 +808,8 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 30955,
-      "stars_checked_at": "2026-11-16",
+      "stars": 31046,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -830,8 +830,8 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 22581,
-      "stars_checked_at": "2026-11-16",
+      "stars": 22621,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -852,8 +852,8 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 16750,
-      "stars_checked_at": "2026-11-16",
+      "stars": 16869,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -874,8 +874,8 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 11011,
-      "stars_checked_at": "2026-11-16",
+      "stars": 11086,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -896,15 +896,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 5079,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5089,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated catalogue of awesome agentic AI patterns",
       "license_spdx_id": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-10-14T23:13:20Z"
+      "pushed_at": "2026-11-23T21:28:44Z"
     },
     {
       "repository": "kyrolabs/awesome-agents",
@@ -919,14 +919,14 @@
         "ai-agents"
       ],
       "stars": 3014,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "🤖 Awesome list of AI Agents",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-11T06:19:30Z"
+      "pushed_at": "2026-11-22T23:24:59Z"
     },
     {
       "repository": "lorien/awesome-web-scraping",
@@ -940,15 +940,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 8231,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8246,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "List of libraries, tools and APIs for web scraping and data processing.",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-11T11:56:33Z"
+      "pushed_at": "2026-11-21T06:20:04Z"
     },
     {
       "repository": "Germey/AwesomeWebScraping",
@@ -963,7 +963,7 @@
         "web-scraping"
       ],
       "stars": 266,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -984,8 +984,8 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 130,
-      "stars_checked_at": "2026-11-16",
+      "stars": 134,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1007,7 +1007,7 @@
         "web-scraping"
       ],
       "stars": 29,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1028,8 +1028,8 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 31,
-      "stars_checked_at": "2026-11-16",
+      "stars": 32,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1051,14 +1051,14 @@
         "web-scraping"
       ],
       "stars": 18,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "The definitive list of the latest libraries, tools, APIs and providers for web scraping. The only daily-updated collection of web scraping resources.",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-16T04:26:30Z"
+      "pushed_at": "2026-11-23T05:19:47Z"
     },
     {
       "repository": "edwardtay/awesome-scrapers",
@@ -1072,15 +1072,15 @@
         "data-extraction",
         "web-scraping"
       ],
-      "stars": 24,
-      "stars_checked_at": "2026-11-16",
+      "stars": 25,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "100+ web scraping tools sorted by job: AI extraction, stealth browsers, MCP servers for agents, proxies and CAPTCHA solving. Dead tools listed with what to use instead.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T14:58:51Z"
+      "pushed_at": "2026-11-23T17:31:21Z"
     },
     {
       "repository": "ipqwery/awesome-web-scraping",
@@ -1095,7 +1095,7 @@
         "web-scraping"
       ],
       "stars": 14,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1117,7 +1117,7 @@
         "web-scraping"
       ],
       "stars": 14,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1139,7 +1139,7 @@
         "web-scraping"
       ],
       "stars": 14,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1160,15 +1160,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 499582,
-      "stars_checked_at": "2026-11-16",
+      "stars": 501037,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collective list of free APIs",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-15T18:53:24Z"
+      "pushed_at": "2026-11-22T19:57:21Z"
     },
     {
       "repository": "awesomedata/awesome-public-datasets",
@@ -1182,15 +1182,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 80169,
-      "stars_checked_at": "2026-11-16",
+      "stars": 80260,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A topic-centric list of HQ open datasets.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T20:22:44Z"
+      "pushed_at": "2026-11-23T21:31:06Z"
     },
     {
       "repository": "public-api-lists/public-api-lists",
@@ -1204,8 +1204,8 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 16402,
-      "stars_checked_at": "2026-11-16",
+      "stars": 16459,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1226,15 +1226,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 9738,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9769,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A collaborative list of public APIs for developers",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T15:25:30Z"
+      "pushed_at": "2026-11-23T19:23:17Z"
     },
     {
       "repository": "bytewax/awesome-public-real-time-datasets",
@@ -1248,8 +1248,8 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 2992,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2996,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1270,15 +1270,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 641,
-      "stars_checked_at": "2026-11-16",
+      "stars": 644,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated collection of public industrial datasets.",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-16T16:04:25Z"
+      "pushed_at": "2026-11-21T12:23:29Z"
     },
     {
       "repository": "ColinEberhardt/awesome-public-streaming-datasets",
@@ -1292,15 +1292,15 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 465,
-      "stars_checked_at": "2026-11-16",
+      "stars": 464,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A list of free datasets that provide streaming data",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-03T13:48:04Z"
+      "pushed_at": "2026-11-18T10:21:22Z"
     },
     {
       "repository": "italia/awesome-italian-public-datasets",
@@ -1314,8 +1314,8 @@
         "open-data",
         "public-apis"
       ],
-      "stars": 339,
-      "stars_checked_at": "2026-11-16",
+      "stars": 337,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1337,7 +1337,7 @@
         "public-apis"
       ],
       "stars": 128,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1359,7 +1359,7 @@
         "public-apis"
       ],
       "stars": 41,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1381,8 +1381,8 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 5627,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5641,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1404,15 +1404,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 5376,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5391,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Long list of geospatial tools and resources",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-08T09:40:23Z"
+      "pushed_at": "2026-11-18T20:03:15Z"
     },
     {
       "repository": "softwareunderground/awesome-open-geoscience",
@@ -1427,15 +1427,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1886,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1888,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-05-26T11:55:08Z"
+      "pushed_at": "2026-11-18T06:19:27Z"
     },
     {
       "repository": "acgeospatial/awesome-earthobservation-code",
@@ -1450,8 +1450,8 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1391,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1392,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1473,8 +1473,8 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1260,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1259,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1496,15 +1496,15 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1251,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1250,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Community Datasets added by users and made available for use at large",
       "license_spdx_id": "CC-BY-4.0",
       "archived": false,
-      "pushed_at": "2026-11-15T19:25:45Z"
+      "pushed_at": "2026-11-22T20:25:42Z"
     },
     {
       "repository": "osmlab/awesome-openstreetmap",
@@ -1519,8 +1519,8 @@
         "maps",
         "remote-sensing"
       ],
-      "stars": 1028,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1033,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1543,7 +1543,7 @@
         "remote-sensing"
       ],
       "stars": 418,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1566,7 +1566,7 @@
         "remote-sensing"
       ],
       "stars": 115,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1589,14 +1589,14 @@
         "remote-sensing"
       ],
       "stars": 75,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "This is the repo for open source geospatial data download sites.",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-16T14:51:56Z"
+      "pushed_at": "2026-11-23T19:51:30Z"
     },
     {
       "repository": "edgi-govdata-archiving/awesome-website-change-monitoring",
@@ -1611,7 +1611,7 @@
         "website-changes"
       ],
       "stars": 515,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1633,7 +1633,7 @@
         "website-changes"
       ],
       "stars": 7,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1655,7 +1655,7 @@
         "website-changes"
       ],
       "stars": 5,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1677,7 +1677,7 @@
         "website-changes"
       ],
       "stars": 5,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1699,7 +1699,7 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1721,7 +1721,7 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1743,7 +1743,7 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1765,7 +1765,7 @@
         "website-changes"
       ],
       "stars": 1,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1787,14 +1787,14 @@
         "website-changes"
       ],
       "stars": 0,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Curated list of competitive intelligence tools, frameworks, and resources for startups and SaaS companies",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-13T15:08:41Z"
+      "pushed_at": "2026-11-20T15:11:16Z"
     },
     {
       "repository": "newlylights/awesome-competitive-intelligence",
@@ -1809,7 +1809,7 @@
         "website-changes"
       ],
       "stars": 0,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1830,8 +1830,8 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 9268,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9291,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1852,8 +1852,8 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 5183,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5185,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1874,8 +1874,8 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 3312,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3313,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1897,7 +1897,7 @@
         "knowledge-graphs"
       ],
       "stars": 1909,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1918,8 +1918,8 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 782,
-      "stars_checked_at": "2026-11-16",
+      "stars": 783,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1940,8 +1940,8 @@
         "entity-resolution",
         "knowledge-graphs"
       ],
-      "stars": 629,
-      "stars_checked_at": "2026-11-16",
+      "stars": 632,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1963,7 +1963,7 @@
         "knowledge-graphs"
       ],
       "stars": 545,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -1985,7 +1985,7 @@
         "knowledge-graphs"
       ],
       "stars": 509,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2007,7 +2007,7 @@
         "knowledge-graphs"
       ],
       "stars": 140,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2051,8 +2051,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 3026,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3030,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2074,8 +2074,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 2688,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2691,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2097,8 +2097,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 2339,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2340,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2120,8 +2120,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 2267,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2266,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2143,8 +2143,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 1636,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1635,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2166,8 +2166,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 321,
-      "stars_checked_at": "2026-11-16",
+      "stars": 320,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2189,8 +2189,8 @@
         "business-intelligence",
         "forecasting"
       ],
-      "stars": 148,
-      "stars_checked_at": "2026-11-16",
+      "stars": 149,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2213,7 +2213,7 @@
         "forecasting"
       ],
       "stars": 18,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2236,7 +2236,7 @@
         "forecasting"
       ],
       "stars": 3,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2259,7 +2259,7 @@
         "forecasting"
       ],
       "stars": 4,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2281,8 +2281,8 @@
         "ui",
         "ux"
       ],
-      "stars": 127812,
-      "stars_checked_at": "2026-11-16",
+      "stars": 128769,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2304,8 +2304,8 @@
         "ui",
         "ux"
       ],
-      "stars": 58521,
-      "stars_checked_at": "2026-11-16",
+      "stars": 58645,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2327,8 +2327,8 @@
         "ui",
         "ux"
       ],
-      "stars": 41919,
-      "stars_checked_at": "2026-11-16",
+      "stars": 42006,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2350,8 +2350,8 @@
         "ui",
         "ux"
       ],
-      "stars": 26379,
-      "stars_checked_at": "2026-11-16",
+      "stars": 26423,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2373,15 +2373,15 @@
         "ui",
         "ux"
       ],
-      "stars": 20827,
-      "stars_checked_at": "2026-11-16",
+      "stars": 20854,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome things related to shadcn/ui.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T03:14:26Z"
+      "pushed_at": "2026-11-23T03:13:58Z"
     },
     {
       "repository": "gztchan/awesome-design",
@@ -2396,8 +2396,8 @@
         "ui",
         "ux"
       ],
-      "stars": 17787,
-      "stars_checked_at": "2026-11-16",
+      "stars": 17817,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2423,8 +2423,8 @@
         "ui",
         "ux"
       ],
-      "stars": 11228,
-      "stars_checked_at": "2026-11-16",
+      "stars": 11230,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2446,8 +2446,8 @@
         "ui",
         "ux"
       ],
-      "stars": 8630,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8641,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2469,8 +2469,8 @@
         "ui",
         "ux"
       ],
-      "stars": 4590,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4672,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2492,8 +2492,8 @@
         "ui",
         "ux"
       ],
-      "stars": 3711,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3710,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2514,8 +2514,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 75306,
-      "stars_checked_at": "2026-11-16",
+      "stars": 75386,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2536,8 +2536,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 48894,
-      "stars_checked_at": "2026-11-16",
+      "stars": 48951,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2558,8 +2558,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 15237,
-      "stars_checked_at": "2026-11-16",
+      "stars": 15236,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2581,7 +2581,7 @@
         "web-development"
       ],
       "stars": 11109,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2602,8 +2602,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 10276,
-      "stars_checked_at": "2026-11-16",
+      "stars": 10284,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2624,8 +2624,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 9595,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9601,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2646,8 +2646,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 5667,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5669,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2669,7 +2669,7 @@
         "web-development"
       ],
       "stars": 1745,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2690,8 +2690,8 @@
         "interactive-experiences",
         "web-development"
       ],
-      "stars": 1287,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1286,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2713,7 +2713,7 @@
         "web-development"
       ],
       "stars": 474,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2734,8 +2734,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 61940,
-      "stars_checked_at": "2026-11-16",
+      "stars": 62014,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2756,8 +2756,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 54005,
-      "stars_checked_at": "2026-11-16",
+      "stars": 54093,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2779,7 +2779,7 @@
         "mobile"
       ],
       "stars": 35710,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2800,15 +2800,15 @@
         "desktop",
         "mobile"
       ],
-      "stars": 12464,
-      "stars_checked_at": "2026-11-16",
+      "stars": 12481,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome Android packages and resources.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-08T14:43:52Z"
+      "pushed_at": "2026-11-22T07:31:31Z"
     },
     {
       "repository": "opendigg/awesome-github-android-ui",
@@ -2822,8 +2822,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5790,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5789,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2844,8 +2844,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5533,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5532,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2867,7 +2867,7 @@
         "mobile"
       ],
       "stars": 5478,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2888,8 +2888,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 5270,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5271,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2910,8 +2910,8 @@
         "desktop",
         "mobile"
       ],
-      "stars": 3186,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3192,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -2933,15 +2933,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 335211,
-      "stars_checked_at": "2026-11-16",
+      "stars": 336689,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-16T09:51:41Z"
+      "pushed_at": "2026-11-17T10:02:01Z"
     },
     {
       "repository": "avelino/awesome-go",
@@ -2956,15 +2956,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 194251,
-      "stars_checked_at": "2026-11-16",
+      "stars": 195596,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T17:19:37Z"
+      "pushed_at": "2026-11-23T12:27:44Z"
     },
     {
       "repository": "sindresorhus/awesome-nodejs",
@@ -2979,8 +2979,8 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 67530,
-      "stars_checked_at": "2026-11-16",
+      "stars": 67620,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3002,15 +3002,15 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 60587,
-      "stars_checked_at": "2026-11-16",
+      "stars": 60760,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of Rust code and resources.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T20:13:37Z"
+      "pushed_at": "2026-11-23T17:17:26Z"
     },
     {
       "repository": "mahmoud/awesome-python-applications",
@@ -3025,8 +3025,8 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 18171,
-      "stars_checked_at": "2026-11-16",
+      "stars": 18190,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3049,7 +3049,7 @@
         "full-stack"
       ],
       "stars": 5594,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3072,7 +3072,7 @@
         "full-stack"
       ],
       "stars": 3507,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3094,8 +3094,8 @@
         "frameworks",
         "full-stack"
       ],
-      "stars": 1640,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1639,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3118,7 +3118,7 @@
         "full-stack"
       ],
       "stars": 33,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3141,7 +3141,7 @@
         "full-stack"
       ],
       "stars": 8,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3163,15 +3163,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 74840,
-      "stars_checked_at": "2026-11-16",
+      "stars": 74895,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-12T19:27:12Z"
+      "pushed_at": "2026-11-23T20:06:32Z"
     },
     {
       "repository": "Hannibal046/Awesome-LLM",
@@ -3186,8 +3186,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 27501,
-      "stars_checked_at": "2026-11-16",
+      "stars": 27516,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3209,8 +3209,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 22785,
-      "stars_checked_at": "2026-11-16",
+      "stars": 22781,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3232,8 +3232,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 21109,
-      "stars_checked_at": "2026-11-16",
+      "stars": 21126,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3255,15 +3255,15 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 9086,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9103,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
       "license_spdx_id": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-11-14T14:18:17Z"
+      "pushed_at": "2026-11-21T14:09:02Z"
     },
     {
       "repository": "tensorchord/Awesome-LLMOps",
@@ -3278,8 +3278,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 5980,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5982,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3301,8 +3301,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 2688,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2685,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3324,8 +3324,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 1664,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1662,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3347,8 +3347,8 @@
         "model-evaluation",
         "rag"
       ],
-      "stars": 1374,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1371,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3369,8 +3369,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 30298,
-      "stars_checked_at": "2026-11-16",
+      "stars": 30383,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3391,15 +3391,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 12835,
-      "stars_checked_at": "2026-11-16",
+      "stars": 12858,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of modern Generative Artificial Intelligence projects and services",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-10-30T17:31:48Z"
+      "pushed_at": "2026-11-20T12:16:34Z"
     },
     {
       "repository": "ai-collection/ai-collection",
@@ -3413,15 +3413,15 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 9287,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9289,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-04T08:56:45Z"
+      "pushed_at": "2026-11-20T22:51:04Z"
     },
     {
       "repository": "JimmyLv/awesome-nano-banana",
@@ -3435,8 +3435,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 8791,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8789,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3457,8 +3457,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 5844,
-      "stars_checked_at": "2026-11-16",
+      "stars": 5852,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3479,8 +3479,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 3575,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3576,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3501,8 +3501,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 1822,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1821,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3523,8 +3523,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 745,
-      "stars_checked_at": "2026-11-16",
+      "stars": 746,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3545,8 +3545,8 @@
         "generative-ai",
         "image-video"
       ],
-      "stars": 788,
-      "stars_checked_at": "2026-11-16",
+      "stars": 821,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3568,7 +3568,7 @@
         "image-video"
       ],
       "stars": 105,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3591,7 +3591,7 @@
         "voice"
       ],
       "stars": 3133,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3613,8 +3613,8 @@
         "speech",
         "voice"
       ],
-      "stars": 2434,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2437,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3636,8 +3636,8 @@
         "speech",
         "voice"
       ],
-      "stars": 1885,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1883,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3660,7 +3660,7 @@
         "voice"
       ],
       "stars": 1254,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3683,7 +3683,7 @@
         "voice"
       ],
       "stars": 842,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3705,8 +3705,8 @@
         "speech",
         "voice"
       ],
-      "stars": 566,
-      "stars_checked_at": "2026-11-16",
+      "stars": 565,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3729,7 +3729,7 @@
         "voice"
       ],
       "stars": 410,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3752,7 +3752,7 @@
         "voice"
       ],
       "stars": 294,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3775,7 +3775,7 @@
         "voice"
       ],
       "stars": 49,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3798,7 +3798,7 @@
         "voice"
       ],
       "stars": 23,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3819,8 +3819,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 26440,
-      "stars_checked_at": "2026-11-16",
+      "stars": 26543,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3841,8 +3841,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 7226,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7232,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3863,8 +3863,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 3005,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3010,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3885,8 +3885,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 2891,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2895,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3907,8 +3907,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 1270,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1272,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3930,7 +3930,7 @@
         "workflows"
       ],
       "stars": 1233,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3951,8 +3951,8 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 1013,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1014,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -3973,15 +3973,15 @@
         "orchestration",
         "workflows"
       ],
-      "stars": 658,
-      "stars_checked_at": "2026-11-16",
+      "stars": 660,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Curated list of awesome browser automation tools and resources",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-12T15:04:02Z"
+      "pushed_at": "2026-11-23T09:01:52Z"
     },
     {
       "repository": "felipfr/awesome-n8n-workflows",
@@ -3996,7 +3996,7 @@
         "workflows"
       ],
       "stars": 416,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4018,7 +4018,7 @@
         "workflows"
       ],
       "stars": 89,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4039,8 +4039,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 12189,
-      "stars_checked_at": "2026-11-16",
+      "stars": 12197,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4061,8 +4061,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 11264,
-      "stars_checked_at": "2026-11-16",
+      "stars": 11275,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4083,8 +4083,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 4465,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4466,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4105,8 +4105,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 2741,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2743,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4127,8 +4127,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 1419,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1418,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4150,7 +4150,7 @@
         "visualization"
       ],
       "stars": 889,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4172,7 +4172,7 @@
         "visualization"
       ],
       "stars": 214,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4194,7 +4194,7 @@
         "visualization"
       ],
       "stars": 214,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4215,8 +4215,8 @@
         "databases",
         "visualization"
       ],
-      "stars": 21,
-      "stars_checked_at": "2026-11-16",
+      "stars": 20,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4238,7 +4238,7 @@
         "visualization"
       ],
       "stars": 15,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4259,8 +4259,8 @@
         "fintech",
         "payments"
       ],
-      "stars": 637,
-      "stars_checked_at": "2026-11-16",
+      "stars": 639,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4282,7 +4282,7 @@
         "payments"
       ],
       "stars": 549,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4304,7 +4304,7 @@
         "payments"
       ],
       "stars": 468,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4325,15 +4325,15 @@
         "fintech",
         "payments"
       ],
-      "stars": 458,
-      "stars_checked_at": "2026-11-16",
+      "stars": 461,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of tools and resources for Amazon sellers.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-09T06:11:03Z"
+      "pushed_at": "2026-11-23T06:10:57Z"
     },
     {
       "repository": "lukecav/awesome-woocommerce",
@@ -4347,8 +4347,8 @@
         "fintech",
         "payments"
       ],
-      "stars": 448,
-      "stars_checked_at": "2026-11-16",
+      "stars": 447,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4370,7 +4370,7 @@
         "payments"
       ],
       "stars": 444,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4391,8 +4391,8 @@
         "fintech",
         "payments"
       ],
-      "stars": 134,
-      "stars_checked_at": "2026-11-16",
+      "stars": 135,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4414,7 +4414,7 @@
         "payments"
       ],
       "stars": 78,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4436,7 +4436,7 @@
         "payments"
       ],
       "stars": 72,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4457,8 +4457,8 @@
         "fintech",
         "payments"
       ],
-      "stars": 66,
-      "stars_checked_at": "2026-11-16",
+      "stars": 53,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4479,8 +4479,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 8448,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8520,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4501,8 +4501,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 7227,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7258,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4523,8 +4523,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 2860,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2877,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4545,8 +4545,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 1156,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1163,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4567,8 +4567,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 892,
-      "stars_checked_at": "2026-11-16",
+      "stars": 895,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4578,8 +4578,8 @@
       "pushed_at": "2026-10-31T19:22:48Z"
     },
     {
-      "repository": "marketingtoolslist/awesome-marketing",
-      "url": "https://github.com/marketingtoolslist/awesome-marketing",
+      "repository": "bestofmarketing/awesome-marketing",
+      "url": "https://github.com/bestofmarketing/awesome-marketing",
       "primary_category": "Marketing, growth & creator infrastructure",
       "categories": [
         "Marketing, growth & creator infrastructure"
@@ -4589,8 +4589,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 508,
-      "stars_checked_at": "2026-11-16",
+      "stars": 512,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4612,7 +4612,7 @@
         "marketing"
       ],
       "stars": 420,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4633,8 +4633,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 327,
-      "stars_checked_at": "2026-11-16",
+      "stars": 328,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4655,8 +4655,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 325,
-      "stars_checked_at": "2026-11-16",
+      "stars": 326,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4677,8 +4677,8 @@
         "growth",
         "marketing"
       ],
-      "stars": 142,
-      "stars_checked_at": "2026-11-16",
+      "stars": 145,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4699,15 +4699,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 337681,
-      "stars_checked_at": "2026-11-16",
+      "stars": 339845,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-16T20:18:49Z"
+      "pushed_at": "2026-11-22T15:24:53Z"
     },
     {
       "repository": "trimstray/the-book-of-secret-knowledge",
@@ -4721,8 +4721,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 258985,
-      "stars_checked_at": "2026-11-16",
+      "stars": 260806,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4743,8 +4743,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 75802,
-      "stars_checked_at": "2026-11-16",
+      "stars": 75986,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4765,8 +4765,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 35728,
-      "stars_checked_at": "2026-11-16",
+      "stars": 35804,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4788,7 +4788,7 @@
         "selfhosting"
       ],
       "stars": 16144,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4809,8 +4809,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 14299,
-      "stars_checked_at": "2026-11-16",
+      "stars": 14307,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4831,8 +4831,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 13783,
-      "stars_checked_at": "2026-11-16",
+      "stars": 13796,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4853,15 +4853,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 4457,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4468,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T06:13:57Z"
+      "pushed_at": "2026-11-23T06:13:40Z"
     },
     {
       "repository": "ligurio/awesome-ci",
@@ -4875,8 +4875,8 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 4182,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4190,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4897,15 +4897,15 @@
         "devops",
         "selfhosting"
       ],
-      "stars": 2555,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2557,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list for awesome cloud native tools, software and tutorials.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T06:12:13Z"
+      "pushed_at": "2026-11-23T10:18:03Z"
     },
     {
       "repository": "Hack-with-Github/Awesome-Hacking",
@@ -4920,8 +4920,8 @@
         "security",
         "testing"
       ],
-      "stars": 125739,
-      "stars_checked_at": "2026-11-16",
+      "stars": 126370,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4943,8 +4943,8 @@
         "security",
         "testing"
       ],
-      "stars": 20308,
-      "stars_checked_at": "2026-11-16",
+      "stars": 20357,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4966,8 +4966,8 @@
         "security",
         "testing"
       ],
-      "stars": 15115,
-      "stars_checked_at": "2026-11-16",
+      "stars": 15149,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -4989,8 +4989,8 @@
         "security",
         "testing"
       ],
-      "stars": 14060,
-      "stars_checked_at": "2026-11-16",
+      "stars": 14092,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5012,8 +5012,8 @@
         "security",
         "testing"
       ],
-      "stars": 10870,
-      "stars_checked_at": "2026-11-16",
+      "stars": 10893,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5035,8 +5035,8 @@
         "security",
         "testing"
       ],
-      "stars": 10084,
-      "stars_checked_at": "2026-11-16",
+      "stars": 10126,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5058,8 +5058,8 @@
         "security",
         "testing"
       ],
-      "stars": 9572,
-      "stars_checked_at": "2026-11-16",
+      "stars": 9603,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5081,8 +5081,8 @@
         "security",
         "testing"
       ],
-      "stars": 7142,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7157,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5104,15 +5104,15 @@
         "security",
         "testing"
       ],
-      "stars": 2327,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2331,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "👤 Identity and Access Management knowledge for cloud platforms",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T12:59:12Z"
+      "pushed_at": "2026-11-23T15:03:48Z"
     },
     {
       "repository": "pomerium/awesome-zero-trust",
@@ -5127,8 +5127,8 @@
         "security",
         "testing"
       ],
-      "stars": 777,
-      "stars_checked_at": "2026-11-16",
+      "stars": 776,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5149,8 +5149,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 18948,
-      "stars_checked_at": "2026-11-16",
+      "stars": 18947,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5171,8 +5171,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 10901,
-      "stars_checked_at": "2026-11-16",
+      "stars": 10903,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5194,7 +5194,7 @@
         "web3"
       ],
       "stars": 3781,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5215,8 +5215,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 2831,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2833,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5237,8 +5237,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1672,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1673,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5259,8 +5259,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1486,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1485,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5281,8 +5281,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1424,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1420,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5303,8 +5303,8 @@
         "decentralization",
         "web3"
       ],
-      "stars": 1023,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1024,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5326,14 +5326,14 @@
         "web3"
       ],
       "stars": 909,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T11:22:36Z"
+      "pushed_at": "2026-11-23T14:45:46Z"
     },
     {
       "repository": "Mikerah/awesome-foundations-of-DeFi",
@@ -5348,7 +5348,7 @@
         "web3"
       ],
       "stars": 230,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5369,15 +5369,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 17792,
-      "stars_checked_at": "2026-11-16",
+      "stars": 17857,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T18:48:20Z"
+      "pushed_at": "2026-11-23T17:30:32Z"
     },
     {
       "repository": "RyanNielson/awesome-unity",
@@ -5391,8 +5391,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 7088,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7084,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5413,8 +5413,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 9139,
-      "stars_checked_at": "2026-11-16",
+      "stars": 10585,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5435,15 +5435,15 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 4552,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4556,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
       "license_spdx_id": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-11-16T16:28:21Z"
+      "pushed_at": "2026-11-19T22:28:32Z"
     },
     {
       "repository": "baba-s/awesome-unity-open-source-on-github",
@@ -5457,8 +5457,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 4483,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4487,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5479,8 +5479,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 3612,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3623,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5501,8 +5501,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 3225,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3234,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5523,8 +5523,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 1451,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1454,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5545,8 +5545,8 @@
         "simulation",
         "spatial-computing"
       ],
-      "stars": 1365,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1366,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5568,7 +5568,7 @@
         "spatial-computing"
       ],
       "stars": 571,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5590,8 +5590,8 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 8198,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8211,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5613,8 +5613,8 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 7314,
-      "stars_checked_at": "2026-11-16",
+      "stars": 7320,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5636,15 +5636,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 4633,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4634,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T08:05:47Z"
+      "pushed_at": "2026-11-23T09:14:39Z"
     },
     {
       "repository": "GT-RIPL/Awesome-LLM-Robotics",
@@ -5659,8 +5659,8 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 4505,
-      "stars_checked_at": "2026-11-16",
+      "stars": 4504,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5682,15 +5682,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 3113,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3121,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": ":sunglasses: A curated list of robotics libraries and software",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T18:05:42Z"
+      "pushed_at": "2026-11-23T08:19:14Z"
     },
     {
       "repository": "YanjieZe/awesome-humanoid-robot-learning",
@@ -5705,15 +5705,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 2901,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2909,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A Paper List for Humanoid Robot Learning.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T13:10:26Z"
+      "pushed_at": "2026-11-23T13:00:36Z"
     },
     {
       "repository": "fkromer/awesome-ros2",
@@ -5751,15 +5751,15 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 1923,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1926,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
       "license_spdx_id": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-11-14T01:28:45Z"
+      "pushed_at": "2026-11-23T05:59:17Z"
     },
     {
       "repository": "mjyc/awesome-robotics-projects",
@@ -5774,8 +5774,8 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 1841,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1844,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5797,8 +5797,8 @@
         "physical-ai",
         "robotics"
       ],
-      "stars": 1807,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1890,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5819,15 +5819,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 30337,
-      "stars_checked_at": "2026-11-16",
+      "stars": 30364,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T11:48:42Z"
+      "pushed_at": "2026-11-20T13:39:38Z"
     },
     {
       "repository": "wowlusitong/awesome-education",
@@ -5841,8 +5841,8 @@
         "industry-tools",
         "science"
       ],
-      "stars": 2210,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2214,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5863,15 +5863,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 2097,
-      "stars_checked_at": "2026-11-16",
+      "stars": 2115,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
       "license_spdx_id": "MIT",
       "archived": false,
-      "pushed_at": "2026-11-16T08:38:22Z"
+      "pushed_at": "2026-11-23T08:34:17Z"
     },
     {
       "repository": "yrgo/awesome-educational-games",
@@ -5886,7 +5886,7 @@
         "science"
       ],
       "stars": 1208,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5907,8 +5907,8 @@
         "industry-tools",
         "science"
       ],
-      "stars": 913,
-      "stars_checked_at": "2026-11-16",
+      "stars": 914,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5929,8 +5929,8 @@
         "industry-tools",
         "science"
       ],
-      "stars": 909,
-      "stars_checked_at": "2026-11-16",
+      "stars": 908,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5951,15 +5951,15 @@
         "industry-tools",
         "science"
       ],
-      "stars": 772,
-      "stars_checked_at": "2026-11-16",
+      "stars": 779,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-05T20:48:33Z"
+      "pushed_at": "2026-11-17T19:26:49Z"
     },
     {
       "repository": "fffaraz/awesome-courses",
@@ -5973,8 +5973,8 @@
         "industry-tools",
         "science"
       ],
-      "stars": 425,
-      "stars_checked_at": "2026-11-16",
+      "stars": 426,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -5996,7 +5996,7 @@
         "science"
       ],
       "stars": 225,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6018,7 +6018,7 @@
         "science"
       ],
       "stars": 219,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6039,8 +6039,8 @@
         "documentation",
         "productivity"
       ],
-      "stars": 537942,
-      "stars_checked_at": "2026-11-16",
+      "stars": 541623,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6061,15 +6061,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 58153,
-      "stars_checked_at": "2026-11-16",
+      "stars": 58674,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "license_spdx_id": "NOASSERTION",
       "archived": false,
-      "pushed_at": "2026-11-16T18:07:57Z"
+      "pushed_at": "2026-11-23T21:05:27Z"
     },
     {
       "repository": "agarrharr/awesome-cli-apps",
@@ -6083,8 +6083,8 @@
         "documentation",
         "productivity"
       ],
-      "stars": 20628,
-      "stars_checked_at": "2026-11-16",
+      "stars": 20654,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6106,7 +6106,7 @@
         "productivity"
       ],
       "stars": 4000,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6127,8 +6127,8 @@
         "documentation",
         "productivity"
       ],
-      "stars": 3330,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3332,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6149,8 +6149,8 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1895,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1898,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6171,8 +6171,8 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1695,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1704,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6193,15 +6193,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1483,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1498,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. ",
       "license_spdx_id": null,
       "archived": false,
-      "pushed_at": "2026-11-16T17:42:27Z"
+      "pushed_at": "2026-11-23T19:43:03Z"
     },
     {
       "repository": "ml-tooling/best-of-python-dev",
@@ -6215,15 +6215,15 @@
         "documentation",
         "productivity"
       ],
-      "stars": 1321,
-      "stars_checked_at": "2026-11-16",
+      "stars": 1320,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
       "license_spdx_id": "CC-BY-SA-4.0",
       "archived": false,
-      "pushed_at": "2026-11-12T21:45:14Z"
+      "pushed_at": "2026-11-20T15:43:21Z"
     },
     {
       "repository": "devtoolsd/awesome-devtools",
@@ -6238,7 +6238,7 @@
         "productivity"
       ],
       "stars": 692,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": false,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6259,8 +6259,8 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 1,
-      "stars_checked_at": "2026-11-16",
+      "stars": 3,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6281,15 +6281,15 @@
         "mcp",
         "tool-integration"
       ],
-      "stars": 115,
-      "stars_checked_at": "2026-11-16",
+      "stars": 164,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T17:49:17Z"
+      "pushed_at": "2026-11-23T21:09:05Z"
     },
     {
       "repository": "ianwieds/awesome-ai-agents",
@@ -6303,15 +6303,15 @@
         "agent-skills",
         "ai-agents"
       ],
-      "stars": 7,
-      "stars_checked_at": "2026-11-16",
+      "stars": 8,
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-16T01:03:58Z"
+      "pushed_at": "2026-11-23T01:01:52Z"
     },
     {
       "repository": "korchasa/awesome-ai-agents",
@@ -6326,14 +6326,14 @@
         "ai-agents"
       ],
       "stars": 47,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
       "description": "This curated list focuses on tools and frameworks for building AI agents",
       "license_spdx_id": "CC0-1.0",
       "archived": false,
-      "pushed_at": "2026-11-09T18:12:06Z"
+      "pushed_at": "2026-11-23T04:37:05Z"
     },
     {
       "repository": "jasonniebauer/awesome-public-data-sources",
@@ -6348,7 +6348,7 @@
         "public-apis"
       ],
       "stars": 3,
-      "stars_checked_at": "2026-11-16",
+      "stars_checked_at": "2026-11-23",
       "original_screenshot": true,
       "source_kind": "external-curated-collection",
       "review_status": "linked-not-audited",
@@ -6358,5 +6358,5 @@
       "pushed_at": "2026-03-29T22:40:53Z"
     }
   ],
-  "metadata_refreshed_at": "2026-11-16T20:36:49+00:00"
+  "metadata_refreshed_at": "2026-11-23T22:08:40+00:00"
 }
